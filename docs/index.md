@@ -5,17 +5,25 @@ layout: default
 ## Updated on 2025.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
-## SLAM
+## Integrable system
 
-## SFM
+## Exact solution
 
-## Visual Localization
+## Conserved charges
 
-## Keypoint Detection
+## Yang-Baxter equations
 
-## Image Matching
+## Bethe ansatz
 
-## NeRF
+## 2d integrable model
+
+## quantum integrable field theory
+
+## spin chain
+
+## Non-equilibrium
+
+
 
 
 

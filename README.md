@@ -13,27 +13,39 @@
   </ol>
 </details>
 
-## SLAM
+## Integrable system
 
 <p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
 
-## SFM
+## Exact solution
 
 <p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
 
-## Visual Localization
+## Conserved charges
 
 <p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
 
-## Keypoint Detection
+## Yang-Baxter equations
 
 <p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
 
-## Image Matching
+## Bethe ansatz
 
 <p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
 
-## NeRF
+## 2d integrable model
+
+<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+
+## quantum integrable field theory
+
+<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+
+## spin chain
+
+<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+
+## Non-equilibrium
 
 <p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
 
