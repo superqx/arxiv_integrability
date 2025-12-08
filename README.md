@@ -4,7 +4,6 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#slam>SLAM</a></li>
     <li><a href=#integrable-system>Integrable system</a></li>
     <li><a href=#exact-solution>Exact solution</a></li>
     <li><a href=#conserved-charges>Conserved charges</a></li>
