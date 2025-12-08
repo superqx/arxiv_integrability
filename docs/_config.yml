@@ -1,10 +1,10 @@
-title: CV Arxiv Daily
-description: Automatically Update CV Papers Daily using Github Actions (Update Every 8th hours)
-show_downloads: true
+title: Integrability Arxiv Daily
+description: Automatically Update integrability Papers Daily using Github Actions
+show_downloads: false
 
-github:
-  zip_url: https://github.com/Vincentqyw/cv-arxiv-daily
-  another_url: https://github.com/Vincentqyw/cv-arxiv-daily
+# github:
+#  zip_url: https://github.com/superqx/arxiv_integrability
+#  another_url: https://github.com/superqx/arxiv_integrability
 
 ## add remote theme
 remote_theme: jekyll/minima@v2.5.1
@@ -19,3 +19,14 @@ plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one
  - jekyll-feed
  - jekyll-seo-tag
+
+# Defaults to apply front matter to specific pages
+
+defaults:
+
+  - scope:
+    path: ""       # empty string means the root (all pages)
+    type: "pages"  # applies to pages (not posts)
+    values:
+      layout: default
+      title: Integrability Arxiv Daily
