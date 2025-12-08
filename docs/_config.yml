@@ -10,10 +10,10 @@ show_downloads: false
 remote_theme: jekyll/minima@v2.5.1
 
 # minima:
-skin: dark
-social_links:
-  twitter: AlphaRealcat
-  github: vincentqyw
+#skin: dark
+#social_links:
+#  twitter: AlphaRealcat
+#  github: vincentqyw
 
 plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one
