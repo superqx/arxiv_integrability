@@ -5,13 +5,6 @@ layout: default
 ## Updated on 2025.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
-## SLAM
-
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-28**|**Image Valuation in NeRF-based 3D reconstruction**|Grigorios Aris Cheimariotis et.al.|[2511.23052](http://arxiv.org/abs/2511.23052)|null|
-|**2021-10-14**|**Active SLAM over Continuous Trajectory and Control: A Covariance-Feedback Approach**|Shumon Koga et.al.|[2110.07546](http://arxiv.org/abs/2110.07546)|null|
-
 ## Integrable system
 
 | Publish Date | Title | Authors | PDF | Code |
