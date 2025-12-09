@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><br><ins>Int-ARXIV-DAILY</ins><br>Automatically Update CV Papers Daily using Github Actions</h1>
+  <h1 align="center"><br><ins>Int-ARXIV-DAILY</ins><br>Automatically Update Int Papers Daily using Github Actions</h1>
  
 </p>
 
@@ -7,7 +7,7 @@
 
 ##
 
-This repository hosts the source code for cv-arxiv-daily, an useful sripts to fetch arxiv paper daily. 
+This repository hosts the source code for int-arxiv-daily, an useful sripts to fetch arxiv paper daily. 
 
 ## Overview
 
