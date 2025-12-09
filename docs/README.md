@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><br><ins>CV-ARXIV-DAILY</ins><br>Automatically Update CV Papers Daily using Github Actions</h1>
+  <h1 align="center"><br><ins>Int-ARXIV-DAILY</ins><br>Automatically Update CV Papers Daily using Github Actions</h1>
  
 </p>
 
