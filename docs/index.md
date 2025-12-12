@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.12.11
+## Updated on 2025.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**OnCoCo 1.0: A Public Dataset for Fine-Grained Message Classification in Online Counseling Conversations**|Jens Albrecht et.al.|[2512.09804](http://arxiv.org/abs/2512.09804)|null|
+|**2025-12-10**|**Burgers equation from non-thermal stationary states in nearly-integrable gases**|Paweł Lisiak et.al.|[2512.09726](http://arxiv.org/abs/2512.09726)|null|
+|**2025-12-09**|**Integrality of Picard-Fuchs differential equations of Kobayashi geodesics and applications**|Gabriele Bogo et.al.|[2512.09188](http://arxiv.org/abs/2512.09188)|null|
 |**2025-12-08**|**Hirota-tau and Heun-function framework for Dirac vacuum polarization and quantum stabilization of kinks**|Harold Blas et.al.|[2512.07658](http://arxiv.org/abs/2512.07658)|null|
 |**2025-12-09**|**TrajMoE: Scene-Adaptive Trajectory Planning with Mixture of Experts and Reinforcement Learning**|Zebin Xing et.al.|[2512.07135](http://arxiv.org/abs/2512.07135)|null|
 |**2025-12-07**|**A Patient-Doctor-NLP-System to contest inequality for less privileged**|Subrit Dikshit et.al.|[2512.06734](http://arxiv.org/abs/2512.06734)|null|
@@ -34,6 +37,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**Black Hole Thermodynamics without Black Hole Solutions**|Meng-Nan Yang et.al.|[2512.09930](http://arxiv.org/abs/2512.09930)|null|
+|**2025-12-10**|**Fractional calculus approach to models of adsorption: Barrier-diffusion control**|Ivan Bazhlekov et.al.|[2512.09426](http://arxiv.org/abs/2512.09426)|null|
+|**2025-12-09**|**Islands of Instability in Nonlinear Wavefunction Models in the Continuum: A Different Route to "Chaos"**|W. David Wick et.al.|[2512.09109](http://arxiv.org/abs/2512.09109)|null|
 |**2025-12-09**|**Dubrovin duality for open Hurwitz flat F-manifolds**|Alessandro Proserpio et.al.|[2512.08795](http://arxiv.org/abs/2512.08795)|null|
 |**2025-12-09**|**Diffusion and relaxation of topological excitations in layered spin liquids**|Aprem P. Joy et.al.|[2512.08712](http://arxiv.org/abs/2512.08712)|null|
 |**2025-12-09**|**Stretching and breaking of particles in compressible random flows**|Dipankar Roy et.al.|[2512.08632](http://arxiv.org/abs/2512.08632)|null|
@@ -174,6 +180,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**Superconductivity and geometric superfluid weight of a tunable flat band system**|M. A. Mojarro et.al.|[2512.09901](http://arxiv.org/abs/2512.09901)|null|
 |**2025-12-09**|**Dominant Excitonic Superconductivity in a Three-component Hubbard Chain**|Sheng Chen et.al.|[2512.08784](http://arxiv.org/abs/2512.08784)|null|
 |**2025-12-08**|**Is disorder a friend or a foe to melting of Wigner-Mott insulators?**|Mohammed Hammam et.al.|[2512.07932](http://arxiv.org/abs/2512.07932)|null|
 |**2025-12-08**|**On the Role of the Canonical Transformation in the Single-Channel Kondo Model**|Zehra Özcan et.al.|[2512.07465](http://arxiv.org/abs/2512.07465)|null|
@@ -195,6 +202,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**An ETH-ansatz-based environmental-branch approach to master equation**|Wen-ge Wang et.al.|[2512.09007](http://arxiv.org/abs/2512.09007)|null|
 |**2025-12-07**|**Statistical structural properties of many-body chaotic eigenfunctions and applications**|Wen-ge Wang et.al.|[2512.07016](http://arxiv.org/abs/2512.07016)|null|
 |**2025-12-05**|**Nuclear spin quenching of the $^2S_{1/2}\rightarrow {^2}F_{7/2} $ electric octupole transition in $^{173}$Yb$^+$**|Jialiang Yu et.al.|[2512.05872](http://arxiv.org/abs/2512.05872)|null|
 |**2025-12-04**|**Quantum open system description of a hybrid plasmonic cavity**|Marco Vallone et.al.|[2512.05174](http://arxiv.org/abs/2512.05174)|null|
