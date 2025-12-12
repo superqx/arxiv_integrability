@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Algebraic approach to the inverse spectral problem for rational matrices**|Marco Bertola et.al.|[2512.10468](http://arxiv.org/abs/2512.10468)|null|
+|**2025-12-11**|**Differential Privacy for Secure Machine Learning in Healthcare IoT-Cloud Systems**|N Mangala et.al.|[2512.10426](http://arxiv.org/abs/2512.10426)|null|
+|**2025-12-10**|**Degree growth of skew pentagram maps**|Max Weinreich et.al.|[2512.10062](http://arxiv.org/abs/2512.10062)|null|
 |**2025-12-10**|**OnCoCo 1.0: A Public Dataset for Fine-Grained Message Classification in Online Counseling Conversations**|Jens Albrecht et.al.|[2512.09804](http://arxiv.org/abs/2512.09804)|null|
 |**2025-12-10**|**Burgers equation from non-thermal stationary states in nearly-integrable gases**|Paweł Lisiak et.al.|[2512.09726](http://arxiv.org/abs/2512.09726)|null|
 |**2025-12-09**|**Integrality of Picard-Fuchs differential equations of Kobayashi geodesics and applications**|Gabriele Bogo et.al.|[2512.09188](http://arxiv.org/abs/2512.09188)|null|
@@ -37,6 +40,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Quantization of massive Dirac neutrinos in external fields**|Maxim Dvornikov et.al.|[2512.10587](http://arxiv.org/abs/2512.10587)|null|
+|**2025-12-11**|**Ising on the donut: Regimes of topological quantum error correction from statistical mechanics**|Lucas H. English et.al.|[2512.10399](http://arxiv.org/abs/2512.10399)|null|
+|**2025-12-11**|**Fast projection onto the top-k-sum constraint**|Jianting Pan et.al.|[2512.10255](http://arxiv.org/abs/2512.10255)|null|
+|**2025-12-09**|**Exact solution for a quantum SIR model**|Márcia Lemos-Silva et.al.|[2512.09951](http://arxiv.org/abs/2512.09951)|null|
 |**2025-12-10**|**Black Hole Thermodynamics without Black Hole Solutions**|Meng-Nan Yang et.al.|[2512.09930](http://arxiv.org/abs/2512.09930)|null|
 |**2025-12-10**|**Fractional calculus approach to models of adsorption: Barrier-diffusion control**|Ivan Bazhlekov et.al.|[2512.09426](http://arxiv.org/abs/2512.09426)|null|
 |**2025-12-09**|**Islands of Instability in Nonlinear Wavefunction Models in the Continuum: A Different Route to "Chaos"**|W. David Wick et.al.|[2512.09109](http://arxiv.org/abs/2512.09109)|null|
@@ -169,7 +176,7 @@ layout: default
 |**2025-07-01**|**On Chaos in QFT**|Jacob Sonnenschein et.al.|[2506.10784](http://arxiv.org/abs/2506.10784)|null|
 |**2025-06-04**|**Exchange relations and crossing**|Sergey Frolov et.al.|[2506.04096](http://arxiv.org/abs/2506.04096)|null|
 |**2025-07-18**|**Thermodynamics of integrable N=2 theories, squared**|Xavier Kervyn et.al.|[2502.10356](http://arxiv.org/abs/2502.10356)|null|
-|**2025-06-26**|**Demystifying integrable QFTs in AdS: No-go theorems for higher-spin charges**|António Antunes et.al.|[2502.06937](http://arxiv.org/abs/2502.06937)|null|
+|**2025-12-11**|**Demystifying integrable QFTs in AdS: No-go theorems for higher-spin charges**|António Antunes et.al.|[2502.06937](http://arxiv.org/abs/2502.06937)|null|
 |**2024-08-14**|**3D Gaussian Editing with A Single Image**|Guan Luo et.al.|[2408.07540](http://arxiv.org/abs/2408.07540)|null|
 |**2024-07-18**|**Vacuum energy density from the form factor bootstrap**|André LeClair et.al.|[2407.10692](http://arxiv.org/abs/2407.10692)|null|
 |**2024-06-13**|**Finite-size generators for weak integrability breaking perturbations in the Heisenberg chain**|Sara Vanovac et.al.|[2406.08730](http://arxiv.org/abs/2406.08730)|null|
@@ -180,6 +187,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Binding of holes and competing spin-charge order in simple and extended Hubbard model on cylindrical lattice: An exact diagonalization study**|Md Fahad Equbal et.al.|[2512.10577](http://arxiv.org/abs/2512.10577)|null|
+|**2025-12-11**|**Electronic structure, orbital-dependent renormalizations, and magnetic correlations in double-layer La $_3$Ni$_2$O$_7$ under doping tuning**|I. V. Leonov et.al.|[2512.10527](http://arxiv.org/abs/2512.10527)|null|
+|**2025-12-10**|**Gutzwiller approximation for paramagnetic ionic Hubbard model: Analytic expression for band - Mott insulator transition**|Marcin M. Wysokiński et.al.|[2512.10096](http://arxiv.org/abs/2512.10096)|null|
 |**2025-12-10**|**Superconductivity and geometric superfluid weight of a tunable flat band system**|M. A. Mojarro et.al.|[2512.09901](http://arxiv.org/abs/2512.09901)|null|
 |**2025-12-09**|**Dominant Excitonic Superconductivity in a Three-component Hubbard Chain**|Sheng Chen et.al.|[2512.08784](http://arxiv.org/abs/2512.08784)|null|
 |**2025-12-08**|**Is disorder a friend or a foe to melting of Wigner-Mott insulators?**|Mohammed Hammam et.al.|[2512.07932](http://arxiv.org/abs/2512.07932)|null|
