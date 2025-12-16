@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**Igusa Stack for some expectional Shimura Varieties**|Ali Partofard et.al.|[2512.13649](http://arxiv.org/abs/2512.13649)|null|
+|**2025-12-15**|**Quantum Integrability of Hamiltonians with Time-Dependent Interaction Strengths and the Renormalization Group Flow**|Parameshwar R. Pasnoori et.al.|[2512.13625](http://arxiv.org/abs/2512.13625)|null|
+|**2025-12-15**|**Tropical KP Theory on Banana Curves**|Simonetta Abenda et.al.|[2512.13366](http://arxiv.org/abs/2512.13366)|null|
+|**2025-12-15**|**Generic regularity and Lipschitz metric for a two-component Novikov system**|Kenneth H. Karlsen et.al.|[2512.13305](http://arxiv.org/abs/2512.13305)|null|
+|**2025-12-14**|**Beyond Task Completion: An Assessment Framework for Evaluating Agentic AI Systems**|Sreemaee Akshathala et.al.|[2512.12791](http://arxiv.org/abs/2512.12791)|null|
+|**2025-12-14**|**Intelligent Scientific Literature Explorer using Machine Learning (ISLE)**|Sina Jani et.al.|[2512.12760](http://arxiv.org/abs/2512.12760)|null|
+|**2025-12-14**|**Enhancing GHSL Population Grids Using Hexagon KH-9 Built-up Data: Refining 1970s Rural and Peri-Urban Distributions in Istanbul**|Petrus J. Gerrits et.al.|[2512.12527](http://arxiv.org/abs/2512.12527)|null|
 |**2025-12-12**|**Symmetry-protected topological scar subspaces**|Chihiro Matsui et.al.|[2512.11216](http://arxiv.org/abs/2512.11216)|null|
 |**2025-12-11**|**Algebraic approach to the inverse spectral problem for rational matrices**|Marco Bertola et.al.|[2512.10468](http://arxiv.org/abs/2512.10468)|null|
 |**2025-12-11**|**Differential Privacy for Secure Machine Learning in Healthcare IoT-Cloud Systems**|N Mangala et.al.|[2512.10426](http://arxiv.org/abs/2512.10426)|null|
@@ -41,6 +48,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**Quantum Integrability of Hamiltonians with Time-Dependent Interaction Strengths and the Renormalization Group Flow**|Parameshwar R. Pasnoori et.al.|[2512.13625](http://arxiv.org/abs/2512.13625)|null|
+|**2025-12-15**|**Flow topology classification of limit cycles**|Thomas Mutschler et.al.|[2512.13553](http://arxiv.org/abs/2512.13553)|null|
+|**2025-12-15**|**Autoregressive Neural Network Extrapolation of Quantum Spin Dynamics Across Time and Space**|Hubert Pugzlys et.al.|[2512.13103](http://arxiv.org/abs/2512.13103)|null|
+|**2025-12-15**|**Conservation laws of nonlinear PDEs arising in elasticity and acoustics in Cartesian, cylindrical, and spherical geometries**|Willy Hereman et.al.|[2512.13062](http://arxiv.org/abs/2512.13062)|null|
+|**2025-12-14**|**Hyperbolic equations with fifth-order symmetries**|Rustem N. Garifullin et.al.|[2512.12789](http://arxiv.org/abs/2512.12789)|null|
+|**2025-12-14**|**Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics**|Jingdi Lei et.al.|[2512.12602](http://arxiv.org/abs/2512.12602)|null|
+|**2025-12-13**|**Perfect state transfer in inhomogeneous XX model of q-Racah type**|Nicolas Crampe et.al.|[2512.12419](http://arxiv.org/abs/2512.12419)|null|
+|**2025-12-13**|**Diagrammatics in the Dual Space, or There and Back Again**|Evgeny A. Stepanov et.al.|[2512.12389](http://arxiv.org/abs/2512.12389)|null|
+|**2025-12-13**|**Linear Superposition of Quadratic Functions in a Fifth Order KdV-Type Equation**|Avinash Khare et.al.|[2512.12173](http://arxiv.org/abs/2512.12173)|null|
+|**2025-12-13**|**Some Novel Aspects of the Plane Pendulum in Classical Mechanics**|Avinash Khare et.al.|[2512.12169](http://arxiv.org/abs/2512.12169)|null|
 |**2025-12-12**|**Gravitational Foundations and Exact Solutions in $n$ --Dimensional Fractional Cosmology**|S. M. M. Rasouli et.al.|[2512.11583](http://arxiv.org/abs/2512.11583)|null|
 |**2025-12-12**|**Three methods, one problem: Classical and AI approaches to no-three-in-line**|Pranav Ramanathan et.al.|[2512.11469](http://arxiv.org/abs/2512.11469)|null|
 |**2025-12-11**|**Quadratic Poisson brackets for the Camassa--Holm peakons**|J. Avan et.al.|[2512.11066](http://arxiv.org/abs/2512.11066)|null|
@@ -143,6 +160,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**Local controllability in finite time and the controllable time of the Korteweg-De Vries equation using the right Neumann controls**|Hoai-Minh Nguyen et.al.|[2512.13066](http://arxiv.org/abs/2512.13066)|null|
 |**2025-12-12**|**Near-critical Ising, sine-Gordon at the free fermion point, and bosonization**|S. C. Park et.al.|[2512.11304](http://arxiv.org/abs/2512.11304)|null|
 |**2025-12-08**|**Nonreciprocity-Enabled Chiral Stability of Nonlinear Waves**|Wen-Rong Sun et.al.|[2512.08092](http://arxiv.org/abs/2512.08092)|null|
 |**2025-12-06**|**Solitons in Quasi-Neutral non-Equilibrated Plasmas**|Zhe Zhu et.al.|[2512.06291](http://arxiv.org/abs/2512.06291)|null|
@@ -192,6 +210,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**Quantum Integrability of Hamiltonians with Time-Dependent Interaction Strengths and the Renormalization Group Flow**|Parameshwar R. Pasnoori et.al.|[2512.13625](http://arxiv.org/abs/2512.13625)|null|
+|**2025-12-15**|**Magnetic order and novel quantum criticality in the strongly interacting quasicrystals**|Cong Zhang et.al.|[2512.13546](http://arxiv.org/abs/2512.13546)|null|
+|**2025-12-15**|**Probing ground-state degeneracies of a strongly interacting Fermi-Hubbard model with superconducting correlations**|Sebastiaan L. D. ten Haaf et.al.|[2512.13242](http://arxiv.org/abs/2512.13242)|null|
+|**2025-12-15**|**Imaginary-time-enhanced feedback-based quantum algorithms for universal ground-state preparation**|Thanh Nguyen Van Long et.al.|[2512.13044](http://arxiv.org/abs/2512.13044)|null|
 |**2025-12-12**|**Learning Minimal Representations of Fermionic Ground States**|Felix Frohnert et.al.|[2512.11767](http://arxiv.org/abs/2512.11767)|null|
 |**2025-12-12**|**Stability and complexity of global iterative solvers for the Kadanoff-Baym equations**|Jože Gašperlin et.al.|[2512.11371](http://arxiv.org/abs/2512.11371)|null|
 |**2025-12-12**|**Spatiotemporal scales of dynamical quantum phase transitions in the Bose-Hubbard model**|Jia Li et.al.|[2512.11314](http://arxiv.org/abs/2512.11314)|null|
@@ -221,6 +243,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**Eigenstate Typicality as the Dynamical Bridge to the Eigenstate Thermalization Hypothesis: A Derivation from Entropy, Geometry, and Locality**|Yucheng Wang et.al.|[2512.13348](http://arxiv.org/abs/2512.13348)|null|
 |**2025-12-12**|**Equilibration and the Eigenstate Thermalization Hypothesis as Limits to Observing Macroscopic Quantum Superpositions**|Gabriel Dias Carvalho et.al.|[2512.11522](http://arxiv.org/abs/2512.11522)|null|
 |**2025-12-09**|**An ETH-ansatz-based environmental-branch approach to master equation**|Wen-ge Wang et.al.|[2512.09007](http://arxiv.org/abs/2512.09007)|null|
 |**2025-12-07**|**Statistical structural properties of many-body chaotic eigenfunctions and applications**|Wen-ge Wang et.al.|[2512.07016](http://arxiv.org/abs/2512.07016)|null|
