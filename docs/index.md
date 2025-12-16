@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.12
+## Updated on 2025.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Symmetry-protected topological scar subspaces**|Chihiro Matsui et.al.|[2512.11216](http://arxiv.org/abs/2512.11216)|null|
 |**2025-12-11**|**Algebraic approach to the inverse spectral problem for rational matrices**|Marco Bertola et.al.|[2512.10468](http://arxiv.org/abs/2512.10468)|null|
 |**2025-12-11**|**Differential Privacy for Secure Machine Learning in Healthcare IoT-Cloud Systems**|N Mangala et.al.|[2512.10426](http://arxiv.org/abs/2512.10426)|null|
 |**2025-12-10**|**Degree growth of skew pentagram maps**|Max Weinreich et.al.|[2512.10062](http://arxiv.org/abs/2512.10062)|null|
@@ -40,6 +41,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Gravitational Foundations and Exact Solutions in $n$ --Dimensional Fractional Cosmology**|S. M. M. Rasouli et.al.|[2512.11583](http://arxiv.org/abs/2512.11583)|null|
+|**2025-12-12**|**Three methods, one problem: Classical and AI approaches to no-three-in-line**|Pranav Ramanathan et.al.|[2512.11469](http://arxiv.org/abs/2512.11469)|null|
+|**2025-12-11**|**Quadratic Poisson brackets for the Camassa--Holm peakons**|J. Avan et.al.|[2512.11066](http://arxiv.org/abs/2512.11066)|null|
 |**2025-12-11**|**Quantization of massive Dirac neutrinos in external fields**|Maxim Dvornikov et.al.|[2512.10587](http://arxiv.org/abs/2512.10587)|null|
 |**2025-12-11**|**Ising on the donut: Regimes of topological quantum error correction from statistical mechanics**|Lucas H. English et.al.|[2512.10399](http://arxiv.org/abs/2512.10399)|null|
 |**2025-12-11**|**Fast projection onto the top-k-sum constraint**|Jianting Pan et.al.|[2512.10255](http://arxiv.org/abs/2512.10255)|null|
@@ -132,13 +136,14 @@ layout: default
 |**2025-10-08**|**TBA and wall-crossing for deformed supersymmetric quantum mechanics**|Katsushi Ito et.al.|[2510.06956](http://arxiv.org/abs/2510.06956)|null|
 |**2025-09-17**|**Full counting statistics for twisted XXX spin chains**|S. Belliard et.al.|[2509.13928](http://arxiv.org/abs/2509.13928)|null|
 |**2025-10-29**|**Quantum-group-invariant $D^{(2)}_{n+1}$ models: Bethe ansatz and finite-size spectrum**|Holger Frahm et.al.|[2509.00610](http://arxiv.org/abs/2509.00610)|null|
-|**2025-08-26**|**Contact 4d Chern-Simons theory: Generalities**|David M. Schmidtt et.al.|[2508.19375](http://arxiv.org/abs/2508.19375)|null|
+|**2025-12-11**|**Contact 4d Chern-Simons theory: Generalities**|David M. Schmidtt et.al.|[2508.19375](http://arxiv.org/abs/2508.19375)|null|
 |**2025-07-30**|**2D CFT and efficient Bethe ansatz for exactly solvable Richardson-Gaudin models**|Grzegorz Biskowski et.al.|[2507.22734](http://arxiv.org/abs/2507.22734)|null|
 
 ## 2d integrable model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Near-critical Ising, sine-Gordon at the free fermion point, and bosonization**|S. C. Park et.al.|[2512.11304](http://arxiv.org/abs/2512.11304)|null|
 |**2025-12-08**|**Nonreciprocity-Enabled Chiral Stability of Nonlinear Waves**|Wen-Rong Sun et.al.|[2512.08092](http://arxiv.org/abs/2512.08092)|null|
 |**2025-12-06**|**Solitons in Quasi-Neutral non-Equilibrated Plasmas**|Zhe Zhu et.al.|[2512.06291](http://arxiv.org/abs/2512.06291)|null|
 |**2025-12-05**|**On the Virasoro Crossing Kernels at Rational Central Charge**|Julien Roussillon et.al.|[2512.03172](http://arxiv.org/abs/2512.03172)|null|
@@ -187,9 +192,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Learning Minimal Representations of Fermionic Ground States**|Felix Frohnert et.al.|[2512.11767](http://arxiv.org/abs/2512.11767)|null|
+|**2025-12-12**|**Stability and complexity of global iterative solvers for the Kadanoff-Baym equations**|Jože Gašperlin et.al.|[2512.11371](http://arxiv.org/abs/2512.11371)|null|
+|**2025-12-12**|**Spatiotemporal scales of dynamical quantum phase transitions in the Bose-Hubbard model**|Jia Li et.al.|[2512.11314](http://arxiv.org/abs/2512.11314)|null|
+|**2025-12-12**|**Multiloop functional renormalization group from single bosons**|Kilian Fraboulet et.al.|[2512.11190](http://arxiv.org/abs/2512.11190)|null|
 |**2025-12-11**|**Binding of holes and competing spin-charge order in simple and extended Hubbard model on cylindrical lattice: An exact diagonalization study**|Md Fahad Equbal et.al.|[2512.10577](http://arxiv.org/abs/2512.10577)|null|
 |**2025-12-11**|**Electronic structure, orbital-dependent renormalizations, and magnetic correlations in double-layer La $_3$Ni$_2$O$_7$ under doping tuning**|I. V. Leonov et.al.|[2512.10527](http://arxiv.org/abs/2512.10527)|null|
-|**2025-12-10**|**Gutzwiller approximation for paramagnetic ionic Hubbard model: Analytic expression for band - Mott insulator transition**|Marcin M. Wysokiński et.al.|[2512.10096](http://arxiv.org/abs/2512.10096)|null|
+|**2025-12-10**|**Gutzwiller approximation for paramagnetic ionic Hubbard model: Analytic expression for band-Mott insulator transition**|Marcin M. Wysokiński et.al.|[2512.10096](http://arxiv.org/abs/2512.10096)|null|
 |**2025-12-10**|**Superconductivity and geometric superfluid weight of a tunable flat band system**|M. A. Mojarro et.al.|[2512.09901](http://arxiv.org/abs/2512.09901)|null|
 |**2025-12-09**|**Dominant Excitonic Superconductivity in a Three-component Hubbard Chain**|Sheng Chen et.al.|[2512.08784](http://arxiv.org/abs/2512.08784)|null|
 |**2025-12-08**|**Is disorder a friend or a foe to melting of Wigner-Mott insulators?**|Mohammed Hammam et.al.|[2512.07932](http://arxiv.org/abs/2512.07932)|null|
@@ -212,6 +221,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Equilibration and the Eigenstate Thermalization Hypothesis as Limits to Observing Macroscopic Quantum Superpositions**|Gabriel Dias Carvalho et.al.|[2512.11522](http://arxiv.org/abs/2512.11522)|null|
 |**2025-12-09**|**An ETH-ansatz-based environmental-branch approach to master equation**|Wen-ge Wang et.al.|[2512.09007](http://arxiv.org/abs/2512.09007)|null|
 |**2025-12-07**|**Statistical structural properties of many-body chaotic eigenfunctions and applications**|Wen-ge Wang et.al.|[2512.07016](http://arxiv.org/abs/2512.07016)|null|
 |**2025-12-05**|**Nuclear spin quenching of the $^2S_{1/2}\rightarrow {^2}F_{7/2} $ electric octupole transition in $^{173}$Yb$^+$**|Jialiang Yu et.al.|[2512.05872](http://arxiv.org/abs/2512.05872)|null|
