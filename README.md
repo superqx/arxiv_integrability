@@ -1,4 +1,4 @@
-## Updated on 2025.12.17
+## Updated on 2025.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,12 +24,22 @@
 |**2025-11-28**|**Image Valuation in NeRF-based 3D reconstruction**|Grigorios Aris Cheimariotis et.al.|[2511.23052](http://arxiv.org/abs/2511.23052)|null|
 |**2021-10-14**|**Active SLAM over Continuous Trajectory and Control: A Covariance-Feedback Approach**|Shumon Koga et.al.|[2110.07546](http://arxiv.org/abs/2110.07546)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## Integrable system
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**Curvature atlas II: geometric classification of integrable rigid-body regimes**|Evgeny A. Mityushov et.al.|[2512.16592](http://arxiv.org/abs/2512.16592)|null|
+|**2025-12-18**|**Rota-Baxter operators on braces, post-braces and the Yang-Baxter equation**|Li Guo et.al.|[2512.16116](http://arxiv.org/abs/2512.16116)|null|
+|**2025-12-17**|**Solvable Quantum Circuits from Spacetime Lattices**|Michael A. Rampp et.al.|[2512.15871](http://arxiv.org/abs/2512.15871)|null|
+|**2025-12-17**|**High-Dimensional Partial Least Squares: Spectral Analysis and Fundamental Limitations**|Victor Léger et.al.|[2512.15684](http://arxiv.org/abs/2512.15684)|null|
+|**2025-12-17**|**Integrable models from 4d holomorphic BF theory**|Lewis T. Cole et.al.|[2512.15566](http://arxiv.org/abs/2512.15566)|null|
+|**2025-12-17**|**Intent-Driven UAM Rescheduling**|Jeongseok Kim et.al.|[2512.15462](http://arxiv.org/abs/2512.15462)|null|
+|**2025-12-18**|**A Data-Enhanced Agent-Based Model for Simulating 3D Cancer Spheroid Growth: Integrating Metabolism and Mechanics**|Pedro Garcia-Gomez et.al.|[2512.15361](http://arxiv.org/abs/2512.15361)|null|
+|**2025-12-18**|**Beyond Majority Voting: Towards Fine-grained and More Reliable Reward Signal for Test-Time Reinforcement Learning**|Weiqin Wang et.al.|[2512.15146](http://arxiv.org/abs/2512.15146)|null|
+|**2025-12-17**|**Modeling of Collisional Outcomes Based on Impact Simulations of Mars-sized Bodies**|Hiroshi Kobayashi et.al.|[2512.15136](http://arxiv.org/abs/2512.15136)|null|
+|**2025-12-17**|**On Two Dimensional Flat Hessian Potentials**|Hanwen Liu et.al.|[2512.15079](http://arxiv.org/abs/2512.15079)|null|
 |**2025-12-16**|**Interfacing adaptive optics simulations with the optical model: a powerful tool for MORFEO**|Giorgio Pariani et.al.|[2512.14523](http://arxiv.org/abs/2512.14523)|null|
 |**2025-12-16**|**Leveraging Plasmonic Nanocavity Arrays Forming Metasurfaces to Boost Second Harmonic Generation due to Surface Effects**|Sky Semone et.al.|[2512.14459](http://arxiv.org/abs/2512.14459)|null|
 |**2025-12-16**|**Curvature-driver d.dynamics on $S^3$ : a geometric atlas**|Evgeny A. Mityushov et.al.|[2512.14164](http://arxiv.org/abs/2512.14164)|null|
@@ -69,12 +79,22 @@
 |**2025-12-05**|**YOLO and SGBM Integration for Autonomous Tree Branch Detection and Depth Estimation in Radiata Pine Pruning Applications**|Yida Lin et.al.|[2512.05412](http://arxiv.org/abs/2512.05412)|null|
 |**2025-12-04**|**Engagement in Code Review: Emotional, Behavioral, and Cognitive Dimensions in Peer vs. LLM Interactions**|Adam Alami et.al.|[2512.05309](http://arxiv.org/abs/2512.05309)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## Exact solution
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**Two-dimensional coherent spectroscopy of CoNb $_2$O$_6$**|Yoshito Watanabe et.al.|[2512.16829](http://arxiv.org/abs/2512.16829)|null|
+|**2025-12-18**|**Curvature atlas II: geometric classification of integrable rigid-body regimes**|Evgeny A. Mityushov et.al.|[2512.16592](http://arxiv.org/abs/2512.16592)|null|
+|**2025-12-18**|**Rationally-extended radial harmonic oscillator in a position-dependent mass background**|Christiane Quesne et.al.|[2512.16510](http://arxiv.org/abs/2512.16510)|null|
+|**2025-12-18**|**Lie symmetry classification and exact solutions of a diffusive Lotka-Volterra system with convection**|Roman Cherniha et.al.|[2512.16258](http://arxiv.org/abs/2512.16258)|null|
+|**2025-12-18**|**Adiabatic Anisotropic Gravitational Collapse in Painlevé-Gullstrand Coordinates: A Geometric Analysis**|G. Abellán et.al.|[2512.16104](http://arxiv.org/abs/2512.16104)|null|
+|**2025-12-18**|**Frequency Extraction from Invariant Flows**|Derong Xu et.al.|[2512.16060](http://arxiv.org/abs/2512.16060)|null|
+|**2025-12-17**|**Entropy-production fluctuation theorem for a generalized Langevin particle in crossed electric and magnetic fields**|L. C. González-Morales et.al.|[2512.16026](http://arxiv.org/abs/2512.16026)|null|
+|**2025-12-17**|**Solvable Quantum Circuits from Spacetime Lattices**|Michael A. Rampp et.al.|[2512.15871](http://arxiv.org/abs/2512.15871)|null|
+|**2025-12-17**|**BiHom-Lie brackets and the Toda equation**|Botong Gai et.al.|[2512.15523](http://arxiv.org/abs/2512.15523)|null|
+|**2025-12-17**|**Liouvillian integrability of vector fields in higher dimensions**|Waleed Aziz et.al.|[2512.15522](http://arxiv.org/abs/2512.15522)|null|
 |**2025-12-16**|**Polynomial vector fields in $\mathbb{C}^\infty$ determining differentiation of hyperelliptic functions of any genus**|E. Yu. Bunkova et.al.|[2512.14605](http://arxiv.org/abs/2512.14605)|null|
 |**2025-12-16**|**Gravitational charges and radiation in asymptotically locally de Sitter spacetimes**|Aaron Poole et.al.|[2512.14243](http://arxiv.org/abs/2512.14243)|null|
 |**2025-12-16**|**An Efficient Algorithm for Tensor Learning**|Leonard Schmitz et.al.|[2512.14218](http://arxiv.org/abs/2512.14218)|null|
@@ -124,7 +144,7 @@
 |**2025-12-04**|**Exactly Solvable Population Model with Square-Root Growth Noise and Cell-Size Regulation**|Farshid Jafarpour et.al.|[2512.05190](http://arxiv.org/abs/2512.05190)|null|
 |**2025-12-04**|**Geophysical intensity problems: the axisymmetric case**|Ralf Kaiser et.al.|[2512.05010](http://arxiv.org/abs/2512.05010)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## Conserved charges
 
@@ -147,7 +167,7 @@
 |**2025-10-18**|**Multi-Soliton Propagation and Interaction in $Λ$ -Type EIT Media: An Integrable Approach**|Ramesh Kumar Vaduganathan et.al.|[2510.16364](http://arxiv.org/abs/2510.16364)|null|
 |**2025-10-06**|**Quasi-integrability from PT-symmetry**|Kumar Abhinav et.al.|[2510.05065](http://arxiv.org/abs/2510.05065)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## Yang-Baxter equation
 
@@ -174,7 +194,7 @@
 |**2025-10-27**|**A general fusion procedure for open $\mathfrak{gl}(N)$ spin chains: Application to the ABJM spin chain**|Nan Bai et.al.|[2507.19394](http://arxiv.org/abs/2507.19394)|null|
 |**2025-07-21**|**One-point functions in AdS/dCFT: MPS and twisted Yangian**|Xin Qian et.al.|[2507.15462](http://arxiv.org/abs/2507.15462)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## Bethe ansatz
 
@@ -188,7 +208,7 @@
 |**2025-10-29**|**NLIE formulations for the generalized Gibbs ensemble in the sine-Gordon model**|Arpad Hegedus et.al.|[2510.25344](http://arxiv.org/abs/2510.25344)|null|
 |**2025-10-24**|**Quantum Difference Equations for Grassmannians**|Xingyu Cheng et.al.|[2510.21653](http://arxiv.org/abs/2510.21653)|null|
 |**2025-10-23**|**Kondo breakdown induced by the non-Hermitian complex hybridization**|Kazuki Yamamoto et.al.|[2510.20186](http://arxiv.org/abs/2510.20186)|null|
-|**2025-10-20**|**Classification of Zamolodchikov periodic cluster algebras**|Ariana Chin et.al.|[2510.18031](http://arxiv.org/abs/2510.18031)|null|
+|**2025-12-18**|**Classification of Zamolodchikov periodic cluster algebras**|Ariana Chin et.al.|[2510.18031](http://arxiv.org/abs/2510.18031)|null|
 |**2025-10-16**|**Quantum Knizhnik-Zamolodchikov Equations and Integrability of Quantum Field Theories with Time-dependent Interaction Strength**|Parameshwar R. Pasnoori et.al.|[2510.14764](http://arxiv.org/abs/2510.14764)|null|
 |**2025-10-15**|**Scattering in the dual regime of Yang-Baxter deformed O(2N) sigma models**|Alexey Bychkov et.al.|[2510.11429](http://arxiv.org/abs/2510.11429)|null|
 |**2025-10-08**|**TBA and wall-crossing for deformed supersymmetric quantum mechanics**|Katsushi Ito et.al.|[2510.06956](http://arxiv.org/abs/2510.06956)|null|
@@ -197,7 +217,7 @@
 |**2025-12-11**|**Contact 4d Chern-Simons theory: Generalities**|David M. Schmidtt et.al.|[2508.19375](http://arxiv.org/abs/2508.19375)|null|
 |**2025-07-30**|**2D CFT and efficient Bethe ansatz for exactly solvable Richardson-Gaudin models**|Grzegorz Biskowski et.al.|[2507.22734](http://arxiv.org/abs/2507.22734)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## 2d integrable model
 
@@ -225,7 +245,7 @@
 |**2025-11-17**|**Full range of infinite point blow-up exponents for the critical generalized KdV equation**|Nailya Manatova et.al.|[2511.13538](http://arxiv.org/abs/2511.13538)|null|
 |**2025-11-17**|**Tunneling in multi-site mesoscopic quantum Hall circuits**|D. B. Karki et.al.|[2511.12933](http://arxiv.org/abs/2511.12933)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## quantum integrable field theory
 
@@ -252,12 +272,15 @@
 |**2025-03-06**|**Landscapes of integrable long-range spin chains**|Rob Klabbers et.al.|[2405.09718](http://arxiv.org/abs/2405.09718)|null|
 |**2024-04-02**|**Thermodynamic formulation of vacuum energy density in flat spacetime and potential implications for the cosmological constant**|André LeClair et.al.|[2404.02350](http://arxiv.org/abs/2404.02350)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## spin chain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**Strain-Controlled Magnetic Phase Transitions through Anisotropic Exchange Interactions: A Combined DFT and Monte Carlo Study**|Sudip Mandal et.al.|[2512.16765](http://arxiv.org/abs/2512.16765)|null|
+|**2025-12-18**|**Interfacial Strain Modulated Correlated Plasmons in La1.85Sr0.15CuO4 and Their Role in High-temperature Superconductivity**|Xiongfang Liu et.al.|[2512.16417](http://arxiv.org/abs/2512.16417)|null|
+|**2025-12-17**|**Functional renormalization group for extremely correlated electrons**|Jonas Arnold et.al.|[2512.15437](http://arxiv.org/abs/2512.15437)|null|
 |**2025-12-16**|**Impact of nonlocal spatial correlations for different lattice geometries**|Marvin Leusch et.al.|[2512.14396](http://arxiv.org/abs/2512.14396)|null|
 |**2025-12-16**|**Spin-fluctuation-mediated chiral $d+id'$-wave superconductivity in the $α$-$\mathcal{T}_3$ lattice with an incipient flat band**|Masataka Kakoi et.al.|[2512.14379](http://arxiv.org/abs/2512.14379)|null|
 |**2025-12-15**|**Conservation laws and chaos propagation in a non-reciprocal classical magnet**|Nisarg Bhatt et.al.|[2512.13873](http://arxiv.org/abs/2512.13873)|null|
@@ -290,12 +313,13 @@
 |**2025-12-02**|**Phase diagram of the one-dimensional three-state Potts model with an additional mean-field interaction**|Alessandro Campa et.al.|[2512.02930](http://arxiv.org/abs/2512.02930)|null|
 |**2025-12-02**|**Reaching Sachdev-Ye-Kitaev physics by shaking the Hubbard model**|Charles Creffield et.al.|[2512.02755](http://arxiv.org/abs/2512.02755)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## Non-equilibrium
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**Noise-Induced Thermalization in Quantum Systems**|Sameer Dambal et.al.|[2512.14842](http://arxiv.org/abs/2512.14842)|null|
 |**2025-12-15**|**Eigenstate Typicality as the Dynamical Bridge to the Eigenstate Thermalization Hypothesis: A Derivation from Entropy, Geometry, and Locality**|Yucheng Wang et.al.|[2512.13348](http://arxiv.org/abs/2512.13348)|null|
 |**2025-12-12**|**Equilibration and the Eigenstate Thermalization Hypothesis as Limits to Observing Macroscopic Quantum Superpositions**|Gabriel Dias Carvalho et.al.|[2512.11522](http://arxiv.org/abs/2512.11522)|null|
 |**2025-12-09**|**An ETH-ansatz-based environmental-branch approach to master equation**|Wen-ge Wang et.al.|[2512.09007](http://arxiv.org/abs/2512.09007)|null|
@@ -320,5 +344,5 @@
 |**2025-10-29**|**Spatially Structured Entanglement from Nonequilibrium Thermal Pure States**|Chen Bai et.al.|[2510.25868](http://arxiv.org/abs/2510.25868)|null|
 |**2025-10-29**|**Conformal Blocks in 2d Carrollian/Galilean CFTs and Excited State Entanglement Entropy**|Peng-Xiang Hao et.al.|[2510.25688](http://arxiv.org/abs/2510.25688)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
