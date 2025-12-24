@@ -12,8 +12,26 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
 
+base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
+
+def create_session():
+    session = requests.Session()
+    retry_strategy = Retry(
+        total=3,
+        backoff_factor=2,
+        status_forcelist=[429, 500, 502, 503, 504],
+    )
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
+    
+    # Add user agent to avoid blocking
+    session.headers.update({
+        'User-Agent': 'Mozilla/5.0 (compatible; ArXiv-Daily-Collector/1.0; +https://github.com/your-username/your-repo)'
+    })
+    return session
 
 def load_config(config_file:str) -> dict:
     '''
