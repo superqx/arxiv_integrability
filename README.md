@@ -1,4 +1,7 @@
+A fork of code by [Vincentqyw](https://github.com/vincentqyw), also refers to [Zhian Jia](https://github.com/polyidoit).
+
 ## Updated on 2025.12.23
+
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
