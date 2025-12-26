@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.12.24
+## Updated on 2025.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Transcriptome-Conditioned Personalized De Novo Drug Generation for AML Using Metaheuristic Assembly and Target-Driven Filtering**|Abdullah G. Elafifi et.al.|[2512.21301](http://arxiv.org/abs/2512.21301)|null|
+|**2025-12-24**|**Integral modelling of weakly evaporating 3D liquid film with variable substrate heating**|Fabio Pino et.al.|[2512.21299](http://arxiv.org/abs/2512.21299)|null|
+|**2025-12-23**|**Virtual volumes of strata of meromorphic differentials with simple poles**|Adrien Sauvaget et.al.|[2512.20819](http://arxiv.org/abs/2512.20819)|null|
 |**2025-12-23**|**Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography**|Songze Li et.al.|[2512.20168](http://arxiv.org/abs/2512.20168)|null|
 |**2025-12-22**|**Finite-gap potentials as a semiclassical limit of the thermodynamic Bethe Ansatz**|Valdemar Melin et.al.|[2512.19655](http://arxiv.org/abs/2512.19655)|null|
 |**2025-12-22**|**Structure Functions for small DIS $x$**|Hrachya M. Babujian et.al.|[2512.19555](http://arxiv.org/abs/2512.19555)|null|
@@ -34,6 +37,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Bridging Microscopic Constructions and Continuum Topological Field Theory of Three-Dimensional Non-Abelian Topological Order**|Yizhou Huang et.al.|[2512.21148](http://arxiv.org/abs/2512.21148)|null|
+|**2025-12-24**|**Competing magnetic and topological orders in the spin-1 Kitaev-Heisenberg chain with single-ion anisotropy**|Sahinur Reja et.al.|[2512.20912](http://arxiv.org/abs/2512.20912)|null|
+|**2025-12-22**|**Fast and Exact Least Absolute Deviations Line Fitting via Piecewise Affine Lower-Bounding**|Stefan Volz et.al.|[2512.20682](http://arxiv.org/abs/2512.20682)|null|
 |**2025-12-23**|**Integrable perturbation theory for dark solitons of the defocusing nonlinear Schrödinger equation**|Nicholas J. Ossi et.al.|[2512.20585](http://arxiv.org/abs/2512.20585)|null|
 |**2025-12-23**|**Critical Hermitian matrix model with external source and Boussinesq hierarchy**|Dong Wang et.al.|[2512.20343](http://arxiv.org/abs/2512.20343)|null|
 |**2025-12-23**|**Exact Solution of Schrödinger equation for Complex Mass Quantum System under Complex Morse Potential to study emergent matter types and its phases**|Partha Sarathi et.al.|[2512.20318](http://arxiv.org/abs/2512.20318)|null|
@@ -71,7 +77,7 @@ layout: default
 |**2025-12-04**|**Banach Poisson-Lie groups, Lax equations and the AKS theorem in infinite dimensions**|Tomasz Goliński et.al.|[2511.02107](http://arxiv.org/abs/2511.02107)|null|
 |**2025-10-31**|**On the well-posedness of the intermediate nonlinear Schrödinger equation on the line**|Andreia Chapouto et.al.|[2511.00302](http://arxiv.org/abs/2511.00302)|null|
 |**2025-10-31**|**Nonisospectral deformations of noncommutative Laurent biorthogonal polynomials and matrix discrete Painlevé-type equations**|Dan Dai et.al.|[2510.27402](http://arxiv.org/abs/2510.27402)|null|
-|**2025-10-30**|**On formulation of the NQC variable**|Leilei Shi et.al.|[2510.26327](http://arxiv.org/abs/2510.26327)|null|
+|**2025-12-24**|**On the formulation of the NQC variable**|Leilei Shi et.al.|[2510.26327](http://arxiv.org/abs/2510.26327)|null|
 |**2025-10-25**|**Long-time behaviors of the two-component nonlinear Klein-Gordon equation: higher-order asymptotics**|Deng-Shan Wang et.al.|[2510.22188](http://arxiv.org/abs/2510.22188)|null|
 |**2025-10-18**|**Multi-Soliton Propagation and Interaction in $Λ$ -Type EIT Media: An Integrable Approach**|Ramesh Kumar Vaduganathan et.al.|[2510.16364](http://arxiv.org/abs/2510.16364)|null|
 |**2025-10-06**|**Quasi-integrability from PT-symmetry**|Kumar Abhinav et.al.|[2510.05065](http://arxiv.org/abs/2510.05065)|null|
@@ -90,7 +96,7 @@ layout: default
 |**2025-12-01**|**Bayesian inferences on covariant density functionals from multimessenger astrophysical data: The influences of parametrizations of density dependent couplings**|Guo-Jun Wei et.al.|[2512.01503](http://arxiv.org/abs/2512.01503)|null|
 |**2025-12-01**|**Fourier Neural Operators Explained: A Practical Perspective**|Valentin Duruisseaux et.al.|[2512.01421](http://arxiv.org/abs/2512.01421)|null|
 |**2025-12-01**|**Analysis of $H \to J/ψ+γ$ up to Next-to-Next-to-Leading Order QCD Corrections**|Wen-Yuan Li et.al.|[2512.01211](http://arxiv.org/abs/2512.01211)|null|
-|**2025-11-30**|**Freidel-Maillet type equations on fused K-matrices over the positive part of $U_q(\widehat{\mathfrak{sl}}_2)$**|Chenwei Ruan et.al.|[2512.00819](http://arxiv.org/abs/2512.00819)|null|
+|**2025-12-24**|**Freidel-Maillet type equations on fused K-matrices over the positive part of $U_q(\widehat{\mathfrak{sl}}_2)$**|Chenwei Ruan et.al.|[2512.00819](http://arxiv.org/abs/2512.00819)|null|
 |**2025-10-31**|**Boundary Integrability from the Fuzzy Three Sphere**|Tamas Gombor et.al.|[2510.27463](http://arxiv.org/abs/2510.27463)|null|
 |**2025-10-10**|**Reciprocal relations for orthogonal quantum matrices**|Pavel Pyatov et.al.|[2510.09811](http://arxiv.org/abs/2510.09811)|null|
 |**2025-11-22**|**Boundary reflection matrices of massive $φ_{1,3}$ -perturbed unitary minimal models**|Zoltan Bajnok et.al.|[2509.04286](http://arxiv.org/abs/2509.04286)|null|
@@ -201,6 +207,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Universality of equilibration dynamics after quantum quenches**|Vincenzo Alba et.al.|[2512.21313](http://arxiv.org/abs/2512.21313)|null|
 |**2025-12-19**|**Quantum quenches across continuous and first-order quantum transitions in one-dimensional quantum Ising models**|Andrea Pelissetto et.al.|[2512.17333](http://arxiv.org/abs/2512.17333)|null|
 |**2025-12-16**|**Noise-Induced Thermalization in Quantum Systems**|Sameer Dambal et.al.|[2512.14842](http://arxiv.org/abs/2512.14842)|null|
 |**2025-12-21**|**Deriving the Eigenstate Thermalization Hypothesis from Eigenstate Typicality and Kinematic Principles**|Yucheng Wang et.al.|[2512.13348](http://arxiv.org/abs/2512.13348)|null|
