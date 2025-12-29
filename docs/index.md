@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.12.26
+## Updated on 2025.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**Lax pairs for BKM hierarchy**|Andrey Yu. Konyaev et.al.|[2512.22064](http://arxiv.org/abs/2512.22064)|null|
+|**2025-12-26**|**Relating auxiliary field formulations of $4d$ duality-invariant and $2d$ integrable field theories**|Nicola Baglioni et.al.|[2512.21982](http://arxiv.org/abs/2512.21982)|null|
 |**2025-12-24**|**Transcriptome-Conditioned Personalized De Novo Drug Generation for AML Using Metaheuristic Assembly and Target-Driven Filtering**|Abdullah G. Elafifi et.al.|[2512.21301](http://arxiv.org/abs/2512.21301)|null|
 |**2025-12-24**|**Integral modelling of weakly evaporating 3D liquid film with variable substrate heating**|Fabio Pino et.al.|[2512.21299](http://arxiv.org/abs/2512.21299)|null|
 |**2025-12-23**|**Virtual volumes of strata of meromorphic differentials with simple poles**|Adrien Sauvaget et.al.|[2512.20819](http://arxiv.org/abs/2512.20819)|null|
@@ -37,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**Lax pairs for BKM hierarchy**|Andrey Yu. Konyaev et.al.|[2512.22064](http://arxiv.org/abs/2512.22064)|null|
+|**2025-12-26**|**Solutions of 3D Reflection Equation from Quantum Cluster Algebra Associated with Symmetric Butterfly Quiver**|Rei Inoue et.al.|[2512.22004](http://arxiv.org/abs/2512.22004)|null|
+|**2025-12-26**|**Quantum Breakdown Condensate as a Disorder-Free Quantum Glass**|Yu-Min Hu et.al.|[2512.21847](http://arxiv.org/abs/2512.21847)|null|
+|**2025-12-26**|**Large-time asymptotics for the defocusing Manakov system on nonzero background**|Xianguo Geng et.al.|[2512.21841](http://arxiv.org/abs/2512.21841)|null|
+|**2025-12-24**|**Isoperiodic deformations of Toda curves and chains, the difference Korteweg - de Vries equation, and $SU(N)$ Seiberg-Witten theories**|Vladimir Dragović et.al.|[2512.21441](http://arxiv.org/abs/2512.21441)|null|
 |**2025-12-24**|**Bridging Microscopic Constructions and Continuum Topological Field Theory of Three-Dimensional Non-Abelian Topological Order**|Yizhou Huang et.al.|[2512.21148](http://arxiv.org/abs/2512.21148)|null|
 |**2025-12-24**|**Competing magnetic and topological orders in the spin-1 Kitaev-Heisenberg chain with single-ion anisotropy**|Sahinur Reja et.al.|[2512.20912](http://arxiv.org/abs/2512.20912)|null|
 |**2025-12-22**|**Fast and Exact Least Absolute Deviations Line Fitting via Piecewise Affine Lower-Bounding**|Stefan Volz et.al.|[2512.20682](http://arxiv.org/abs/2512.20682)|null|
@@ -65,6 +72,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**Lax pairs for BKM hierarchy**|Andrey Yu. Konyaev et.al.|[2512.22064](http://arxiv.org/abs/2512.22064)|null|
 |**2025-12-08**|**Black Hole Scattering and Integrability: A Hyperboloidal Approach**|Corentin Vitel et.al.|[2512.07641](http://arxiv.org/abs/2512.07641)|null|
 |**2025-12-05**|**The (2,2,1) heavy top: a pure-precession regime**|E. Mityushov et.al.|[2512.05527](http://arxiv.org/abs/2512.05527)|null|
 |**2025-12-01**|**Functional-Analytic Justification of the Time-Domain Foldy-Lax Approximation for Dispersive Acoustic Media: A Feynman-Diagram Viewpoint**|Arpan Mukherjee et.al.|[2512.01532](http://arxiv.org/abs/2512.01532)|null|
@@ -86,6 +94,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**Solutions of 3D Reflection Equation from Quantum Cluster Algebra Associated with Symmetric Butterfly Quiver**|Rei Inoue et.al.|[2512.22004](http://arxiv.org/abs/2512.22004)|null|
 |**2025-12-05**|**Introduction to Quantum Groups and Yang-Baxter Equation For Probabilists**|Jeffrey Kuan et.al.|[2512.05782](http://arxiv.org/abs/2512.05782)|null|
 |**2025-12-05**|**Quenching dynamics of vortex in spin-orbit coupled Bose-Einstein condensates**|Juan Wang et.al.|[2512.05691](http://arxiv.org/abs/2512.05691)|null|
 |**2025-12-04**|**Diffusive limit of the Boltzmann equation around Rayleigh profile in the half space**|Hongxu Chen et.al.|[2512.04403](http://arxiv.org/abs/2512.04403)|null|
@@ -132,6 +141,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Isoperiodic deformations of Toda curves and chains, the difference Korteweg - de Vries equation, and $SU(N)$ Seiberg-Witten theories**|Vladimir Dragović et.al.|[2512.21441](http://arxiv.org/abs/2512.21441)|null|
 |**2025-12-22**|**Finite-gap potentials as a semiclassical limit of the thermodynamic Bethe Ansatz**|Valdemar Melin et.al.|[2512.19655](http://arxiv.org/abs/2512.19655)|null|
 |**2025-12-22**|**Trigonometric continuous-variable gates and hybrid quantum simulations**|Tommaso Rainaldi et.al.|[2512.19582](http://arxiv.org/abs/2512.19582)|null|
 |**2025-12-22**|**Structure Functions for small DIS $x$**|Hrachya M. Babujian et.al.|[2512.19555](http://arxiv.org/abs/2512.19555)|null|
@@ -182,6 +192,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-25**|**Linear Foundation Model for Quantum Embedding: Data-Driven Compression of the Ghost Gutzwiller Variational Space**|Samuele Giuli et.al.|[2512.21666](http://arxiv.org/abs/2512.21666)|null|
+|**2025-12-25**|**Simulating triangle Hofstadter-Hubbard model with fermionic projected entangled simplex states**|Sen Niu et.al.|[2512.21503](http://arxiv.org/abs/2512.21503)|null|
 |**2025-12-23**|**On the Hartree-Fock phase diagram for the two-dimensional Hubbard model**|Christophe Charlier et.al.|[2512.20441](http://arxiv.org/abs/2512.20441)|null|
 |**2025-12-23**|**Jordan-Wigner Transformation for the Description of Strong Correlation in Fermionic Systems**|Thomas M. Henderson et.al.|[2512.19938](http://arxiv.org/abs/2512.19938)|null|
 |**2025-12-22**|**Asymmetric and chiral dynamics of two-component anyons with synthetic gauge flux**|Rui-Jie Chen et.al.|[2512.19139](http://arxiv.org/abs/2512.19139)|null|
@@ -207,6 +219,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**Thermalization within a Stark manifold through Rydberg atom interactions**|Sarah E. Spielman et.al.|[2512.22110](http://arxiv.org/abs/2512.22110)|null|
 |**2025-12-24**|**Universality of equilibration dynamics after quantum quenches**|Vincenzo Alba et.al.|[2512.21313](http://arxiv.org/abs/2512.21313)|null|
 |**2025-12-19**|**Quantum quenches across continuous and first-order quantum transitions in one-dimensional quantum Ising models**|Andrea Pelissetto et.al.|[2512.17333](http://arxiv.org/abs/2512.17333)|null|
 |**2025-12-16**|**Noise-Induced Thermalization in Quantum Systems**|Sameer Dambal et.al.|[2512.14842](http://arxiv.org/abs/2512.14842)|null|
