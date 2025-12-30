@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.12.29
+## Updated on 2025.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Predicting core transport in ITER baseline discharges with neon injections**|Dmitri M Orlov et.al.|[2512.23682](http://arxiv.org/abs/2512.23682)|null|
+|**2025-12-29**|**q-Opers and Bethe Ansatz for Open Spin Chains I**|Peter Koroteev et.al.|[2512.23174](http://arxiv.org/abs/2512.23174)|null|
+|**2025-12-26**|**PHANTOM: Physics-Aware Adversarial Attacks against Federated Learning-Coordinated EV Charging Management System**|Mohammad Zakaria Haider et.al.|[2512.22381](http://arxiv.org/abs/2512.22381)|null|
 |**2025-12-26**|**Lax pairs for BKM hierarchy**|Andrey Yu. Konyaev et.al.|[2512.22064](http://arxiv.org/abs/2512.22064)|null|
 |**2025-12-26**|**Relating auxiliary field formulations of $4d$ duality-invariant and $2d$ integrable field theories**|Nicola Baglioni et.al.|[2512.21982](http://arxiv.org/abs/2512.21982)|null|
 |**2025-12-24**|**Transcriptome-Conditioned Personalized De Novo Drug Generation for AML Using Metaheuristic Assembly and Target-Driven Filtering**|Abdullah G. Elafifi et.al.|[2512.21301](http://arxiv.org/abs/2512.21301)|null|
@@ -39,6 +42,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**From black holes to solvable irrelevant deformations and back**|Monica Guica et.al.|[2512.23620](http://arxiv.org/abs/2512.23620)|null|
+|**2025-12-29**|**LIMO: Low-Power In-Memory-Annealer and Matrix-Multiplication Primitive for Edge Computing**|Amod Holla et.al.|[2512.23212](http://arxiv.org/abs/2512.23212)|null|
+|**2025-12-29**|**The Geometric Foundations of Microcanonical Thermodynamics: Entropy Flow Equation and Thermodynamic Equivalence**|Loris Di Cairano et.al.|[2512.23127](http://arxiv.org/abs/2512.23127)|null|
+|**2025-12-28**|**Exact solutions for a complex scalar field under discrete symmetry**|D. Bazeia et.al.|[2512.23031](http://arxiv.org/abs/2512.23031)|null|
+|**2025-12-28**|**Integrable semi-discretizations of the sine-Gordon equation in non-characteristic coordinates**|Takayuki Tsuchida et.al.|[2512.22919](http://arxiv.org/abs/2512.22919)|null|
+|**2025-12-28**|**Relaxation-based dynamical Ising machines for discrete tomography**|Mikhail Erementchouk et.al.|[2512.22784](http://arxiv.org/abs/2512.22784)|null|
+|**2025-12-27**|**DGLAP evolution at N $^3$LO with the $\texttt{Candia}$ algorithm**|Casey Hampson et.al.|[2512.22667](http://arxiv.org/abs/2512.22667)|null|
+|**2025-12-27**|**Quasi-harmonic spectra from branched Hamiltonians**|Aritra Ghosh et.al.|[2512.22510](http://arxiv.org/abs/2512.22510)|null|
+|**2025-12-26**|**Dispersionless version of multi-component Pfaff-Toda hierarchy**|A. Savchenko et.al.|[2512.22357](http://arxiv.org/abs/2512.22357)|null|
 |**2025-12-26**|**Lax pairs for BKM hierarchy**|Andrey Yu. Konyaev et.al.|[2512.22064](http://arxiv.org/abs/2512.22064)|null|
 |**2025-12-26**|**Solutions of 3D Reflection Equation from Quantum Cluster Algebra Associated with Symmetric Butterfly Quiver**|Rei Inoue et.al.|[2512.22004](http://arxiv.org/abs/2512.22004)|null|
 |**2025-12-26**|**Quantum Breakdown Condensate as a Disorder-Free Quantum Glass**|Yu-Min Hu et.al.|[2512.21847](http://arxiv.org/abs/2512.21847)|null|
@@ -141,6 +153,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-28**|**Integrable semi-discretizations of the sine-Gordon equation in non-characteristic coordinates**|Takayuki Tsuchida et.al.|[2512.22919](http://arxiv.org/abs/2512.22919)|null|
+|**2025-12-27**|**amangkurat: A Python Library for Symplectic Pseudo-Spectral Solution of the Idealized (1+1)D Nonlinear Klein-Gordon Equation**|Sandy H. S. Herho et.al.|[2512.22635](http://arxiv.org/abs/2512.22635)|null|
 |**2025-12-24**|**Isoperiodic deformations of Toda curves and chains, the difference Korteweg - de Vries equation, and $SU(N)$ Seiberg-Witten theories**|Vladimir Dragović et.al.|[2512.21441](http://arxiv.org/abs/2512.21441)|null|
 |**2025-12-22**|**Finite-gap potentials as a semiclassical limit of the thermodynamic Bethe Ansatz**|Valdemar Melin et.al.|[2512.19655](http://arxiv.org/abs/2512.19655)|null|
 |**2025-12-22**|**Trigonometric continuous-variable gates and hybrid quantum simulations**|Tommaso Rainaldi et.al.|[2512.19582](http://arxiv.org/abs/2512.19582)|null|
@@ -192,6 +206,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Symbolic recursion method for strongly correlated fermions in two and three dimensions**|Igor Ermakov et.al.|[2512.23678](http://arxiv.org/abs/2512.23678)|null|
+|**2025-12-29**|**Bethe subspaces and wonderful models for toric arrangements**|Aleksei Ilin et.al.|[2512.23478](http://arxiv.org/abs/2512.23478)|null|
+|**2025-12-28**|**Symmetry-Preserving Variational Quantum Simulation of the Heisenberg Spin Chain on Noisy Quantum Hardware**|Rudraksh Sharma et.al.|[2512.23009](http://arxiv.org/abs/2512.23009)|null|
 |**2025-12-25**|**Linear Foundation Model for Quantum Embedding: Data-Driven Compression of the Ghost Gutzwiller Variational Space**|Samuele Giuli et.al.|[2512.21666](http://arxiv.org/abs/2512.21666)|null|
 |**2025-12-25**|**Simulating triangle Hofstadter-Hubbard model with fermionic projected entangled simplex states**|Sen Niu et.al.|[2512.21503](http://arxiv.org/abs/2512.21503)|null|
 |**2025-12-23**|**On the Hartree-Fock phase diagram for the two-dimensional Hubbard model**|Christophe Charlier et.al.|[2512.20441](http://arxiv.org/abs/2512.20441)|null|
@@ -219,6 +236,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Heisenberg-limited metrology from the quantum-quench dynamics of an anisotropic ferromagnet**|Z. M. McIntyre et.al.|[2512.23606](http://arxiv.org/abs/2512.23606)|null|
+|**2025-12-26**|**Creating multicomponent Schrödinger cat states in a coupled qubit-oscillator system**|Pavel Stránský et.al.|[2512.22380](http://arxiv.org/abs/2512.22380)|null|
+|**2025-12-17**|**Wigner Cat Phases: A finely tunable system for exploring the transition to quantum chaos**|M. Süzen et.al.|[2512.22169](http://arxiv.org/abs/2512.22169)|null|
 |**2025-12-26**|**Thermalization within a Stark manifold through Rydberg atom interactions**|Sarah E. Spielman et.al.|[2512.22110](http://arxiv.org/abs/2512.22110)|null|
 |**2025-12-24**|**Universality of equilibration dynamics after quantum quenches**|Vincenzo Alba et.al.|[2512.21313](http://arxiv.org/abs/2512.21313)|null|
 |**2025-12-19**|**Quantum quenches across continuous and first-order quantum transitions in one-dimensional quantum Ising models**|Andrea Pelissetto et.al.|[2512.17333](http://arxiv.org/abs/2512.17333)|null|
