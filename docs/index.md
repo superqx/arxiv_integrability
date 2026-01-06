@@ -2,17 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.01.05
+## Updated on 2026.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**Bethe Vectors in Quantum Integrable Models with Classical Symmetries**|A. Liashyk et.al.|[2601.00713](http://arxiv.org/abs/2601.00713)|null|
 |**2025-12-31**|**Best Practices for Modelling Electrides**|Lee A. Burton et.al.|[2512.24989](http://arxiv.org/abs/2512.24989)|null|
 |**2025-12-31**|**Classical integrability in 2D and asymptotic symmetries**|Marcela Cárdenas et.al.|[2512.24833](http://arxiv.org/abs/2512.24833)|null|
 |**2025-12-31**|**Twisted Cherednik systems and non-symmetric Macdonald polynomials**|A. Mironov et.al.|[2512.24811](http://arxiv.org/abs/2512.24811)|null|
-|**2025-12-30**|**From Yang-Mills to Yang-Baxter: In Memory of Rodney Baxter and Chen--Ning Yang**|Bai-Ling Wang et.al.|[2512.24494](http://arxiv.org/abs/2512.24494)|null|
+|**2026-01-01**|**From Yang-Mills to Yang-Baxter: In Memory of Rodney Baxter and Chen--Ning Yang**|Bai-Ling Wang et.al.|[2512.24494](http://arxiv.org/abs/2512.24494)|null|
 |**2025-12-30**|**Tensor-Network Analysis of Root Patterns in the XXX Model with Open Boundaries**|Zhouzheng Ji et.al.|[2512.24182](http://arxiv.org/abs/2512.24182)|null|
 |**2025-12-30**|**On spectral equations for an evolution operator of a $q$ -oscillator lattice**|Sergey Sergeev et.al.|[2512.24043](http://arxiv.org/abs/2512.24043)|null|
 |**2025-12-29**|**Predicting core transport in ITER baseline discharges with neon injections**|Dmitri M Orlov et.al.|[2512.23682](http://arxiv.org/abs/2512.23682)|null|
@@ -48,6 +49,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**Bethe Vectors in Quantum Integrable Models with Classical Symmetries**|A. Liashyk et.al.|[2601.00713](http://arxiv.org/abs/2601.00713)|null|
+|**2026-01-01**|**Stratosphere Model Verification with Manufactured Geometry**|Johannes Lawen et.al.|[2601.00206](http://arxiv.org/abs/2601.00206)|null|
 |**2025-12-31**|**Bilinear tau forms of quantum Painlevé equations and $\mathbb{C}^2/\mathbb{Z}_2$ blowup relations in SUSY gauge theories**|Giulio Bonelli et.al.|[2512.25051](http://arxiv.org/abs/2512.25051)|null|
 |**2025-12-31**|**Approximation Algorithms for Fair Repetitive Scheduling**|Danny Hermelin et.al.|[2512.25020](http://arxiv.org/abs/2512.25020)|null|
 |**2025-12-31**|**Multi-particle quantum systems within the Worldline Monte Carlo formalism**|Ivan Ahumada et.al.|[2512.24942](http://arxiv.org/abs/2512.24942)|null|
@@ -225,6 +228,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**Superconductivity in the kagome Hubbard model under the flat-band-preserving disorder**|Jicheol Kim et.al.|[2601.00540](http://arxiv.org/abs/2601.00540)|null|
+|**2025-12-31**|**A compellingly simple proof of the speed of sound for interacting bosons**|J. Eisert et.al.|[2601.00111](http://arxiv.org/abs/2601.00111)|null|
 |**2025-12-30**|**Tensor-Network Analysis of Root Patterns in the XXX Model with Open Boundaries**|Zhouzheng Ji et.al.|[2512.24182](http://arxiv.org/abs/2512.24182)|null|
 |**2025-12-29**|**Symbolic recursion method for strongly correlated fermions in two and three dimensions**|Igor Ermakov et.al.|[2512.23678](http://arxiv.org/abs/2512.23678)|null|
 |**2025-12-29**|**Bethe subspaces and wonderful models for toric arrangements**|Aleksei Ilin et.al.|[2512.23478](http://arxiv.org/abs/2512.23478)|null|
