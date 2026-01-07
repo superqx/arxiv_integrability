@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.01.06
+## Updated on 2026.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**What Is the Minimum Number of Parameters Required to Represent Solutions of the Grad-Shafranov Equation?**|Huasheng Xie et.al.|[2601.02942](http://arxiv.org/abs/2601.02942)|null|
+|**2026-01-01**|**Modeling Policy and Resource Dynamics in the Construction Sector of Developing Countries: A System Dynamics Approach Using Sudan as a Case Study**|Malik Dongla et.al.|[2601.02405](http://arxiv.org/abs/2601.02405)|null|
+|**2026-01-05**|**The Anisotropic Balian-Low Phenomenon and the Variational Construction of Wavelet Frames**|Kai-Cheng Wang et.al.|[2601.01821](http://arxiv.org/abs/2601.01821)|null|
+|**2026-01-04**|**Real Time NILM Based Power Monitoring of Identical Induction Motors Representing Cutting Machines in Textile Industry**|Md Istiauk Hossain Rifat et.al.|[2601.01616](http://arxiv.org/abs/2601.01616)|null|
 |**2026-01-02**|**Bethe Vectors in Quantum Integrable Models with Classical Symmetries**|A. Liashyk et.al.|[2601.00713](http://arxiv.org/abs/2601.00713)|null|
 |**2025-12-31**|**Best Practices for Modelling Electrides**|Lee A. Burton et.al.|[2512.24989](http://arxiv.org/abs/2512.24989)|null|
 |**2025-12-31**|**Classical integrability in 2D and asymptotic symmetries**|Marcela Cárdenas et.al.|[2512.24833](http://arxiv.org/abs/2512.24833)|null|
@@ -49,6 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**PT-symmetric branched optical lattices: Spectral properties and stability of solitons**|O. K. Tojakhmadova et.al.|[2601.03189](http://arxiv.org/abs/2601.03189)|null|
+|**2026-01-06**|**A Precise Ultra - Dense Star Model on Spheroidal Space-Time**|Hemalatha R et.al.|[2601.02815](http://arxiv.org/abs/2601.02815)|null|
+|**2026-01-06**|**Multiple double-valley and single-valley dark solitons in the complex modified Korteweg-de Vries equation: shape-preserving collisions and shape-altering collisions**|Yingcan Huang et.al.|[2601.02810](http://arxiv.org/abs/2601.02810)|null|
+|**2026-01-04**|**Exactly solved model of a one dimensional self gravitating system**|Rajaram Nityananda et.al.|[2601.02423](http://arxiv.org/abs/2601.02423)|null|
+|**2026-01-05**|**Risk-Averse Markov Decision Processes: Applications to Electricity Grid and Reservoir Management**|Arash Khojaste et.al.|[2601.02207](http://arxiv.org/abs/2601.02207)|null|
+|**2026-01-04**|**Variational treatment of the electromagnetic field in an optical cavity with a moving mirror**|Francesco Lorenzi et.al.|[2601.01635](http://arxiv.org/abs/2601.01635)|null|
+|**2026-01-04**|**Exact solutions of the FLRW cosmological model via invariants of the Hamilton-Jacobi method**|E. Ahmadi-Azar et.al.|[2601.01574](http://arxiv.org/abs/2601.01574)|null|
 |**2026-01-02**|**Bethe Vectors in Quantum Integrable Models with Classical Symmetries**|A. Liashyk et.al.|[2601.00713](http://arxiv.org/abs/2601.00713)|null|
 |**2026-01-01**|**Stratosphere Model Verification with Manufactured Geometry**|Johannes Lawen et.al.|[2601.00206](http://arxiv.org/abs/2601.00206)|null|
 |**2025-12-31**|**Bilinear tau forms of quantum Painlevé equations and $\mathbb{C}^2/\mathbb{Z}_2$ blowup relations in SUSY gauge theories**|Giulio Bonelli et.al.|[2512.25051](http://arxiv.org/abs/2512.25051)|null|
@@ -137,7 +148,7 @@ layout: default
 |**2025-12-01**|**Bayesian inferences on covariant density functionals from multimessenger astrophysical data: The influences of parametrizations of density dependent couplings**|Guo-Jun Wei et.al.|[2512.01503](http://arxiv.org/abs/2512.01503)|null|
 |**2025-12-01**|**Fourier Neural Operators Explained: A Practical Perspective**|Valentin Duruisseaux et.al.|[2512.01421](http://arxiv.org/abs/2512.01421)|null|
 |**2025-12-01**|**Analysis of $H \to J/ψ+γ$ up to Next-to-Next-to-Leading Order QCD Corrections**|Wen-Yuan Li et.al.|[2512.01211](http://arxiv.org/abs/2512.01211)|null|
-|**2025-12-24**|**Freidel-Maillet type equations on fused K-matrices over the positive part of $U_q(\widehat{\mathfrak{sl}}_2)$**|Chenwei Ruan et.al.|[2512.00819](http://arxiv.org/abs/2512.00819)|null|
+|**2026-01-03**|**Freidel-Maillet type equations on fused K-matrices over the positive part of $U_q(\widehat{\mathfrak{sl}}_2)$**|Chenwei Ruan et.al.|[2512.00819](http://arxiv.org/abs/2512.00819)|null|
 |**2025-10-31**|**Boundary Integrability from the Fuzzy Three Sphere**|Tamas Gombor et.al.|[2510.27463](http://arxiv.org/abs/2510.27463)|null|
 |**2025-10-10**|**Reciprocal relations for orthogonal quantum matrices**|Pavel Pyatov et.al.|[2510.09811](http://arxiv.org/abs/2510.09811)|null|
 |**2025-11-22**|**Boundary reflection matrices of massive $φ_{1,3}$ -perturbed unitary minimal models**|Zoltan Bajnok et.al.|[2509.04286](http://arxiv.org/abs/2509.04286)|null|
@@ -174,6 +185,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**Multiple double-valley and single-valley dark solitons in the complex modified Korteweg-de Vries equation: shape-preserving collisions and shape-altering collisions**|Yingcan Huang et.al.|[2601.02810](http://arxiv.org/abs/2601.02810)|null|
+|**2026-01-05**|**Latent Space Element Method**|Seung Whan Chung et.al.|[2601.01741](http://arxiv.org/abs/2601.01741)|null|
 |**2025-12-31**|**Classical integrability in 2D and asymptotic symmetries**|Marcela Cárdenas et.al.|[2512.24833](http://arxiv.org/abs/2512.24833)|null|
 |**2025-12-28**|**Integrable semi-discretizations of the sine-Gordon equation in non-characteristic coordinates**|Takayuki Tsuchida et.al.|[2512.22919](http://arxiv.org/abs/2512.22919)|null|
 |**2025-12-27**|**amangkurat: A Python Library for Symplectic Pseudo-Spectral Solution of the Idealized (1+1)D Nonlinear Klein-Gordon Equation**|Sandy H. S. Herho et.al.|[2512.22635](http://arxiv.org/abs/2512.22635)|null|
@@ -228,6 +241,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**Electron pairing in model with two overlapping bands**|Igor N. Karnaukhov et.al.|[2601.02973](http://arxiv.org/abs/2601.02973)|null|
+|**2026-01-05**|**$\mathbb{Z}_L$ symmetry breaking in SU(N) Fermi-Hubbard dots at zero and finite temperature**|Loïc Herviou et.al.|[2601.02590](http://arxiv.org/abs/2601.02590)|null|
+|**2026-01-05**|**Symmetric topological Mott insulator and Mott semimetal**|Boran Zhou et.al.|[2601.02485](http://arxiv.org/abs/2601.02485)|null|
+|**2026-01-05**|**Instabilities of the Fractionalized Dirac Semimetal in the Kitaev-Kondo Model**|Jennifer Lin et.al.|[2601.02110](http://arxiv.org/abs/2601.02110)|null|
 |**2026-01-02**|**Superconductivity in the kagome Hubbard model under the flat-band-preserving disorder**|Jicheol Kim et.al.|[2601.00540](http://arxiv.org/abs/2601.00540)|null|
 |**2025-12-31**|**A compellingly simple proof of the speed of sound for interacting bosons**|J. Eisert et.al.|[2601.00111](http://arxiv.org/abs/2601.00111)|null|
 |**2025-12-30**|**Tensor-Network Analysis of Root Patterns in the XXX Model with Open Boundaries**|Zhouzheng Ji et.al.|[2512.24182](http://arxiv.org/abs/2512.24182)|null|
