@@ -7,6 +7,10 @@ import logging
 import argparse
 import datetime
 import requests
+from urllib3.util.retry import Retry
+from requests.adapters import HTTPAdapter
+
+
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -262,11 +266,11 @@ def json_to_md(filename,md_filename,
             data = json.loads(content)
 
     # clean README.md if daily already exist else create it
-    with open(md_filename,"w+") as f:
+    with open(md_filename,"w+",encoding="utf-8", newline="\n") as f:
         pass
 
     # write data into README.md
-    with open(md_filename,"a+") as f:
+    with open(md_filename,"a+",encoding="utf-8", newline="\n") as f:
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
