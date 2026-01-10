@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.01.07
+## Updated on 2026.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Unconditionally teleported quantum gates between remote solid-state qubit registers**|Mariagrazia Iuliano et.al.|[2601.04848](http://arxiv.org/abs/2601.04848)|null|
+|**2026-01-07**|**Integrable Systems**|Maciej Dunajski et.al.|[2601.04077](http://arxiv.org/abs/2601.04077)|null|
+|**2026-01-07**|**A comprehensive review and analysis of different modeling approaches for financial index tracking problem**|Vrinda Dhingra et.al.|[2601.03927](http://arxiv.org/abs/2601.03927)|null|
 |**2026-01-06**|**What Is the Minimum Number of Parameters Required to Represent Solutions of the Grad-Shafranov Equation?**|Huasheng Xie et.al.|[2601.02942](http://arxiv.org/abs/2601.02942)|null|
 |**2026-01-01**|**Modeling Policy and Resource Dynamics in the Construction Sector of Developing Countries: A System Dynamics Approach Using Sudan as a Case Study**|Malik Dongla et.al.|[2601.02405](http://arxiv.org/abs/2601.02405)|null|
 |**2026-01-05**|**The Anisotropic Balian-Low Phenomenon and the Variational Construction of Wavelet Frames**|Kai-Cheng Wang et.al.|[2601.01821](http://arxiv.org/abs/2601.01821)|null|
@@ -53,6 +56,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Benchmarking projected generator coordinate method for nuclear Gamow-Teller transitions**|R. N. Chen et.al.|[2601.05058](http://arxiv.org/abs/2601.05058)|null|
+|**2026-01-07**|**Chiral Lattice Gauge Theories from Symmetry Disentanglers**|Ryan Thorngren et.al.|[2601.04304](http://arxiv.org/abs/2601.04304)|null|
+|**2026-01-07**|**Anderson Localization on Husimi Trees and its implications for Many-Body localization**|Dafne Prado Bandeira et.al.|[2601.04155](http://arxiv.org/abs/2601.04155)|null|
+|**2026-01-07**|**Extracting scattering phase shift in quantum mechanics on quantum computers**|Peng Guo et.al.|[2601.04092](http://arxiv.org/abs/2601.04092)|null|
+|**2026-01-07**|**Heavy rigid body with a gyroscope in $\mathbb R^n$**|Vladimir Dragovic et.al.|[2601.03965](http://arxiv.org/abs/2601.03965)|null|
+|**2026-01-07**|**Provably Finding a Hidden Dense Submatrix among Many Planted Dense Submatrices via Convex Programming**|Valentine Olanubi et.al.|[2601.03946](http://arxiv.org/abs/2601.03946)|null|
+|**2026-01-05**|**Cosmologically Coupled Black Holes with Regular Horizons**|Mariano Cadoni et.al.|[2601.03296](http://arxiv.org/abs/2601.03296)|null|
 |**2026-01-06**|**PT-symmetric branched optical lattices: Spectral properties and stability of solitons**|O. K. Tojakhmadova et.al.|[2601.03189](http://arxiv.org/abs/2601.03189)|null|
 |**2026-01-06**|**A Precise Ultra - Dense Star Model on Spheroidal Space-Time**|Hemalatha R et.al.|[2601.02815](http://arxiv.org/abs/2601.02815)|null|
 |**2026-01-06**|**Multiple double-valley and single-valley dark solitons in the complex modified Korteweg-de Vries equation: shape-preserving collisions and shape-altering collisions**|Yingcan Huang et.al.|[2601.02810](http://arxiv.org/abs/2601.02810)|null|
@@ -163,6 +173,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Full counting statistics in the sine--Gordon model**|Botond C. Nagy et.al.|[2601.05079](http://arxiv.org/abs/2601.05079)|null|
 |**2025-12-30**|**On spectral equations for an evolution operator of a $q$ -oscillator lattice**|Sergey Sergeev et.al.|[2512.24043](http://arxiv.org/abs/2512.24043)|null|
 |**2025-12-22**|**Finite-gap potentials as a semiclassical limit of the thermodynamic Bethe Ansatz**|Valdemar Melin et.al.|[2512.19655](http://arxiv.org/abs/2512.19655)|null|
 |**2025-12-06**|**Integrable construction of a two-dimensional lattice model with anisotropic Hubbard couplings**|Ze Tao et.al.|[2512.06310](http://arxiv.org/abs/2512.06310)|null|
@@ -185,6 +196,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Full counting statistics in the sine--Gordon model**|Botond C. Nagy et.al.|[2601.05079](http://arxiv.org/abs/2601.05079)|null|
 |**2026-01-06**|**Multiple double-valley and single-valley dark solitons in the complex modified Korteweg-de Vries equation: shape-preserving collisions and shape-altering collisions**|Yingcan Huang et.al.|[2601.02810](http://arxiv.org/abs/2601.02810)|null|
 |**2026-01-05**|**Latent Space Element Method**|Seung Whan Chung et.al.|[2601.01741](http://arxiv.org/abs/2601.01741)|null|
 |**2025-12-31**|**Classical integrability in 2D and asymptotic symmetries**|Marcela Cárdenas et.al.|[2512.24833](http://arxiv.org/abs/2512.24833)|null|
@@ -241,6 +253,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Construction of asymptotic quantum many-body scar states in the SU( $N$ ) Hubbard model**|Daiki Hashimoto et.al.|[2601.04640](http://arxiv.org/abs/2601.04640)|null|
+|**2026-01-07**|**Dynamical instability in a Floquet-Driven Dissipative System**|Takuya Okugawa et.al.|[2601.04451](http://arxiv.org/abs/2601.04451)|null|
+|**2026-01-07**|**Interference-Induced Suppression of Doublon Transport and Prethermalization in the Extended Bose-Hubbard Model**|Zhen-Ting Bao et.al.|[2601.03694](http://arxiv.org/abs/2601.03694)|null|
+|**2026-01-06**|**The Zubarev Double Time Greens function-A Vintage Many Body Technique**|Vijay Singh et.al.|[2601.03439](http://arxiv.org/abs/2601.03439)|null|
 |**2026-01-06**|**Electron pairing in model with two overlapping bands**|Igor N. Karnaukhov et.al.|[2601.02973](http://arxiv.org/abs/2601.02973)|null|
 |**2026-01-05**|**$\mathbb{Z}_L$ symmetry breaking in SU(N) Fermi-Hubbard dots at zero and finite temperature**|Loïc Herviou et.al.|[2601.02590](http://arxiv.org/abs/2601.02590)|null|
 |**2026-01-05**|**Symmetric topological Mott insulator and Mott semimetal**|Boran Zhou et.al.|[2601.02485](http://arxiv.org/abs/2601.02485)|null|
@@ -278,6 +294,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**Many-body Quantum Score: a scalable benchmark for digital and analog quantum processors and first test on a commercial neutral atom device**|Harold Erbin et.al.|[2601.03461](http://arxiv.org/abs/2601.03461)|null|
 |**2025-12-29**|**Heisenberg-limited metrology from the quantum-quench dynamics of an anisotropic ferromagnet**|Z. M. McIntyre et.al.|[2512.23606](http://arxiv.org/abs/2512.23606)|null|
 |**2025-12-26**|**Creating multicomponent Schrödinger cat states in a coupled qubit-oscillator system**|Pavel Stránský et.al.|[2512.22380](http://arxiv.org/abs/2512.22380)|null|
 |**2025-12-17**|**Wigner Cat Phases: A finely tunable system for exploring the transition to quantum chaos**|M. Süzen et.al.|[2512.22169](http://arxiv.org/abs/2512.22169)|null|
