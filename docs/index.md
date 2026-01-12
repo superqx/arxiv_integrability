@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.11
+## Updated on 2026.01.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
@@ -56,6 +56,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**On an integrable 2+1-dimensional extended Dym equation: Lax pair, $\bar{\partial}$ -dressing scheme and modulation**|Boris Konopelchenko et.al.|[2601.05954](http://arxiv.org/abs/2601.05954)|null|
+|**2026-01-09**|**Combined effects of evaporation, sedimentation and solute crystallization on the dynamics of aerosol size distributions on multiple length and time scales**|Sina Zendehroud et.al.|[2601.05876](http://arxiv.org/abs/2601.05876)|null|
+|**2026-01-09**|**An unfitted finite element method for elliptic interface problem with low regularity estimates**|Fanyi Yang et.al.|[2601.05837](http://arxiv.org/abs/2601.05837)|null|
+|**2026-01-09**|**On consistency around a $3 \times 3\times 3$ cube and Q3 analogue of the lattice Boussinesq equation**|Pengyu Sun et.al.|[2601.05565](http://arxiv.org/abs/2601.05565)|null|
+|**2026-01-09**|**Emergence of the 2nd Law in an Exactly Solvable Model of a Quantum Wire**|Marco A. Jimenez-Valencia et.al.|[2601.05514](http://arxiv.org/abs/2601.05514)|null|
+|**2026-01-08**|**Analytical Solutions to Asymmetric Two-Photon Rabi Model**|M. Baradaran et.al.|[2601.05421](http://arxiv.org/abs/2601.05421)|null|
+|**2026-01-08**|**Imitation Learning for Combinatorial Optimisation under Uncertainty**|Prakash Gawas et.al.|[2601.05383](http://arxiv.org/abs/2601.05383)|null|
+|**2026-01-08**|**Congestion Mitigation in Vehicular Traffic Networks with Multiple Operational Modalities**|Doris E. M. Brown et.al.|[2601.05375](http://arxiv.org/abs/2601.05375)|null|
+|**2026-01-08**|**The Self-Duality Equations on a Riemann Surface and Four-Dimensional Chern-Simons Theory**|Roland Bittleston et.al.|[2601.05309](http://arxiv.org/abs/2601.05309)|null|
 |**2026-01-08**|**Benchmarking projected generator coordinate method for nuclear Gamow-Teller transitions**|R. N. Chen et.al.|[2601.05058](http://arxiv.org/abs/2601.05058)|null|
 |**2026-01-07**|**Chiral Lattice Gauge Theories from Symmetry Disentanglers**|Ryan Thorngren et.al.|[2601.04304](http://arxiv.org/abs/2601.04304)|null|
 |**2026-01-07**|**Anderson Localization on Husimi Trees and its implications for Many-Body localization**|Dafne Prado Bandeira et.al.|[2601.04155](http://arxiv.org/abs/2601.04155)|null|
@@ -124,6 +133,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**On an integrable 2+1-dimensional extended Dym equation: Lax pair, $\bar{\partial}$ -dressing scheme and modulation**|Boris Konopelchenko et.al.|[2601.05954](http://arxiv.org/abs/2601.05954)|null|
+|**2026-01-09**|**On consistency around a $3 \times 3\times 3$ cube and Q3 analogue of the lattice Boussinesq equation**|Pengyu Sun et.al.|[2601.05565](http://arxiv.org/abs/2601.05565)|null|
 |**2025-12-31**|**Classical integrability in 2D and asymptotic symmetries**|Marcela Cárdenas et.al.|[2512.24833](http://arxiv.org/abs/2512.24833)|null|
 |**2025-12-26**|**Lax pairs for BKM hierarchy**|Andrey Yu. Konyaev et.al.|[2512.22064](http://arxiv.org/abs/2512.22064)|null|
 |**2025-12-08**|**Black Hole Scattering and Integrability: A Hyperboloidal Approach**|Corentin Vitel et.al.|[2512.07641](http://arxiv.org/abs/2512.07641)|null|
@@ -196,6 +207,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**Evolution of localized pulses in the defocusing modified Korteweg-de Vries equation theory**|L. F. Calazans de Brito et.al.|[2601.05938](http://arxiv.org/abs/2601.05938)|null|
 |**2026-01-08**|**Full counting statistics in the sine--Gordon model**|Botond C. Nagy et.al.|[2601.05079](http://arxiv.org/abs/2601.05079)|null|
 |**2026-01-06**|**Multiple double-valley and single-valley dark solitons in the complex modified Korteweg-de Vries equation: shape-preserving collisions and shape-altering collisions**|Yingcan Huang et.al.|[2601.02810](http://arxiv.org/abs/2601.02810)|null|
 |**2026-01-05**|**Latent Space Element Method**|Seung Whan Chung et.al.|[2601.01741](http://arxiv.org/abs/2601.01741)|null|
@@ -253,6 +265,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**Phase Frustration Induced Intrinsic Bose Glass in the Kitaev-Bose-Hubbard Model**|Yi-fan Zhu et.al.|[2601.05781](http://arxiv.org/abs/2601.05781)|null|
+|**2026-01-09**|**Chaos, thermalization and breakdown of quantum-classical correspondence in a collective many-body system**|Ángel L. Corps et.al.|[2601.05627](http://arxiv.org/abs/2601.05627)|null|
 |**2026-01-08**|**Construction of asymptotic quantum many-body scar states in the SU( $N$ ) Hubbard model**|Daiki Hashimoto et.al.|[2601.04640](http://arxiv.org/abs/2601.04640)|null|
 |**2026-01-07**|**Dynamical instability in a Floquet-Driven Dissipative System**|Takuya Okugawa et.al.|[2601.04451](http://arxiv.org/abs/2601.04451)|null|
 |**2026-01-07**|**Interference-Induced Suppression of Doublon Transport and Prethermalization in the Extended Bose-Hubbard Model**|Zhen-Ting Bao et.al.|[2601.03694](http://arxiv.org/abs/2601.03694)|null|

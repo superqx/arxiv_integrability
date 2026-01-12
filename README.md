@@ -1,4 +1,4 @@
-## Updated on 2026.01.11
+## Updated on 2026.01.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -63,12 +63,21 @@
 |**2025-12-05**|**NICE: Neural Implicit Craniofacial Model for Orthognathic Surgery Prediction**|Jiawen Yang et.al.|[2512.05920](http://arxiv.org/abs/2512.05920)|null|
 |**2025-12-05**|**A Discontinuous Galerkin Consistent Splitting Method for the Incompressible Navier-Stokes Equations**|Dominik Still et.al.|[2512.05919](http://arxiv.org/abs/2512.05919)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 ## Exact solution
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**On an integrable 2+1-dimensional extended Dym equation: Lax pair, $\bar{\partial}$ -dressing scheme and modulation**|Boris Konopelchenko et.al.|[2601.05954](http://arxiv.org/abs/2601.05954)|null|
+|**2026-01-09**|**Combined effects of evaporation, sedimentation and solute crystallization on the dynamics of aerosol size distributions on multiple length and time scales**|Sina Zendehroud et.al.|[2601.05876](http://arxiv.org/abs/2601.05876)|null|
+|**2026-01-09**|**An unfitted finite element method for elliptic interface problem with low regularity estimates**|Fanyi Yang et.al.|[2601.05837](http://arxiv.org/abs/2601.05837)|null|
+|**2026-01-09**|**On consistency around a $3 \times 3\times 3$ cube and Q3 analogue of the lattice Boussinesq equation**|Pengyu Sun et.al.|[2601.05565](http://arxiv.org/abs/2601.05565)|null|
+|**2026-01-09**|**Emergence of the 2nd Law in an Exactly Solvable Model of a Quantum Wire**|Marco A. Jimenez-Valencia et.al.|[2601.05514](http://arxiv.org/abs/2601.05514)|null|
+|**2026-01-08**|**Analytical Solutions to Asymmetric Two-Photon Rabi Model**|M. Baradaran et.al.|[2601.05421](http://arxiv.org/abs/2601.05421)|null|
+|**2026-01-08**|**Imitation Learning for Combinatorial Optimisation under Uncertainty**|Prakash Gawas et.al.|[2601.05383](http://arxiv.org/abs/2601.05383)|null|
+|**2026-01-08**|**Congestion Mitigation in Vehicular Traffic Networks with Multiple Operational Modalities**|Doris E. M. Brown et.al.|[2601.05375](http://arxiv.org/abs/2601.05375)|null|
+|**2026-01-08**|**The Self-Duality Equations on a Riemann Surface and Four-Dimensional Chern-Simons Theory**|Roland Bittleston et.al.|[2601.05309](http://arxiv.org/abs/2601.05309)|null|
 |**2026-01-08**|**Benchmarking projected generator coordinate method for nuclear Gamow-Teller transitions**|R. N. Chen et.al.|[2601.05058](http://arxiv.org/abs/2601.05058)|null|
 |**2026-01-07**|**Chiral Lattice Gauge Theories from Symmetry Disentanglers**|Ryan Thorngren et.al.|[2601.04304](http://arxiv.org/abs/2601.04304)|null|
 |**2026-01-07**|**Anderson Localization on Husimi Trees and its implications for Many-Body localization**|Dafne Prado Bandeira et.al.|[2601.04155](http://arxiv.org/abs/2601.04155)|null|
@@ -133,12 +142,14 @@
 |**2025-12-04**|**Exactly Solvable Population Model with Square-Root Growth Noise and Cell-Size Regulation**|Farshid Jafarpour et.al.|[2512.05190](http://arxiv.org/abs/2512.05190)|null|
 |**2025-12-04**|**Geophysical intensity problems: the axisymmetric case**|Ralf Kaiser et.al.|[2512.05010](http://arxiv.org/abs/2512.05010)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 ## Conserved charges
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**On an integrable 2+1-dimensional extended Dym equation: Lax pair, $\bar{\partial}$ -dressing scheme and modulation**|Boris Konopelchenko et.al.|[2601.05954](http://arxiv.org/abs/2601.05954)|null|
+|**2026-01-09**|**On consistency around a $3 \times 3\times 3$ cube and Q3 analogue of the lattice Boussinesq equation**|Pengyu Sun et.al.|[2601.05565](http://arxiv.org/abs/2601.05565)|null|
 |**2025-12-31**|**Classical integrability in 2D and asymptotic symmetries**|Marcela Cárdenas et.al.|[2512.24833](http://arxiv.org/abs/2512.24833)|null|
 |**2025-12-26**|**Lax pairs for BKM hierarchy**|Andrey Yu. Konyaev et.al.|[2512.22064](http://arxiv.org/abs/2512.22064)|null|
 |**2025-12-08**|**Black Hole Scattering and Integrability: A Hyperboloidal Approach**|Corentin Vitel et.al.|[2512.07641](http://arxiv.org/abs/2512.07641)|null|
@@ -158,7 +169,7 @@
 |**2025-10-18**|**Multi-Soliton Propagation and Interaction in $Λ$ -Type EIT Media: An Integrable Approach**|Ramesh Kumar Vaduganathan et.al.|[2510.16364](http://arxiv.org/abs/2510.16364)|null|
 |**2025-10-06**|**Quasi-integrability from PT-symmetry**|Kumar Abhinav et.al.|[2510.05065](http://arxiv.org/abs/2510.05065)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 ## Yang-Baxter equation
 
@@ -186,7 +197,7 @@
 |**2025-10-27**|**A general fusion procedure for open $\mathfrak{gl}(N)$ spin chains: Application to the ABJM spin chain**|Nan Bai et.al.|[2507.19394](http://arxiv.org/abs/2507.19394)|null|
 |**2025-07-21**|**One-point functions in AdS/dCFT: MPS and twisted Yangian**|Xin Qian et.al.|[2507.15462](http://arxiv.org/abs/2507.15462)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 ## Bethe ansatz
 
@@ -211,12 +222,13 @@
 |**2025-10-29**|**Quantum-group-invariant $D^{(2)}_{n+1}$ models: Bethe ansatz and finite-size spectrum**|Holger Frahm et.al.|[2509.00610](http://arxiv.org/abs/2509.00610)|null|
 |**2025-12-11**|**Contact 4d Chern-Simons theory: Generalities**|David M. Schmidtt et.al.|[2508.19375](http://arxiv.org/abs/2508.19375)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 ## 2d integrable model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**Evolution of localized pulses in the defocusing modified Korteweg-de Vries equation theory**|L. F. Calazans de Brito et.al.|[2601.05938](http://arxiv.org/abs/2601.05938)|null|
 |**2026-01-08**|**Full counting statistics in the sine--Gordon model**|Botond C. Nagy et.al.|[2601.05079](http://arxiv.org/abs/2601.05079)|null|
 |**2026-01-06**|**Multiple double-valley and single-valley dark solitons in the complex modified Korteweg-de Vries equation: shape-preserving collisions and shape-altering collisions**|Yingcan Huang et.al.|[2601.02810](http://arxiv.org/abs/2601.02810)|null|
 |**2026-01-05**|**Latent Space Element Method**|Seung Whan Chung et.al.|[2601.01741](http://arxiv.org/abs/2601.01741)|null|
@@ -245,7 +257,7 @@
 |**2025-11-22**|**Active Learning with Selective Time-Step Acquisition for PDEs**|Yegon Kim et.al.|[2511.18107](http://arxiv.org/abs/2511.18107)|null|
 |**2025-12-05**|**Long-Time Dynamics of the Zakharov-Kuznetsov Equation**|Roberto de A. Capistrano Filho et.al.|[2511.17830](http://arxiv.org/abs/2511.17830)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 ## quantum integrable field theory
 
@@ -272,12 +284,14 @@
 |**2025-03-06**|**Landscapes of integrable long-range spin chains**|Rob Klabbers et.al.|[2405.09718](http://arxiv.org/abs/2405.09718)|null|
 |**2024-04-02**|**Thermodynamic formulation of vacuum energy density in flat spacetime and potential implications for the cosmological constant**|André LeClair et.al.|[2404.02350](http://arxiv.org/abs/2404.02350)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 ## spin chain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**Phase Frustration Induced Intrinsic Bose Glass in the Kitaev-Bose-Hubbard Model**|Yi-fan Zhu et.al.|[2601.05781](http://arxiv.org/abs/2601.05781)|null|
+|**2026-01-09**|**Chaos, thermalization and breakdown of quantum-classical correspondence in a collective many-body system**|Ángel L. Corps et.al.|[2601.05627](http://arxiv.org/abs/2601.05627)|null|
 |**2026-01-08**|**Construction of asymptotic quantum many-body scar states in the SU( $N$ ) Hubbard model**|Daiki Hashimoto et.al.|[2601.04640](http://arxiv.org/abs/2601.04640)|null|
 |**2026-01-07**|**Dynamical instability in a Floquet-Driven Dissipative System**|Takuya Okugawa et.al.|[2601.04451](http://arxiv.org/abs/2601.04451)|null|
 |**2026-01-07**|**Interference-Induced Suppression of Doublon Transport and Prethermalization in the Extended Bose-Hubbard Model**|Zhen-Ting Bao et.al.|[2601.03694](http://arxiv.org/abs/2601.03694)|null|
@@ -315,7 +329,7 @@
 |**2025-12-02**|**Phase diagram of the one-dimensional three-state Potts model with an additional mean-field interaction**|Alessandro Campa et.al.|[2512.02930](http://arxiv.org/abs/2512.02930)|null|
 |**2025-12-02**|**Reaching Sachdev-Ye-Kitaev physics by shaking the Hubbard model**|Charles Creffield et.al.|[2512.02755](http://arxiv.org/abs/2512.02755)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 ## Non-equilibrium
 
@@ -348,5 +362,5 @@
 |**2025-12-01**|**Thermalization of exact quantum many-body scars in spin-1 XY chain under perturbation**|Himadri Halder et.al.|[2511.17476](http://arxiv.org/abs/2511.17476)|null|
 |**2025-11-14**|**Scaling of free cumulants in closed system-bath setups**|Merlin Füllgraf et.al.|[2511.11333](http://arxiv.org/abs/2511.11333)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
