@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.01.14
+## Updated on 2026.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Thermo-LIO: A Novel Multi-Sensor Integrated System for Structural Health Monitoring**|Chao Yang et.al.|[2601.08977](http://arxiv.org/abs/2601.08977)|null|
+|**2026-01-13**|**Multiple cluster algebra structures for TCD maps I: theoretical framework**|Niklas Affolter et.al.|[2601.08944](http://arxiv.org/abs/2601.08944)|null|
 |**2026-01-13**|**The symplectic groupoid for Adler-Gelfand-Dikii Poisson structure**|Ahmadreza Khazaeipoul et.al.|[2601.08632](http://arxiv.org/abs/2601.08632)|null|
 |**2026-01-13**|**Terahertz Communications Using Effective-Medium-Slot Waveguides**|Nguyen H. Ngo et.al.|[2601.08261](http://arxiv.org/abs/2601.08261)|null|
 |**2026-01-12**|**Wave kinetics in an integrable model -- the Kaup-Boussinesq system**|Ashleigh Simonis et.al.|[2601.08072](http://arxiv.org/abs/2601.08072)|null|
@@ -63,10 +65,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Matrix product operator representations for the local conserved quantities of the spin- $1/2$ XYZ chain**|Kohei Fukai et.al.|[2601.09245](http://arxiv.org/abs/2601.09245)|null|
+|**2026-01-14**|**Discretization of the Mikhailov model**|Song-lin Zhao et.al.|[2601.09206](http://arxiv.org/abs/2601.09206)|null|
+|**2026-01-13**|**Newell-Whitehead-Segel equation,A Simpler Proof**|Luisiana X. Cundin et.al.|[2601.08965](http://arxiv.org/abs/2601.08965)|null|
 |**2026-01-13**|**Stochastic search with space-dependent diffusivity**|Hwai-Ray Tung et.al.|[2601.08740](http://arxiv.org/abs/2601.08740)|null|
 |**2026-01-13**|**Magnetized dynamical black holes**|Jibril Ben Achour et.al.|[2601.08628](http://arxiv.org/abs/2601.08628)|null|
 |**2026-01-13**|**Conservation laws and exact solutions of a nonlinear acoustics equation by classical symmetry reduction**|Almudena del Pilar Marquez et.al.|[2601.08548](http://arxiv.org/abs/2601.08548)|null|
-|**2026-01-13**|**Minimal Actuator Selection**|Luca Ballotta et.al.|[2601.08338](http://arxiv.org/abs/2601.08338)|null|
+|**2026-01-14**|**Minimal Actuator Selection**|Luca Ballotta et.al.|[2601.08338](http://arxiv.org/abs/2601.08338)|null|
 |**2026-01-12**|**Wave kinetics in an integrable model -- the Kaup-Boussinesq system**|Ashleigh Simonis et.al.|[2601.08072](http://arxiv.org/abs/2601.08072)|null|
 |**2026-01-12**|**Geometric Spin Rotation in Triangular Antiferromagnets**|Grigor Adamyan et.al.|[2601.07914](http://arxiv.org/abs/2601.07914)|null|
 |**2026-01-12**|**Uniform models of neutron and quark (strange) stars in General Relativity**|G. S. Bisnovatyi-Kogan et.al.|[2601.07560](http://arxiv.org/abs/2601.07560)|null|
@@ -176,7 +181,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-11**|**Classical elliptic ${\rm BC}_1$ Ruijsenaars-van Diejen model: relation to Zhukovsky-Volterra gyrostat and 1-site classical XYZ model with boundaries**|A. Mostovskii et.al.|[2601.06826](http://arxiv.org/abs/2601.06826)|null|
+|**2026-01-14**|**Classical elliptic ${\rm BC}_1$ Ruijsenaars-van Diejen model: relation to Zhukovsky-Volterra gyrostat and 1-site classical XYZ model with boundaries**|A. Mostovskii et.al.|[2601.06826](http://arxiv.org/abs/2601.06826)|null|
 |**2026-01-10**|**On De Concini-Kac forms of quantum groups**|Ivan Losev et.al.|[2601.06696](http://arxiv.org/abs/2601.06696)|null|
 |**2025-12-26**|**Solutions of 3D Reflection Equation from Quantum Cluster Algebra Associated with Symmetric Butterfly Quiver**|Rei Inoue et.al.|[2512.22004](http://arxiv.org/abs/2512.22004)|null|
 |**2025-12-05**|**Introduction to Quantum Groups and Yang-Baxter Equation For Probabilists**|Jeffrey Kuan et.al.|[2512.05782](http://arxiv.org/abs/2512.05782)|null|
@@ -331,6 +336,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Eigenstate Thermalization and Spectral Imprints of the Hamiltonian in Local Observables**|Shivam Mishra et.al.|[2601.09340](http://arxiv.org/abs/2601.09340)|null|
 |**2026-01-13**|**Eigenstate thermalization in thermal first-order phase transitions**|Maksym Serbyn et.al.|[2601.08347](http://arxiv.org/abs/2601.08347)|null|
 |**2026-01-11**|**Dynamical Correlation of the Post-quench Non-thermal Equilibrium State**|Yang-Yang Chen et.al.|[2601.06987](http://arxiv.org/abs/2601.06987)|null|
 |**2026-01-06**|**Many-body Quantum Score: a scalable benchmark for digital and analog quantum processors and first test on a commercial neutral atom device**|Harold Erbin et.al.|[2601.03461](http://arxiv.org/abs/2601.03461)|null|
