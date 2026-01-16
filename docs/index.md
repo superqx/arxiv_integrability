@@ -9,10 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Architectural Classification of XR Workloads: Cross-Layer Archetypes and Implications**|Xinyu Shi et.al.|[2601.10463](http://arxiv.org/abs/2601.10463)|null|
+|**2026-01-15**|**Model-Driven GPR Inversion Network With Surrogate Forward Solver**|Huilin Zhou et.al.|[2601.10284](http://arxiv.org/abs/2601.10284)|null|
+|**2026-01-15**|**Systemically Designed Degrees for Real-World Challenges: A case study on Physics curriculum design at Loughborough University**|M. J. Everitt et.al.|[2601.10219](http://arxiv.org/abs/2601.10219)|null|
+|**2026-01-14**|**From the Hallmarks of Cancer to the Survival System: Integration and Paradigmatic Reconstruction of Classical Oncology Theories by the Tumor Existential Crisis-Driven Survival (ECDS) Theory**|Yuxuan Zhang et.al.|[2601.09767](http://arxiv.org/abs/2601.09767)|null|
+|**2026-01-13**|**Heterogeneous computing platform for real-time robotics**|Jakub Fil et.al.|[2601.09755](http://arxiv.org/abs/2601.09755)|null|
 |**2026-01-13**|**Thermo-LIO: A Novel Multi-Sensor Integrated System for Structural Health Monitoring**|Chao Yang et.al.|[2601.08977](http://arxiv.org/abs/2601.08977)|null|
 |**2026-01-13**|**Multiple cluster algebra structures for TCD maps I: theoretical framework**|Niklas Affolter et.al.|[2601.08944](http://arxiv.org/abs/2601.08944)|null|
 |**2026-01-13**|**The symplectic groupoid for Adler-Gelfand-Dikii Poisson structure**|Ahmadreza Khazaeipoul et.al.|[2601.08632](http://arxiv.org/abs/2601.08632)|null|
-|**2026-01-13**|**Terahertz Communications Using Effective-Medium-Slot Waveguides**|Nguyen H. Ngo et.al.|[2601.08261](http://arxiv.org/abs/2601.08261)|null|
+|**2026-01-15**|**Terahertz Communications Using Effective-Medium-Slot Waveguides**|Nguyen H. Ngo et.al.|[2601.08261](http://arxiv.org/abs/2601.08261)|null|
 |**2026-01-12**|**Wave kinetics in an integrable model -- the Kaup-Boussinesq system**|Ashleigh Simonis et.al.|[2601.08072](http://arxiv.org/abs/2601.08072)|null|
 |**2026-01-11**|**Quantum Optical Integrated Sensing and Communication with Homodyne BPSK Detection**|Ioannis Krikidis et.al.|[2601.07034](http://arxiv.org/abs/2601.07034)|null|
 |**2026-01-11**|**Dynamical Correlation of the Post-quench Non-thermal Equilibrium State**|Yang-Yang Chen et.al.|[2601.06987](http://arxiv.org/abs/2601.06987)|null|
@@ -65,6 +70,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Discrete-time maximally superintegrable systems and deformed symmetry algebras: the Calogero-Moser case**|Pavel Drozdov et.al.|[2601.10625](http://arxiv.org/abs/2601.10625)|null|
+|**2026-01-15**|**Quantum solver for single-impurity Anderson models with particle-hole symmetry**|Mariia Karabin et.al.|[2601.10594](http://arxiv.org/abs/2601.10594)|null|
+|**2026-01-15**|**Optimal error estimates for a discontinuous Galerkin method on curved boundaries with polygonal meshes**|Adérito Araújo et.al.|[2601.10474](http://arxiv.org/abs/2601.10474)|null|
+|**2026-01-14**|**Analytic approach to boundary integrability with application to mixed-flux $AdS_3 \times S^3$**|Julio Cabello Gil et.al.|[2601.09935](http://arxiv.org/abs/2601.09935)|null|
+|**2026-01-14**|**Fragmented Topological Excitations in Generalized Hypergraph Product Codes**|Meng-Yuan Li et.al.|[2601.09850](http://arxiv.org/abs/2601.09850)|null|
 |**2026-01-14**|**Matrix product operator representations for the local conserved quantities of the spin- $1/2$ XYZ chain**|Kohei Fukai et.al.|[2601.09245](http://arxiv.org/abs/2601.09245)|null|
 |**2026-01-14**|**Discretization of the Mikhailov model**|Song-lin Zhao et.al.|[2601.09206](http://arxiv.org/abs/2601.09206)|null|
 |**2026-01-13**|**Newell-Whitehead-Segel equation,A Simpler Proof**|Luisiana X. Cundin et.al.|[2601.08965](http://arxiv.org/abs/2601.08965)|null|
@@ -290,6 +300,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Beyond Hubbard: the role of correlated hopping interaction in superconductors and quantum dot devices**|Karol I. Wysokiński et.al.|[2601.10619](http://arxiv.org/abs/2601.10619)|null|
+|**2026-01-15**|**Flat-band Ferromagnetism of SU $(N)$ Hubbard Model on the Kagome Lattices**|Hao Jin et.al.|[2601.10549](http://arxiv.org/abs/2601.10549)|null|
+|**2026-01-15**|**Random matrix theory universality of current operators in spin- $S$ Heisenberg chains**|Mariel Kempa et.al.|[2601.10211](http://arxiv.org/abs/2601.10211)|null|
 |**2026-01-12**|**Magnons in multiorbital Hubbard models, from Lieb to kagome**|Teng-Fei Ying et.al.|[2601.07562](http://arxiv.org/abs/2601.07562)|null|
 |**2026-01-11**|**Altermagnetism-driven FFLO superconductivity in finite-filling 2D lattices**|Xia-Ji Liu et.al.|[2601.06735](http://arxiv.org/abs/2601.06735)|null|
 |**2026-01-10**|**Emergence of Kugel-Khomskii physics in quarter-filled bilayer correlated systems**|Guijing Duan et.al.|[2601.06440](http://arxiv.org/abs/2601.06440)|null|
