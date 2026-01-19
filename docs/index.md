@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.16
+## Updated on 2026.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Towards Quantum-Resistant Trusted Computing: Architectures for Post-Quantum Integrity Verification Techniques**|Grazia D'Onghia et.al.|[2601.11095](http://arxiv.org/abs/2601.11095)|null|
 |**2026-01-15**|**Architectural Classification of XR Workloads: Cross-Layer Archetypes and Implications**|Xinyu Shi et.al.|[2601.10463](http://arxiv.org/abs/2601.10463)|null|
 |**2026-01-15**|**Model-Driven GPR Inversion Network With Surrogate Forward Solver**|Huilin Zhou et.al.|[2601.10284](http://arxiv.org/abs/2601.10284)|null|
 |**2026-01-15**|**Systemically Designed Degrees for Real-World Challenges: A case study on Physics curriculum design at Loughborough University**|M. J. Everitt et.al.|[2601.10219](http://arxiv.org/abs/2601.10219)|null|
@@ -70,6 +71,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**The two-time Leggett-Garg inequalities of a superconducting qubit interacting with thermal photons in a cavity**|Hiroo Azuma et.al.|[2601.10946](http://arxiv.org/abs/2601.10946)|null|
+|**2026-01-15**|**An AS ${}^2$ Menagerie**|Mark Van Raamsdonk et.al.|[2601.10906](http://arxiv.org/abs/2601.10906)|null|
 |**2026-01-15**|**Discrete-time maximally superintegrable systems and deformed symmetry algebras: the Calogero-Moser case**|Pavel Drozdov et.al.|[2601.10625](http://arxiv.org/abs/2601.10625)|null|
 |**2026-01-15**|**Quantum solver for single-impurity Anderson models with particle-hole symmetry**|Mariia Karabin et.al.|[2601.10594](http://arxiv.org/abs/2601.10594)|null|
 |**2026-01-15**|**Optimal error estimates for a discontinuous Galerkin method on curved boundaries with polygonal meshes**|Adérito Araújo et.al.|[2601.10474](http://arxiv.org/abs/2601.10474)|null|
@@ -191,6 +194,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Representations of Spectrum of GL(m) type Quantum Matrices**|Dimitry Gurevich et.al.|[2601.11306](http://arxiv.org/abs/2601.11306)|null|
 |**2026-01-14**|**Classical elliptic ${\rm BC}_1$ Ruijsenaars-van Diejen model: relation to Zhukovsky-Volterra gyrostat and 1-site classical XYZ model with boundaries**|A. Mostovskii et.al.|[2601.06826](http://arxiv.org/abs/2601.06826)|null|
 |**2026-01-10**|**On De Concini-Kac forms of quantum groups**|Ivan Losev et.al.|[2601.06696](http://arxiv.org/abs/2601.06696)|null|
 |**2025-12-26**|**Solutions of 3D Reflection Equation from Quantum Cluster Algebra Associated with Symmetric Butterfly Quiver**|Rei Inoue et.al.|[2512.22004](http://arxiv.org/abs/2512.22004)|null|
@@ -300,6 +304,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Oriented Triplet $p$ -Wave Pairing from Fermi surface Anisotropy and Nonlocal Attraction**|Shuning Tan et.al.|[2601.11267](http://arxiv.org/abs/2601.11267)|null|
+|**2026-01-16**|**Evolution of a Single Impurity Across the Superfluid-Mott insulator Transition in the Bose-Hubbard Model**|Chao Zhang et.al.|[2601.11062](http://arxiv.org/abs/2601.11062)|null|
+|**2026-01-16**|**The fate of a single impurity in the Bose-Hubbard model**|Chao Zhang et.al.|[2601.11058](http://arxiv.org/abs/2601.11058)|null|
+|**2026-01-16**|**Surface Functional Renormalization Group for Layered Quantum Materials**|Lennart Klebl et.al.|[2601.11055](http://arxiv.org/abs/2601.11055)|null|
 |**2026-01-15**|**Beyond Hubbard: the role of correlated hopping interaction in superconductors and quantum dot devices**|Karol I. Wysokiński et.al.|[2601.10619](http://arxiv.org/abs/2601.10619)|null|
 |**2026-01-15**|**Flat-band Ferromagnetism of SU $(N)$ Hubbard Model on the Kagome Lattices**|Hao Jin et.al.|[2601.10549](http://arxiv.org/abs/2601.10549)|null|
 |**2026-01-15**|**Random matrix theory universality of current operators in spin- $S$ Heisenberg chains**|Mariel Kempa et.al.|[2601.10211](http://arxiv.org/abs/2601.10211)|null|
