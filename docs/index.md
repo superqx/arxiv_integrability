@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-19**|**A Scientific Data Integrity system based on Blockchain**|Gian Sebastian Mier Bello et.al.|[2601.13425](http://arxiv.org/abs/2601.13425)|null|
+|**2026-01-19**|**Bihamiltonian tests for integrable systems associated to rank- $1$ F-CohFTs**|Alexandr Buryak et.al.|[2601.13203](http://arxiv.org/abs/2601.13203)|null|
+|**2026-01-19**|**Guiding vector field-based guidance under wind disturbances applied to a tailsitter UAV**|Evangelos Ntouros et.al.|[2601.12987](http://arxiv.org/abs/2601.12987)|null|
+|**2026-01-17**|**A $p$ -adic cohomological approach to congruences of meromorphic modular forms**|Paolo Bordignon et.al.|[2601.12157](http://arxiv.org/abs/2601.12157)|null|
+|**2026-01-17**|**sangkuriang: A pseudo-spectral Python library for Korteweg-de Vries soliton simulation**|Sandy H. S. Herho et.al.|[2601.12029](http://arxiv.org/abs/2601.12029)|null|
+|**2026-01-16**|**POLARIS: Typed Planning and Governed Execution for Agentic AI in Back-Office Automation**|Zahra Moslemi et.al.|[2601.11816](http://arxiv.org/abs/2601.11816)|null|
+|**2026-01-16**|**Habitable Worlds Observatory's Concept and Technology Maturation: Initial Feasibility and Trade Space Exploration**|Lee D. Feinberg et.al.|[2601.11803](http://arxiv.org/abs/2601.11803)|null|
 |**2026-01-16**|**Towards Quantum-Resistant Trusted Computing: Architectures for Post-Quantum Integrity Verification Techniques**|Grazia D'Onghia et.al.|[2601.11095](http://arxiv.org/abs/2601.11095)|null|
 |**2026-01-15**|**Architectural Classification of XR Workloads: Cross-Layer Archetypes and Implications**|Xinyu Shi et.al.|[2601.10463](http://arxiv.org/abs/2601.10463)|null|
 |**2026-01-15**|**Model-Driven GPR Inversion Network With Surrogate Forward Solver**|Huilin Zhou et.al.|[2601.10284](http://arxiv.org/abs/2601.10284)|null|
@@ -71,6 +78,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-20**|**Kaleidoscope Yang-Baxter Equation for Gaudin's Kaleidoscope models**|Wen-Jie Qiu et.al.|[2601.13596](http://arxiv.org/abs/2601.13596)|null|
+|**2026-01-19**|**Bihamiltonian tests for integrable systems associated to rank- $1$ F-CohFTs**|Alexandr Buryak et.al.|[2601.13203](http://arxiv.org/abs/2601.13203)|null|
+|**2026-01-18**|**Heun-function analysis of the Dirac spinor spectrum in a sine-Gordon soliton background**|H. Blas et.al.|[2601.12504](http://arxiv.org/abs/2601.12504)|null|
+|**2026-01-18**|**Explicit symmetric low-regularity integrators for the semilinear Klein-Gordon equation**|Zhirui Shen et.al.|[2601.12246](http://arxiv.org/abs/2601.12246)|null|
+|**2026-01-16**|**Complete Weierstrass elliptic function solutions and canonical coordinates for four-wave mixing in nonlinear optical fibres**|Graham Hesketh et.al.|[2601.11740](http://arxiv.org/abs/2601.11740)|null|
 |**2026-01-16**|**The two-time Leggett-Garg inequalities of a superconducting qubit interacting with thermal photons in a cavity**|Hiroo Azuma et.al.|[2601.10946](http://arxiv.org/abs/2601.10946)|null|
 |**2026-01-15**|**An AS ${}^2$ Menagerie**|Mark Van Raamsdonk et.al.|[2601.10906](http://arxiv.org/abs/2601.10906)|null|
 |**2026-01-15**|**Discrete-time maximally superintegrable systems and deformed symmetry algebras: the Calogero-Moser case**|Pavel Drozdov et.al.|[2601.10625](http://arxiv.org/abs/2601.10625)|null|
@@ -223,6 +235,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-20**|**Kaleidoscope Yang-Baxter Equation for Gaudin's Kaleidoscope models**|Wen-Jie Qiu et.al.|[2601.13596](http://arxiv.org/abs/2601.13596)|null|
 |**2026-01-08**|**Full counting statistics in the sine--Gordon model**|Botond C. Nagy et.al.|[2601.05079](http://arxiv.org/abs/2601.05079)|null|
 |**2025-12-30**|**On spectral equations for an evolution operator of a $q$ -oscillator lattice**|Sergey Sergeev et.al.|[2512.24043](http://arxiv.org/abs/2512.24043)|null|
 |**2025-12-22**|**Finite-gap potentials as a semiclassical limit of the thermodynamic Bethe Ansatz**|Valdemar Melin et.al.|[2512.19655](http://arxiv.org/abs/2512.19655)|null|
@@ -304,6 +317,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-20**|**Quantum Avalanche Stability of Many-Body Localization with Power-Law Interactions**|Longhui Shen et.al.|[2601.13485](http://arxiv.org/abs/2601.13485)|null|
+|**2026-01-19**|**Synthesizing Strong-Coupling Kohn-Luttinger Superconductivity in 2D Van der Waals materials**|Shi-Cong Mo et.al.|[2601.13074](http://arxiv.org/abs/2601.13074)|null|
+|**2026-01-19**|**Correlation lengths of flat-band superconductivity from quantum geometry**|S. S. Elden et.al.|[2601.12969](http://arxiv.org/abs/2601.12969)|null|
+|**2026-01-19**|**Emergent gauge flux and spin ordering in magnetized triangular spin liquids: applications to Hofstadter-Hubbard model**|Jiahao Yang et.al.|[2601.12898](http://arxiv.org/abs/2601.12898)|null|
+|**2026-01-18**|**Efficient classical simulation of time dynamics in Fermi-Hubbard models with imaginary interactions**|Raul A. Santos et.al.|[2601.12368](http://arxiv.org/abs/2601.12368)|null|
+|**2026-01-18**|**Inverse Quantum Simulation for Quantum Material Design**|Christian Kokail et.al.|[2601.12239](http://arxiv.org/abs/2601.12239)|null|
 |**2026-01-16**|**Oriented Triplet $p$ -Wave Pairing from Fermi surface Anisotropy and Nonlocal Attraction**|Shuning Tan et.al.|[2601.11267](http://arxiv.org/abs/2601.11267)|null|
 |**2026-01-16**|**Evolution of a Single Impurity Across the Superfluid-Mott insulator Transition in the Bose-Hubbard Model**|Chao Zhang et.al.|[2601.11062](http://arxiv.org/abs/2601.11062)|null|
 |**2026-01-16**|**The fate of a single impurity in the Bose-Hubbard model**|Chao Zhang et.al.|[2601.11058](http://arxiv.org/abs/2601.11058)|null|
