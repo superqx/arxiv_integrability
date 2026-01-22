@@ -1,4 +1,4 @@
-## Updated on 2026.01.21
+## Updated on 2026.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,13 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Gauge transform for the Korteweg-de Vries equation and well-posedness below the $H^{-1}$ -scale**|Andreia Chapouto et.al.|[2601.15060](http://arxiv.org/abs/2601.15060)|null|
+|**2026-01-20**|**Stirring Things Up: Bar-induced substructures in the stellar halo of a cosmological Milky Way analogue**|Thomas Tomlinson et.al.|[2601.14409](http://arxiv.org/abs/2601.14409)|null|
+|**2026-01-20**|**Electrical detection of high-order optical orbital angular momentum**|Guanyu Zhang et.al.|[2601.13691](http://arxiv.org/abs/2601.13691)|null|
 |**2026-01-19**|**A Scientific Data Integrity system based on Blockchain**|Gian Sebastian Mier Bello et.al.|[2601.13425](http://arxiv.org/abs/2601.13425)|null|
 |**2026-01-19**|**Bihamiltonian tests for integrable systems associated to rank- $1$ F-CohFTs**|Alexandr Buryak et.al.|[2601.13203](http://arxiv.org/abs/2601.13203)|null|
 |**2026-01-19**|**Guiding vector field-based guidance under wind disturbances applied to a tailsitter UAV**|Evangelos Ntouros et.al.|[2601.12987](http://arxiv.org/abs/2601.12987)|null|
 |**2026-01-17**|**A $p$ -adic cohomological approach to congruences of meromorphic modular forms**|Paolo Bordignon et.al.|[2601.12157](http://arxiv.org/abs/2601.12157)|null|
 |**2026-01-17**|**sangkuriang: A pseudo-spectral Python library for Korteweg-de Vries soliton simulation**|Sandy H. S. Herho et.al.|[2601.12029](http://arxiv.org/abs/2601.12029)|null|
 |**2026-01-16**|**POLARIS: Typed Planning and Governed Execution for Agentic AI in Back-Office Automation**|Zahra Moslemi et.al.|[2601.11816](http://arxiv.org/abs/2601.11816)|null|
-|**2026-01-16**|**Habitable Worlds Observatory's Concept and Technology Maturation: Initial Feasibility and Trade Space Exploration**|Lee D. Feinberg et.al.|[2601.11803](http://arxiv.org/abs/2601.11803)|null|
+|**2026-01-21**|**Habitable Worlds Observatory's Concept and Technology Maturation: Initial Feasibility and Trade Space Exploration**|Lee D. Feinberg et.al.|[2601.11803](http://arxiv.org/abs/2601.11803)|null|
 |**2026-01-16**|**Towards Quantum-Resistant Trusted Computing: Architectures for Post-Quantum Integrity Verification Techniques**|Grazia D'Onghia et.al.|[2601.11095](http://arxiv.org/abs/2601.11095)|null|
 |**2026-01-15**|**Architectural Classification of XR Workloads: Cross-Layer Archetypes and Implications**|Xinyu Shi et.al.|[2601.10463](http://arxiv.org/abs/2601.10463)|null|
 |**2026-01-15**|**Model-Driven GPR Inversion Network With Surrogate Forward Solver**|Huilin Zhou et.al.|[2601.10284](http://arxiv.org/abs/2601.10284)|null|
@@ -85,12 +88,19 @@
 |**2025-12-05**|**NICE: Neural Implicit Craniofacial Model for Orthognathic Surgery Prediction**|Jiawen Yang et.al.|[2512.05920](http://arxiv.org/abs/2512.05920)|null|
 |**2025-12-05**|**A Discontinuous Galerkin Consistent Splitting Method for the Incompressible Navier-Stokes Equations**|Dominik Still et.al.|[2512.05919](http://arxiv.org/abs/2512.05919)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## Exact solution
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Exact general solutions for cosmological scalar field evolution in a vacuum-energy dominated expansion**|Patrick Hu et.al.|[2601.15226](http://arxiv.org/abs/2601.15226)|null|
+|**2026-01-21**|**The integrable Volterra system in the case of infinitely manyspecies, either countable or uncountable**|Orlando Ragnisco et.al.|[2601.15150](http://arxiv.org/abs/2601.15150)|null|
+|**2026-01-21**|**The exact dynamical structure factor of one-dimensional hard rods and its universal random matrix behavior**|Oleksandr Gamayun et.al.|[2601.15108](http://arxiv.org/abs/2601.15108)|null|
+|**2026-01-20**|**Exactly Solvable 1+1d Chiral Lattice Gauge Theories**|Sahand Seifnashri et.al.|[2601.14359](http://arxiv.org/abs/2601.14359)|null|
+|**2026-01-19**|**Static four-charge squashed black hole in five-dimensional $STU-W^2U$ supergravity and its thermodynamics**|Di Wu et.al.|[2601.14315](http://arxiv.org/abs/2601.14315)|null|
+|**2026-01-20**|**The Hamilton-Jacobi Equation and its Application to Nonlinear Beam Dynamics: Comparison of Approaches**|Stephan I. Tzenov et.al.|[2601.13739](http://arxiv.org/abs/2601.13739)|null|
+|**2026-01-20**|**Exact solution of the (2+1)-dimensional damping forcing coupled Burgers equation by using Darboux transformation**|Prasanta Chatterjee et.al.|[2601.13634](http://arxiv.org/abs/2601.13634)|null|
 |**2026-01-20**|**Kaleidoscope Yang-Baxter Equation for Gaudin's Kaleidoscope models**|Wen-Jie Qiu et.al.|[2601.13596](http://arxiv.org/abs/2601.13596)|null|
 |**2026-01-19**|**Bihamiltonian tests for integrable systems associated to rank- $1$ F-CohFTs**|Alexandr Buryak et.al.|[2601.13203](http://arxiv.org/abs/2601.13203)|null|
 |**2026-01-18**|**Heun-function analysis of the Dirac spinor spectrum in a sine-Gordon soliton background**|H. Blas et.al.|[2601.12504](http://arxiv.org/abs/2601.12504)|null|
@@ -189,12 +199,13 @@
 |**2025-12-04**|**Exactly Solvable Population Model with Square-Root Growth Noise and Cell-Size Regulation**|Farshid Jafarpour et.al.|[2512.05190](http://arxiv.org/abs/2512.05190)|null|
 |**2025-12-04**|**Geophysical intensity problems: the axisymmetric case**|Ralf Kaiser et.al.|[2512.05010](http://arxiv.org/abs/2512.05010)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## Conserved charges
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**Exact solution of the (2+1)-dimensional damping forcing coupled Burgers equation by using Darboux transformation**|Prasanta Chatterjee et.al.|[2601.13634](http://arxiv.org/abs/2601.13634)|null|
 |**2026-01-10**|**Inverse problem for the divisor of the good Boussinesq equation**|Andrey Badanin et.al.|[2601.06683](http://arxiv.org/abs/2601.06683)|null|
 |**2026-01-09**|**On an integrable 2+1-dimensional extended Dym equation: Lax pair, $\bar{\partial}$ -dressing scheme and modulation**|Boris Konopelchenko et.al.|[2601.05954](http://arxiv.org/abs/2601.05954)|null|
 |**2026-01-09**|**On consistency around a $3 \times 3\times 3$ cube and Q3 analogue of the lattice Boussinesq equation**|Pengyu Sun et.al.|[2601.05565](http://arxiv.org/abs/2601.05565)|null|
@@ -217,7 +228,7 @@
 |**2025-10-18**|**Multi-Soliton Propagation and Interaction in $Λ$ -Type EIT Media: An Integrable Approach**|Ramesh Kumar Vaduganathan et.al.|[2510.16364](http://arxiv.org/abs/2510.16364)|null|
 |**2025-10-06**|**Quasi-integrability from PT-symmetry**|Kumar Abhinav et.al.|[2510.05065](http://arxiv.org/abs/2510.05065)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## Yang-Baxter equation
 
@@ -248,7 +259,7 @@
 |**2025-10-27**|**A general fusion procedure for open $\mathfrak{gl}(N)$ spin chains: Application to the ABJM spin chain**|Nan Bai et.al.|[2507.19394](http://arxiv.org/abs/2507.19394)|null|
 |**2025-07-21**|**One-point functions in AdS/dCFT: MPS and twisted Yangian**|Xin Qian et.al.|[2507.15462](http://arxiv.org/abs/2507.15462)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## Bethe ansatz
 
@@ -274,12 +285,13 @@
 |**2025-10-29**|**Quantum-group-invariant $D^{(2)}_{n+1}$ models: Bethe ansatz and finite-size spectrum**|Holger Frahm et.al.|[2509.00610](http://arxiv.org/abs/2509.00610)|null|
 |**2025-12-11**|**Contact 4d Chern-Simons theory: Generalities**|David M. Schmidtt et.al.|[2508.19375](http://arxiv.org/abs/2508.19375)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## 2d integrable model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Gauge transform for the Korteweg-de Vries equation and well-posedness below the $H^{-1}$ -scale**|Andreia Chapouto et.al.|[2601.15060](http://arxiv.org/abs/2601.15060)|null|
 |**2026-01-09**|**Evolution of localized pulses in the defocusing modified Korteweg-de Vries equation theory**|L. F. Calazans de Brito et.al.|[2601.05938](http://arxiv.org/abs/2601.05938)|null|
 |**2026-01-08**|**Full counting statistics in the sine--Gordon model**|Botond C. Nagy et.al.|[2601.05079](http://arxiv.org/abs/2601.05079)|null|
 |**2026-01-06**|**Multiple double-valley and single-valley dark solitons in the complex modified Korteweg-de Vries equation: shape-preserving collisions and shape-altering collisions**|Yingcan Huang et.al.|[2601.02810](http://arxiv.org/abs/2601.02810)|null|
@@ -309,7 +321,7 @@
 |**2025-11-22**|**Active Learning with Selective Time-Step Acquisition for PDEs**|Yegon Kim et.al.|[2511.18107](http://arxiv.org/abs/2511.18107)|null|
 |**2025-12-05**|**Long-Time Dynamics of the Zakharov-Kuznetsov Equation**|Roberto de A. Capistrano Filho et.al.|[2511.17830](http://arxiv.org/abs/2511.17830)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## quantum integrable field theory
 
@@ -336,12 +348,16 @@
 |**2025-03-06**|**Landscapes of integrable long-range spin chains**|Rob Klabbers et.al.|[2405.09718](http://arxiv.org/abs/2405.09718)|null|
 |**2024-04-02**|**Thermodynamic formulation of vacuum energy density in flat spacetime and potential implications for the cosmological constant**|André LeClair et.al.|[2404.02350](http://arxiv.org/abs/2404.02350)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## spin chain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Ionization energy and electron affinity of fullerene C60 in the Hubbard model in the static fluctuation approximation**|Gennadiy Ivanovich Mironov et.al.|[2601.14817](http://arxiv.org/abs/2601.14817)|null|
+|**2026-01-20**|**Many-body Euler topology**|Axel Fünfhaus et.al.|[2601.14217](http://arxiv.org/abs/2601.14217)|null|
+|**2026-01-20**|**Altermagnetic phases and phase transitions in Lieb- $5$ Hubbard model**|Sougata Biswas et.al.|[2601.14200](http://arxiv.org/abs/2601.14200)|null|
+|**2026-01-20**|**Entanglement entropy and disorder operator at kagome deconfined quantum criticality**|Yan-Cheng Wang et.al.|[2601.13774](http://arxiv.org/abs/2601.13774)|null|
 |**2026-01-20**|**Quantum Avalanche Stability of Many-Body Localization with Power-Law Interactions**|Longhui Shen et.al.|[2601.13485](http://arxiv.org/abs/2601.13485)|null|
 |**2026-01-19**|**Synthesizing Strong-Coupling Kohn-Luttinger Superconductivity in 2D Van der Waals materials**|Shi-Cong Mo et.al.|[2601.13074](http://arxiv.org/abs/2601.13074)|null|
 |**2026-01-19**|**Correlation lengths of flat-band superconductivity from quantum geometry**|S. S. Elden et.al.|[2601.12969](http://arxiv.org/abs/2601.12969)|null|
@@ -397,7 +413,7 @@
 |**2025-12-02**|**Phase diagram of the one-dimensional three-state Potts model with an additional mean-field interaction**|Alessandro Campa et.al.|[2512.02930](http://arxiv.org/abs/2512.02930)|null|
 |**2025-12-02**|**Reaching Sachdev-Ye-Kitaev physics by shaking the Hubbard model**|Charles Creffield et.al.|[2512.02755](http://arxiv.org/abs/2512.02755)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## Non-equilibrium
 
@@ -433,5 +449,5 @@
 |**2025-12-01**|**Thermalization of exact quantum many-body scars in spin-1 XY chain under perturbation**|Himadri Halder et.al.|[2511.17476](http://arxiv.org/abs/2511.17476)|null|
 |**2025-11-14**|**Scaling of free cumulants in closed system-bath setups**|Merlin Füllgraf et.al.|[2511.11333](http://arxiv.org/abs/2511.11333)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 

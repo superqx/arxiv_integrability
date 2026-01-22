@@ -2,20 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.01.21
+## Updated on 2026.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Gauge transform for the Korteweg-de Vries equation and well-posedness below the $H^{-1}$ -scale**|Andreia Chapouto et.al.|[2601.15060](http://arxiv.org/abs/2601.15060)|null|
+|**2026-01-20**|**Stirring Things Up: Bar-induced substructures in the stellar halo of a cosmological Milky Way analogue**|Thomas Tomlinson et.al.|[2601.14409](http://arxiv.org/abs/2601.14409)|null|
+|**2026-01-20**|**Electrical detection of high-order optical orbital angular momentum**|Guanyu Zhang et.al.|[2601.13691](http://arxiv.org/abs/2601.13691)|null|
 |**2026-01-19**|**A Scientific Data Integrity system based on Blockchain**|Gian Sebastian Mier Bello et.al.|[2601.13425](http://arxiv.org/abs/2601.13425)|null|
 |**2026-01-19**|**Bihamiltonian tests for integrable systems associated to rank- $1$ F-CohFTs**|Alexandr Buryak et.al.|[2601.13203](http://arxiv.org/abs/2601.13203)|null|
 |**2026-01-19**|**Guiding vector field-based guidance under wind disturbances applied to a tailsitter UAV**|Evangelos Ntouros et.al.|[2601.12987](http://arxiv.org/abs/2601.12987)|null|
 |**2026-01-17**|**A $p$ -adic cohomological approach to congruences of meromorphic modular forms**|Paolo Bordignon et.al.|[2601.12157](http://arxiv.org/abs/2601.12157)|null|
 |**2026-01-17**|**sangkuriang: A pseudo-spectral Python library for Korteweg-de Vries soliton simulation**|Sandy H. S. Herho et.al.|[2601.12029](http://arxiv.org/abs/2601.12029)|null|
 |**2026-01-16**|**POLARIS: Typed Planning and Governed Execution for Agentic AI in Back-Office Automation**|Zahra Moslemi et.al.|[2601.11816](http://arxiv.org/abs/2601.11816)|null|
-|**2026-01-16**|**Habitable Worlds Observatory's Concept and Technology Maturation: Initial Feasibility and Trade Space Exploration**|Lee D. Feinberg et.al.|[2601.11803](http://arxiv.org/abs/2601.11803)|null|
+|**2026-01-21**|**Habitable Worlds Observatory's Concept and Technology Maturation: Initial Feasibility and Trade Space Exploration**|Lee D. Feinberg et.al.|[2601.11803](http://arxiv.org/abs/2601.11803)|null|
 |**2026-01-16**|**Towards Quantum-Resistant Trusted Computing: Architectures for Post-Quantum Integrity Verification Techniques**|Grazia D'Onghia et.al.|[2601.11095](http://arxiv.org/abs/2601.11095)|null|
 |**2026-01-15**|**Architectural Classification of XR Workloads: Cross-Layer Archetypes and Implications**|Xinyu Shi et.al.|[2601.10463](http://arxiv.org/abs/2601.10463)|null|
 |**2026-01-15**|**Model-Driven GPR Inversion Network With Surrogate Forward Solver**|Huilin Zhou et.al.|[2601.10284](http://arxiv.org/abs/2601.10284)|null|
@@ -78,6 +81,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Exact general solutions for cosmological scalar field evolution in a vacuum-energy dominated expansion**|Patrick Hu et.al.|[2601.15226](http://arxiv.org/abs/2601.15226)|null|
+|**2026-01-21**|**The integrable Volterra system in the case of infinitely manyspecies, either countable or uncountable**|Orlando Ragnisco et.al.|[2601.15150](http://arxiv.org/abs/2601.15150)|null|
+|**2026-01-21**|**The exact dynamical structure factor of one-dimensional hard rods and its universal random matrix behavior**|Oleksandr Gamayun et.al.|[2601.15108](http://arxiv.org/abs/2601.15108)|null|
+|**2026-01-20**|**Exactly Solvable 1+1d Chiral Lattice Gauge Theories**|Sahand Seifnashri et.al.|[2601.14359](http://arxiv.org/abs/2601.14359)|null|
+|**2026-01-19**|**Static four-charge squashed black hole in five-dimensional $STU-W^2U$ supergravity and its thermodynamics**|Di Wu et.al.|[2601.14315](http://arxiv.org/abs/2601.14315)|null|
+|**2026-01-20**|**The Hamilton-Jacobi Equation and its Application to Nonlinear Beam Dynamics: Comparison of Approaches**|Stephan I. Tzenov et.al.|[2601.13739](http://arxiv.org/abs/2601.13739)|null|
+|**2026-01-20**|**Exact solution of the (2+1)-dimensional damping forcing coupled Burgers equation by using Darboux transformation**|Prasanta Chatterjee et.al.|[2601.13634](http://arxiv.org/abs/2601.13634)|null|
 |**2026-01-20**|**Kaleidoscope Yang-Baxter Equation for Gaudin's Kaleidoscope models**|Wen-Jie Qiu et.al.|[2601.13596](http://arxiv.org/abs/2601.13596)|null|
 |**2026-01-19**|**Bihamiltonian tests for integrable systems associated to rank- $1$ F-CohFTs**|Alexandr Buryak et.al.|[2601.13203](http://arxiv.org/abs/2601.13203)|null|
 |**2026-01-18**|**Heun-function analysis of the Dirac spinor spectrum in a sine-Gordon soliton background**|H. Blas et.al.|[2601.12504](http://arxiv.org/abs/2601.12504)|null|
@@ -180,6 +190,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-20**|**Exact solution of the (2+1)-dimensional damping forcing coupled Burgers equation by using Darboux transformation**|Prasanta Chatterjee et.al.|[2601.13634](http://arxiv.org/abs/2601.13634)|null|
 |**2026-01-10**|**Inverse problem for the divisor of the good Boussinesq equation**|Andrey Badanin et.al.|[2601.06683](http://arxiv.org/abs/2601.06683)|null|
 |**2026-01-09**|**On an integrable 2+1-dimensional extended Dym equation: Lax pair, $\bar{\partial}$ -dressing scheme and modulation**|Boris Konopelchenko et.al.|[2601.05954](http://arxiv.org/abs/2601.05954)|null|
 |**2026-01-09**|**On consistency around a $3 \times 3\times 3$ cube and Q3 analogue of the lattice Boussinesq equation**|Pengyu Sun et.al.|[2601.05565](http://arxiv.org/abs/2601.05565)|null|
@@ -259,6 +270,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Gauge transform for the Korteweg-de Vries equation and well-posedness below the $H^{-1}$ -scale**|Andreia Chapouto et.al.|[2601.15060](http://arxiv.org/abs/2601.15060)|null|
 |**2026-01-09**|**Evolution of localized pulses in the defocusing modified Korteweg-de Vries equation theory**|L. F. Calazans de Brito et.al.|[2601.05938](http://arxiv.org/abs/2601.05938)|null|
 |**2026-01-08**|**Full counting statistics in the sine--Gordon model**|Botond C. Nagy et.al.|[2601.05079](http://arxiv.org/abs/2601.05079)|null|
 |**2026-01-06**|**Multiple double-valley and single-valley dark solitons in the complex modified Korteweg-de Vries equation: shape-preserving collisions and shape-altering collisions**|Yingcan Huang et.al.|[2601.02810](http://arxiv.org/abs/2601.02810)|null|
@@ -317,6 +329,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Ionization energy and electron affinity of fullerene C60 in the Hubbard model in the static fluctuation approximation**|Gennadiy Ivanovich Mironov et.al.|[2601.14817](http://arxiv.org/abs/2601.14817)|null|
+|**2026-01-20**|**Many-body Euler topology**|Axel Fünfhaus et.al.|[2601.14217](http://arxiv.org/abs/2601.14217)|null|
+|**2026-01-20**|**Altermagnetic phases and phase transitions in Lieb- $5$ Hubbard model**|Sougata Biswas et.al.|[2601.14200](http://arxiv.org/abs/2601.14200)|null|
+|**2026-01-20**|**Entanglement entropy and disorder operator at kagome deconfined quantum criticality**|Yan-Cheng Wang et.al.|[2601.13774](http://arxiv.org/abs/2601.13774)|null|
 |**2026-01-20**|**Quantum Avalanche Stability of Many-Body Localization with Power-Law Interactions**|Longhui Shen et.al.|[2601.13485](http://arxiv.org/abs/2601.13485)|null|
 |**2026-01-19**|**Synthesizing Strong-Coupling Kohn-Luttinger Superconductivity in 2D Van der Waals materials**|Shi-Cong Mo et.al.|[2601.13074](http://arxiv.org/abs/2601.13074)|null|
 |**2026-01-19**|**Correlation lengths of flat-band superconductivity from quantum geometry**|S. S. Elden et.al.|[2601.12969](http://arxiv.org/abs/2601.12969)|null|
