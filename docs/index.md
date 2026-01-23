@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.22
+## Updated on 2026.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Efficiently Learning Robust Torque-based Locomotion Through Reinforcement with Model-Based Supervision**|Yashuai Yan et.al.|[2601.16109](http://arxiv.org/abs/2601.16109)|null|
 |**2026-01-21**|**Gauge transform for the Korteweg-de Vries equation and well-posedness below the $H^{-1}$ -scale**|Andreia Chapouto et.al.|[2601.15060](http://arxiv.org/abs/2601.15060)|null|
 |**2026-01-20**|**Stirring Things Up: Bar-induced substructures in the stellar halo of a cosmological Milky Way analogue**|Thomas Tomlinson et.al.|[2601.14409](http://arxiv.org/abs/2601.14409)|null|
 |**2026-01-20**|**Electrical detection of high-order optical orbital angular momentum**|Guanyu Zhang et.al.|[2601.13691](http://arxiv.org/abs/2601.13691)|null|
@@ -81,6 +82,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**High-Degree Polynomial Approximations for Solving Linear Integral, Integro-Differential, and Ordinary Differential Equations**|Vladimir Kryzhniy et.al.|[2601.16143](http://arxiv.org/abs/2601.16143)|null|
+|**2026-01-22**|**Matrix Bootstrap Approximation without Positivity Constraint**|Reishi Maeta et.al.|[2601.16099](http://arxiv.org/abs/2601.16099)|null|
+|**2026-01-22**|**Exact Kerr-Newman-(A)dS and other spacetimes in bumblebee gravity: employing a novel generating technique**|Hryhorii Ovcharenko et.al.|[2601.16037](http://arxiv.org/abs/2601.16037)|null|
+|**2026-01-22**|**A Modified Center-of-Mass Conservation Law in Finite-Domain Simulations of the Zakharov--Kuznetsov Equation**|Nobuyuki Sawado et.al.|[2601.15573](http://arxiv.org/abs/2601.15573)|null|
+|**2026-01-21**|**Exactly solvable topological phase transition in a quantum dimer model**|Laura Shou et.al.|[2601.15377](http://arxiv.org/abs/2601.15377)|null|
 |**2026-01-21**|**Exact general solutions for cosmological scalar field evolution in a vacuum-energy dominated expansion**|Patrick Hu et.al.|[2601.15226](http://arxiv.org/abs/2601.15226)|null|
 |**2026-01-21**|**The integrable Volterra system in the case of infinitely manyspecies, either countable or uncountable**|Orlando Ragnisco et.al.|[2601.15150](http://arxiv.org/abs/2601.15150)|null|
 |**2026-01-21**|**The exact dynamical structure factor of one-dimensional hard rods and its universal random matrix behavior**|Oleksandr Gamayun et.al.|[2601.15108](http://arxiv.org/abs/2601.15108)|null|
@@ -270,6 +276,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Riemann-Hilbert approach for the nonlocal modified Korteweg-de Vries equation with a step-like oscillating background**|Yan Rybalko et.al.|[2601.15841](http://arxiv.org/abs/2601.15841)|null|
+|**2026-01-22**|**A Modified Center-of-Mass Conservation Law in Finite-Domain Simulations of the Zakharov--Kuznetsov Equation**|Nobuyuki Sawado et.al.|[2601.15573](http://arxiv.org/abs/2601.15573)|null|
 |**2026-01-21**|**Gauge transform for the Korteweg-de Vries equation and well-posedness below the $H^{-1}$ -scale**|Andreia Chapouto et.al.|[2601.15060](http://arxiv.org/abs/2601.15060)|null|
 |**2026-01-09**|**Evolution of localized pulses in the defocusing modified Korteweg-de Vries equation theory**|L. F. Calazans de Brito et.al.|[2601.05938](http://arxiv.org/abs/2601.05938)|null|
 |**2026-01-08**|**Full counting statistics in the sine--Gordon model**|Botond C. Nagy et.al.|[2601.05079](http://arxiv.org/abs/2601.05079)|null|
@@ -329,6 +337,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Frictional work and entropy production in integrable and non-integrable spin chains**|Vishnu Muraleedharan Sajitha et.al.|[2601.15941](http://arxiv.org/abs/2601.15941)|null|
+|**2026-01-22**|**Tensor-based phase difference estimation on time series analysis**|Shu Kanno et.al.|[2601.15616](http://arxiv.org/abs/2601.15616)|null|
 |**2026-01-21**|**Ionization energy and electron affinity of fullerene C60 in the Hubbard model in the static fluctuation approximation**|Gennadiy Ivanovich Mironov et.al.|[2601.14817](http://arxiv.org/abs/2601.14817)|null|
 |**2026-01-20**|**Many-body Euler topology**|Axel Fünfhaus et.al.|[2601.14217](http://arxiv.org/abs/2601.14217)|null|
 |**2026-01-20**|**Altermagnetic phases and phase transitions in Lieb- $5$ Hubbard model**|Sougata Biswas et.al.|[2601.14200](http://arxiv.org/abs/2601.14200)|null|
