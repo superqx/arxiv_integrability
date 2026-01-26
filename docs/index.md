@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Stochastic Analysis of Fifth-Order KdV Soliton in Damping Regime and Reduction to Painlevé Second Equation**|Irfan Mahmood et.al.|[2601.16854](http://arxiv.org/abs/2601.16854)|null|
 |**2026-01-22**|**Efficiently Learning Robust Torque-based Locomotion Through Reinforcement with Model-Based Supervision**|Yashuai Yan et.al.|[2601.16109](http://arxiv.org/abs/2601.16109)|null|
 |**2026-01-21**|**Gauge transform for the Korteweg-de Vries equation and well-posedness below the $H^{-1}$ -scale**|Andreia Chapouto et.al.|[2601.15060](http://arxiv.org/abs/2601.15060)|null|
 |**2026-01-20**|**Stirring Things Up: Bar-induced substructures in the stellar halo of a cosmological Milky Way analogue**|Thomas Tomlinson et.al.|[2601.14409](http://arxiv.org/abs/2601.14409)|null|
@@ -82,12 +83,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Generalized Integrable Boundary States in XXZ and XYZ Spin Chains**|Xin Qian et.al.|[2601.16605](http://arxiv.org/abs/2601.16605)|null|
 |**2026-01-22**|**High-Degree Polynomial Approximations for Solving Linear Integral, Integro-Differential, and Ordinary Differential Equations**|Vladimir Kryzhniy et.al.|[2601.16143](http://arxiv.org/abs/2601.16143)|null|
 |**2026-01-22**|**Matrix Bootstrap Approximation without Positivity Constraint**|Reishi Maeta et.al.|[2601.16099](http://arxiv.org/abs/2601.16099)|null|
 |**2026-01-22**|**Exact Kerr-Newman-(A)dS and other spacetimes in bumblebee gravity: employing a novel generating technique**|Hryhorii Ovcharenko et.al.|[2601.16037](http://arxiv.org/abs/2601.16037)|null|
 |**2026-01-22**|**A Modified Center-of-Mass Conservation Law in Finite-Domain Simulations of the Zakharov--Kuznetsov Equation**|Nobuyuki Sawado et.al.|[2601.15573](http://arxiv.org/abs/2601.15573)|null|
 |**2026-01-21**|**Exactly solvable topological phase transition in a quantum dimer model**|Laura Shou et.al.|[2601.15377](http://arxiv.org/abs/2601.15377)|null|
-|**2026-01-21**|**Exact general solutions for cosmological scalar field evolution in a vacuum-energy dominated expansion**|Patrick Hu et.al.|[2601.15226](http://arxiv.org/abs/2601.15226)|null|
+|**2026-01-23**|**Exact general solutions for cosmological scalar field evolution in a vacuum-energy dominated expansion**|Patrick Hu et.al.|[2601.15226](http://arxiv.org/abs/2601.15226)|null|
 |**2026-01-21**|**The integrable Volterra system in the case of infinitely manyspecies, either countable or uncountable**|Orlando Ragnisco et.al.|[2601.15150](http://arxiv.org/abs/2601.15150)|null|
 |**2026-01-21**|**The exact dynamical structure factor of one-dimensional hard rods and its universal random matrix behavior**|Oleksandr Gamayun et.al.|[2601.15108](http://arxiv.org/abs/2601.15108)|null|
 |**2026-01-20**|**Exactly Solvable 1+1d Chiral Lattice Gauge Theories**|Sahand Seifnashri et.al.|[2601.14359](http://arxiv.org/abs/2601.14359)|null|
@@ -196,6 +198,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**The Coupled Hitchin-He Equations: Integrable Deformations and Rigidity of the Moduli Space**|Haoran He et.al.|[2601.16521](http://arxiv.org/abs/2601.16521)|null|
 |**2026-01-20**|**Exact solution of the (2+1)-dimensional damping forcing coupled Burgers equation by using Darboux transformation**|Prasanta Chatterjee et.al.|[2601.13634](http://arxiv.org/abs/2601.13634)|null|
 |**2026-01-10**|**Inverse problem for the divisor of the good Boussinesq equation**|Andrey Badanin et.al.|[2601.06683](http://arxiv.org/abs/2601.06683)|null|
 |**2026-01-09**|**On an integrable 2+1-dimensional extended Dym equation: Lax pair, $\bar{\partial}$ -dressing scheme and modulation**|Boris Konopelchenko et.al.|[2601.05954](http://arxiv.org/abs/2601.05954)|null|
@@ -337,6 +340,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Zoology of Altermagnetic-type Non-collinear Magnets on the Maple Leaf Lattice**|Pratyay Ghosh et.al.|[2601.16807](http://arxiv.org/abs/2601.16807)|null|
 |**2026-01-22**|**Frictional work and entropy production in integrable and non-integrable spin chains**|Vishnu Muraleedharan Sajitha et.al.|[2601.15941](http://arxiv.org/abs/2601.15941)|null|
 |**2026-01-22**|**Tensor-based phase difference estimation on time series analysis**|Shu Kanno et.al.|[2601.15616](http://arxiv.org/abs/2601.15616)|null|
 |**2026-01-21**|**Ionization energy and electron affinity of fullerene C60 in the Hubbard model in the static fluctuation approximation**|Gennadiy Ivanovich Mironov et.al.|[2601.14817](http://arxiv.org/abs/2601.14817)|null|
