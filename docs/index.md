@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.01.26
+## Updated on 2026.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Symmetric polynomials: DIM integrable systems versus twisted Cherednik systems**|A. Mironov et.al.|[2601.19878](http://arxiv.org/abs/2601.19878)|null|
+|**2026-01-26**|**Hamiltonian Analysis of Doubled 4d Chern-Simons**|Jake Stedman et.al.|[2601.18647](http://arxiv.org/abs/2601.18647)|null|
+|**2026-01-26**|**Time-reversed Shannon entropy as a chaos indicator for non-integrable systems**|Wenfu Cao et.al.|[2601.18422](http://arxiv.org/abs/2601.18422)|null|
+|**2026-01-23**|**Logarithmic Density of Rank $\geq 1$ and Rank $\geq 2$ Genus-2 Jacobians and Applications to Hyperelliptic Curve Cryptography**|Razvan Barbulescu et.al.|[2601.17142](http://arxiv.org/abs/2601.17142)|null|
 |**2026-01-23**|**Stochastic Analysis of Fifth-Order KdV Soliton in Damping Regime and Reduction to Painlevé Second Equation**|Irfan Mahmood et.al.|[2601.16854](http://arxiv.org/abs/2601.16854)|null|
 |**2026-01-22**|**Efficiently Learning Robust Torque-based Locomotion Through Reinforcement with Model-Based Supervision**|Yashuai Yan et.al.|[2601.16109](http://arxiv.org/abs/2601.16109)|null|
 |**2026-01-21**|**Gauge transform for the Korteweg-de Vries equation and well-posedness below the $H^{-1}$ -scale**|Andreia Chapouto et.al.|[2601.15060](http://arxiv.org/abs/2601.15060)|null|
@@ -83,6 +87,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Approximate Decoherence, Recoherence and Records in Isolated Quantum Systems**|Philipp Strasberg et.al.|[2601.19703](http://arxiv.org/abs/2601.19703)|null|
+|**2026-01-27**|**The diffusion equation is compatible with special relativity**|Lorenzo Gavassino et.al.|[2601.19464](http://arxiv.org/abs/2601.19464)|null|
+|**2026-01-27**|**Coupled Majorana modes in a dual vortex of the Kitaev honeycomb model**|Surajit Basak et.al.|[2601.19458](http://arxiv.org/abs/2601.19458)|null|
+|**2026-01-27**|**Green's Function Formalism for Impurity-Induced Resonances in Sub-barrier Proton-Nucleus Scattering**|Bahruz Suleymanli et.al.|[2601.19374](http://arxiv.org/abs/2601.19374)|null|
+|**2026-01-26**|**On-Axis Optical Trapping with Vortex Beams: The Role of the Multipolar Decomposition**|Iker Gómez-Viloria et.al.|[2601.18915](http://arxiv.org/abs/2601.18915)|null|
+|**2026-01-26**|**Adaptive Domain Shift in Diffusion Models for Cross-Modality Image Translation**|Zihao Wang et.al.|[2601.18623](http://arxiv.org/abs/2601.18623)|null|
+|**2026-01-26**|**Flash evaporation Riemann Problem: Formulation and its Exact Solution**|Haotong Bai et.al.|[2601.18404](http://arxiv.org/abs/2601.18404)|null|
+|**2026-01-26**|**Wave functions and k-point functions for the AKNS hierarchy**|Ang Fu et.al.|[2601.18211](http://arxiv.org/abs/2601.18211)|null|
+|**2026-01-25**|**Quadratic Programming over Linearly Ordered Fields: Decidability and Attainment of Optimal Solutions**|Dmytro O. Plutenko et.al.|[2601.17969](http://arxiv.org/abs/2601.17969)|null|
+|**2026-01-25**|**Generation of gravitating solutions with Baryonic charge from Einstein-Scalar-Maxwell seeds**|Fabrizio Canfora et.al.|[2601.17864](http://arxiv.org/abs/2601.17864)|null|
 |**2026-01-23**|**Generalized Integrable Boundary States in XXZ and XYZ Spin Chains**|Xin Qian et.al.|[2601.16605](http://arxiv.org/abs/2601.16605)|null|
 |**2026-01-22**|**High-Degree Polynomial Approximations for Solving Linear Integral, Integro-Differential, and Ordinary Differential Equations**|Vladimir Kryzhniy et.al.|[2601.16143](http://arxiv.org/abs/2601.16143)|null|
 |**2026-01-22**|**Matrix Bootstrap Approximation without Positivity Constraint**|Reishi Maeta et.al.|[2601.16099](http://arxiv.org/abs/2601.16099)|null|
@@ -279,6 +293,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Exact calculations beyond charge neutrality in timelike Liouville field theory**|Sourav Chatterjee et.al.|[2601.19097](http://arxiv.org/abs/2601.19097)|null|
+|**2026-01-26**|**Collective coordinate descriptions of a kink in a driven-damped $φ^4$ model**|Jacek Gatlik et.al.|[2601.18940](http://arxiv.org/abs/2601.18940)|null|
 |**2026-01-22**|**Riemann-Hilbert approach for the nonlocal modified Korteweg-de Vries equation with a step-like oscillating background**|Yan Rybalko et.al.|[2601.15841](http://arxiv.org/abs/2601.15841)|null|
 |**2026-01-22**|**A Modified Center-of-Mass Conservation Law in Finite-Domain Simulations of the Zakharov--Kuznetsov Equation**|Nobuyuki Sawado et.al.|[2601.15573](http://arxiv.org/abs/2601.15573)|null|
 |**2026-01-21**|**Gauge transform for the Korteweg-de Vries equation and well-posedness below the $H^{-1}$ -scale**|Andreia Chapouto et.al.|[2601.15060](http://arxiv.org/abs/2601.15060)|null|
@@ -326,7 +342,7 @@ layout: default
 |**2025-11-05**|**Learning-based Cooperative Robotic Paper Wrapping: A Unified Control Policy with Residual Force Control**|Rewida Ali et.al.|[2511.03181](http://arxiv.org/abs/2511.03181)|null|
 |**2025-10-28**|**Motility-Driven Viscoelastic Control of Tissue Morphology in Presomitic Mesoderm**|Sahil Islam et.al.|[2510.24314](http://arxiv.org/abs/2510.24314)|null|
 |**2026-01-13**|**Trace Formulas for Deformed W-Algebras**|Fabrizio Nieri et.al.|[2507.02831](http://arxiv.org/abs/2507.02831)|null|
-|**2025-07-01**|**On Chaos in QFT**|Jacob Sonnenschein et.al.|[2506.10784](http://arxiv.org/abs/2506.10784)|null|
+|**2026-01-26**|**On Chaos in QFT**|Jacob Sonnenschein et.al.|[2506.10784](http://arxiv.org/abs/2506.10784)|null|
 |**2025-06-04**|**Exchange relations and crossing**|Sergey Frolov et.al.|[2506.04096](http://arxiv.org/abs/2506.04096)|null|
 |**2025-07-18**|**Thermodynamics of integrable N=2 theories, squared**|Xavier Kervyn et.al.|[2502.10356](http://arxiv.org/abs/2502.10356)|null|
 |**2025-12-11**|**Demystifying integrable QFTs in AdS: No-go theorems for higher-spin charges**|António Antunes et.al.|[2502.06937](http://arxiv.org/abs/2502.06937)|null|
@@ -340,6 +356,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Real-Time Iteration Scheme for Dynamical Mean-Field Theory: A Framework for Near-Term Quantum Simulation**|Chakradhar Rangi et.al.|[2601.19896](http://arxiv.org/abs/2601.19896)|null|
+|**2026-01-27**|**Observation of an exciton crystal in a moiré excitonic insulator**|Ruishi Qi et.al.|[2601.19603](http://arxiv.org/abs/2601.19603)|null|
+|**2026-01-26**|**Cooper Condensation and Pair Wave Functions in Strongly Correlated Electrons**|Hannes Karlsson et.al.|[2601.18868](http://arxiv.org/abs/2601.18868)|null|
+|**2026-01-26**|**Error-mitigation aware benchmarking strategy for quantum optimization problems**|Marine Demarty et.al.|[2601.18680](http://arxiv.org/abs/2601.18680)|null|
+|**2026-01-26**|**Toward Scalable Normalizing Flows for the Hubbard Model**|Janik Kreit et.al.|[2601.18273](http://arxiv.org/abs/2601.18273)|null|
 |**2026-01-23**|**Zoology of Altermagnetic-type Non-collinear Magnets on the Maple Leaf Lattice**|Pratyay Ghosh et.al.|[2601.16807](http://arxiv.org/abs/2601.16807)|null|
 |**2026-01-22**|**Frictional work and entropy production in integrable and non-integrable spin chains**|Vishnu Muraleedharan Sajitha et.al.|[2601.15941](http://arxiv.org/abs/2601.15941)|null|
 |**2026-01-22**|**Tensor-based phase difference estimation on time series analysis**|Shu Kanno et.al.|[2601.15616](http://arxiv.org/abs/2601.15616)|null|
