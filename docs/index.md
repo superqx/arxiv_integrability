@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.01.28
+## Updated on 2026.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics**|Winfried Ripken et.al.|[2601.22123](http://arxiv.org/abs/2601.22123)|null|
+|**2026-01-28**|**The Impact of Shared Autonomous Vehicles in Microtransit Systems: A Case Study in Atlanta**|Jason Lu et.al.|[2601.21046](http://arxiv.org/abs/2601.21046)|null|
+|**2026-01-28**|**On the Integrable Structure of the SU(2) Wess-Zumino-Novikov-Witten Model**|Lacroix Sylvain et.al.|[2601.20960](http://arxiv.org/abs/2601.20960)|null|
+|**2026-01-28**|**Noninvasive Intracranial Pressure Estimation Using Subspace System Identification and Bespoke Machine Learning Algorithms: A Learning-to-Rank Approach**|Anni Zhao et.al.|[2601.20916](http://arxiv.org/abs/2601.20916)|null|
 |**2026-01-27**|**Symmetric polynomials: DIM integrable systems versus twisted Cherednik systems**|A. Mironov et.al.|[2601.19878](http://arxiv.org/abs/2601.19878)|null|
 |**2026-01-26**|**Hamiltonian Analysis of Doubled 4d Chern-Simons**|Jake Stedman et.al.|[2601.18647](http://arxiv.org/abs/2601.18647)|null|
 |**2026-01-26**|**Time-reversed Shannon entropy as a chaos indicator for non-integrable systems**|Wenfu Cao et.al.|[2601.18422](http://arxiv.org/abs/2601.18422)|null|
@@ -87,6 +91,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Exact coherent structures as building blocks of turbulence on large domains**|Dmitriy Zhigunov et.al.|[2601.21970](http://arxiv.org/abs/2601.21970)|null|
+|**2026-01-28**|**Influence of Markovianity and self-consistency on time-resolved spectral functions of driven quantum systems**|Thomas Blommel et.al.|[2601.21088](http://arxiv.org/abs/2601.21088)|null|
+|**2026-01-28**|**Experimental observation of ballistic correlations in integrable turbulence**|Elias Charnay et.al.|[2601.21085](http://arxiv.org/abs/2601.21085)|null|
+|**2026-01-28**|**The augmented NLP bound for maximum-entropy remote sampling**|Gabriel Ponte et.al.|[2601.20970](http://arxiv.org/abs/2601.20970)|null|
+|**2026-01-28**|**Fast Solvers for the Reynolds Equation on Piecewise Linear Geometries**|Sarah Dennis et.al.|[2601.20841](http://arxiv.org/abs/2601.20841)|null|
+|**2026-01-28**|**Quantum Cosmology as a Hydrogen atom: Discrete $Λ$ and cyclic Universes from Wheeler-DeWitt quantization**|Dipayan Mukherjee et.al.|[2601.20286](http://arxiv.org/abs/2601.20286)|null|
+|**2026-01-27**|**Rate-induced tipping in a solvable model with the Allee effect**|Hidekazu Yoshioka et.al.|[2601.20128](http://arxiv.org/abs/2601.20128)|null|
 |**2026-01-27**|**Approximate Decoherence, Recoherence and Records in Isolated Quantum Systems**|Philipp Strasberg et.al.|[2601.19703](http://arxiv.org/abs/2601.19703)|null|
 |**2026-01-27**|**The diffusion equation is compatible with special relativity**|Lorenzo Gavassino et.al.|[2601.19464](http://arxiv.org/abs/2601.19464)|null|
 |**2026-01-27**|**Coupled Majorana modes in a dual vortex of the Kitaev honeycomb model**|Surajit Basak et.al.|[2601.19458](http://arxiv.org/abs/2601.19458)|null|
@@ -293,6 +304,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Continuum of finite point blowup rates for the critical generalized Korteweg-de Vries equation**|Yvan Martel et.al.|[2601.20801](http://arxiv.org/abs/2601.20801)|null|
 |**2026-01-27**|**Exact calculations beyond charge neutrality in timelike Liouville field theory**|Sourav Chatterjee et.al.|[2601.19097](http://arxiv.org/abs/2601.19097)|null|
 |**2026-01-26**|**Collective coordinate descriptions of a kink in a driven-damped $φ^4$ model**|Jacek Gatlik et.al.|[2601.18940](http://arxiv.org/abs/2601.18940)|null|
 |**2026-01-22**|**Riemann-Hilbert approach for the nonlocal modified Korteweg-de Vries equation with a step-like oscillating background**|Yan Rybalko et.al.|[2601.15841](http://arxiv.org/abs/2601.15841)|null|
@@ -356,6 +368,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Emergent Spatial Textures from Interaction Quenches in the Hubbard Model**|Sankha Subhra Bakshi et.al.|[2601.22053](http://arxiv.org/abs/2601.22053)|null|
+|**2026-01-28**|**Influence of Markovianity and self-consistency on time-resolved spectral functions of driven quantum systems**|Thomas Blommel et.al.|[2601.21088](http://arxiv.org/abs/2601.21088)|null|
+|**2026-01-27**|**Correlated dynamics of three-particle bound states induced by emergent impurities in Bose-Hubbard model**|Wenduo Zhao et.al.|[2601.20042](http://arxiv.org/abs/2601.20042)|null|
 |**2026-01-27**|**Real-Time Iteration Scheme for Dynamical Mean-Field Theory: A Framework for Near-Term Quantum Simulation**|Chakradhar Rangi et.al.|[2601.19896](http://arxiv.org/abs/2601.19896)|null|
 |**2026-01-27**|**Observation of an exciton crystal in a moiré excitonic insulator**|Ruishi Qi et.al.|[2601.19603](http://arxiv.org/abs/2601.19603)|null|
 |**2026-01-26**|**Cooper Condensation and Pair Wave Functions in Strongly Correlated Electrons**|Hannes Karlsson et.al.|[2601.18868](http://arxiv.org/abs/2601.18868)|null|
@@ -427,6 +442,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**A levitated nano-accelerometer sensitized by quantum quench**|M. Kamba et.al.|[2601.21119](http://arxiv.org/abs/2601.21119)|null|
+|**2026-01-28**|**Quench spectroscopy of amplitude modes in a one-dimensional critical phase**|Hyunsoo Ha et.al.|[2601.20926](http://arxiv.org/abs/2601.20926)|null|
 |**2026-01-14**|**Eigenstate Thermalization and Spectral Imprints of the Hamiltonian in Local Observables**|Shivam Mishra et.al.|[2601.09340](http://arxiv.org/abs/2601.09340)|null|
 |**2026-01-13**|**Eigenstate thermalization in thermal first-order phase transitions**|Maksym Serbyn et.al.|[2601.08347](http://arxiv.org/abs/2601.08347)|null|
 |**2026-01-11**|**Dynamical Correlation of the Post-quench Non-thermal Equilibrium State**|Yang-Yang Chen et.al.|[2601.06987](http://arxiv.org/abs/2601.06987)|null|
