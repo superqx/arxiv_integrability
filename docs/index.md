@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.30
+## Updated on 2026.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-01-29**|**Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics**|Winfried Ripken et.al.|[2601.22123](http://arxiv.org/abs/2601.22123)|null|
 |**2026-01-28**|**The Impact of Shared Autonomous Vehicles in Microtransit Systems: A Case Study in Atlanta**|Jason Lu et.al.|[2601.21046](http://arxiv.org/abs/2601.21046)|null|
-|**2026-01-28**|**On the Integrable Structure of the SU(2) Wess-Zumino-Novikov-Witten Model**|Lacroix Sylvain et.al.|[2601.20960](http://arxiv.org/abs/2601.20960)|null|
+|**2026-01-28**|**On the Integrable Structure of the SU(2) Wess-Zumino-Novikov-Witten Model**|Sylvain Lacroix et.al.|[2601.20960](http://arxiv.org/abs/2601.20960)|null|
 |**2026-01-28**|**Noninvasive Intracranial Pressure Estimation Using Subspace System Identification and Bespoke Machine Learning Algorithms: A Learning-to-Rank Approach**|Anni Zhao et.al.|[2601.20916](http://arxiv.org/abs/2601.20916)|null|
 |**2026-01-27**|**Symmetric polynomials: DIM integrable systems versus twisted Cherednik systems**|A. Mironov et.al.|[2601.19878](http://arxiv.org/abs/2601.19878)|null|
 |**2026-01-26**|**Hamiltonian Analysis of Doubled 4d Chern-Simons**|Jake Stedman et.al.|[2601.18647](http://arxiv.org/abs/2601.18647)|null|
