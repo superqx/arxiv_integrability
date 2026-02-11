@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.02.09
+## Updated on 2026.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Integrable system
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**An Attention Mechanism for Robust Multimodal Integration in a Global Workspace Architecture**|Roland Bertin-Johannet et.al.|[2602.08597](http://arxiv.org/abs/2602.08597)|null|
+|**2026-02-09**|**Characteristics, Management, and Utilization of Muscles in Musculoskeletal Humanoids: Empirical Study on Kengoro and Musashi**|Kento Kawaharazuka et.al.|[2602.08518](http://arxiv.org/abs/2602.08518)|null|
+|**2026-02-09**|**Intelligent support for Human Oversight: Integrating Reinforcement Learning with Gaze Simulation to Personalize Highlighting**|Thorsten Klößner et.al.|[2602.08403](http://arxiv.org/abs/2602.08403)|null|
+|**2026-02-08**|**Leader-following Consensus over Jointly Connected Switching Networks is Achievable for Exponentially Unstable Linear Systems**|Yuhan Chen et.al.|[2602.07975](http://arxiv.org/abs/2602.07975)|null|
+|**2026-02-04**|**Reporting and Reviewing LLM-Integrated Systems in HCI: Challenges and Considerations**|Karla Felix Navarro et.al.|[2602.05128](http://arxiv.org/abs/2602.05128)|null|
 |**2026-02-04**|**Painleve solitons of AKNS system and irrational algebraic solitons of NLS equations**|Man Jia et.al.|[2602.04498](http://arxiv.org/abs/2602.04498)|null|
 |**2026-02-03**|**Active Epistemic Control for Query-Efficient Verified Planning**|Shuhui Qu et.al.|[2602.03974](http://arxiv.org/abs/2602.03974)|null|
 |**2026-02-03**|**HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control**|Jinrui Han et.al.|[2602.03205](http://arxiv.org/abs/2602.03205)|null|
@@ -101,6 +106,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Unconventional magnetoelectric conductivity and electrochemical response from dipole-like sources of Berry curvature**|Ipsita Mandal et.al.|[2602.08844](http://arxiv.org/abs/2602.08844)|null|
+|**2026-02-09**|**Giant Magnetocaloric Effect in a High-Spin Shastry-Sutherland Dipolar Magnet**|Jianjian Gong et.al.|[2602.08497](http://arxiv.org/abs/2602.08497)|null|
+|**2026-02-08**|**Elliptic Ruijsenaars-Toda and elliptic Toda chains: classical r-matrix structure and relation to XYZ chain**|D. Murinov et.al.|[2602.08143](http://arxiv.org/abs/2602.08143)|null|
+|**2026-02-08**|**Higher-Order Corrections to Scrambling Dynamics in Brownian Spin SYK Models**|Tingfei Li et.al.|[2602.07952](http://arxiv.org/abs/2602.07952)|null|
+|**2026-02-08**|**Minimal nonintegrable models with three-site interactions**|Wen-Ming Fan et.al.|[2602.07867](http://arxiv.org/abs/2602.07867)|null|
+|**2026-02-08**|**Data-Driven Discovery of Sign-Indefinite Artificial Viscosity for Linear Convection -- A Space-Time Reconvolution Perspective**|Arun Govind Neelan et.al.|[2602.07733](http://arxiv.org/abs/2602.07733)|null|
+|**2026-02-07**|**Fair Decisions from Calibrated Scores: Achieving Optimal Classification While Satisfying Sufficiency**|Etam Benger et.al.|[2602.07285](http://arxiv.org/abs/2602.07285)|null|
+|**2026-02-07**|**The continuous spectrum of bound states in expulsive potentials**|H. Sakaguchi et.al.|[2602.07281](http://arxiv.org/abs/2602.07281)|null|
+|**2026-02-06**|**BKP and CKP hierarchies via orbifold Saito theory**|Alexey Basalaev et.al.|[2602.06736](http://arxiv.org/abs/2602.06736)|null|
+|**2026-02-06**|**Using Large Language Models to Support Automation of Failure Management in CI/CD Pipelines: A Case Study in SAP HANA**|Duong Bui et.al.|[2602.06709](http://arxiv.org/abs/2602.06709)|null|
 |**2026-02-04**|**Generalized quantum theory for accessing nonlinear systems: the case of Levinson-Smith equations**|Bijan Bagchi et.al.|[2602.04747](http://arxiv.org/abs/2602.04747)|null|
 |**2026-02-04**|**Painleve solitons of AKNS system and irrational algebraic solitons of NLS equations**|Man Jia et.al.|[2602.04498](http://arxiv.org/abs/2602.04498)|null|
 |**2026-02-04**|**Exact Multiple Change-Point Detection Via Smallest Valid Partitioning**|Vincent Runge et.al.|[2602.04322](http://arxiv.org/abs/2602.04322)|null|
@@ -327,7 +342,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-01-28**|**Continuum of finite point blowup rates for the critical generalized Korteweg-de Vries equation**|Yvan Martel et.al.|[2601.20801](http://arxiv.org/abs/2601.20801)|null|
-|**2026-01-27**|**Exact calculations beyond charge neutrality in timelike Liouville field theory**|Sourav Chatterjee et.al.|[2601.19097](http://arxiv.org/abs/2601.19097)|null|
+|**2026-02-06**|**Exact calculations beyond charge neutrality in timelike Liouville field theory**|Sourav Chatterjee et.al.|[2601.19097](http://arxiv.org/abs/2601.19097)|null|
 |**2026-01-26**|**Collective coordinate descriptions of a kink in a driven-damped $φ^4$ model**|Jacek Gatlik et.al.|[2601.18940](http://arxiv.org/abs/2601.18940)|null|
 |**2026-01-22**|**Riemann-Hilbert approach for the nonlocal modified Korteweg-de Vries equation with a step-like oscillating background**|Yan Rybalko et.al.|[2601.15841](http://arxiv.org/abs/2601.15841)|null|
 |**2026-01-22**|**A Modified Center-of-Mass Conservation Law in Finite-Domain Simulations of the Zakharov--Kuznetsov Equation**|Nobuyuki Sawado et.al.|[2601.15573](http://arxiv.org/abs/2601.15573)|null|
@@ -390,11 +405,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Extensible universal photonic quantum computing with nonlinearity**|Shang Yu et.al.|[2602.06544](http://arxiv.org/abs/2602.06544)|null|
+|**2026-02-06**|**Pseudogap, Fermi liquid, Van Hove singularity and maxima of the compressibility and of the Knight shift as a function of doping in the two-dimensional Hubbard model**|Y. M. Vilk et.al.|[2602.06298](http://arxiv.org/abs/2602.06298)|null|
+|**2026-02-05**|**Magnon-Mediated Superconductivity in the Infinite- $U$ Triangular Lattice**|Hantian Zhu et.al.|[2602.06231](http://arxiv.org/abs/2602.06231)|null|
+|**2026-02-04**|**Near-frustration-free electronic structure Hamiltonian representations and lower bound certificates**|Nicholas C. Rubin et.al.|[2602.05069](http://arxiv.org/abs/2602.05069)|null|
+|**2026-02-04**|**Towards $2+1$ D quantum electrodynamics on a cold-atom quantum simulator**|Peter Majcen et.al.|[2602.04948](http://arxiv.org/abs/2602.04948)|null|
 |**2026-02-04**|**Thermal State Simulation with Pauli and Majorana Propagation**|Manuel S. Rudolph et.al.|[2602.04878](http://arxiv.org/abs/2602.04878)|null|
 |**2026-02-04**|**Dimensional crossover of bound complexes in a two-species Bose-Hubbard lattice: correlations and dynamics**|Deepak Gaur et.al.|[2602.04741](http://arxiv.org/abs/2602.04741)|null|
 |**2026-02-03**|**Primary charge-4e superconductivity from doping a featureless Mott insulator**|Zhi-Qiang Gao et.al.|[2602.03925](http://arxiv.org/abs/2602.03925)|null|
 |**2026-02-03**|**Spin and Charge Conductivity in the Square Lattice Fermi-Hubbard Model**|Linh Pham et.al.|[2602.03771](http://arxiv.org/abs/2602.03771)|null|
-|**2026-02-03**|**Resolving Quantum Criticality in the Honeycomb Hubbard Model**|Fo-Hong Wang et.al.|[2602.03656](http://arxiv.org/abs/2602.03656)|null|
+|**2026-02-09**|**Resolving Quantum Criticality in the Honeycomb Hubbard Model**|Fo-Hong Wang et.al.|[2602.03656](http://arxiv.org/abs/2602.03656)|null|
 |**2026-02-02**|**Quantum criticality at strong randomness: a lesson from anomaly**|Yasamin Panahi et.al.|[2602.02648](http://arxiv.org/abs/2602.02648)|null|
 |**2026-02-02**|**Putting machine learning to the test in a quantum many-body system**|Yilun Gao et.al.|[2602.01981](http://arxiv.org/abs/2602.01981)|null|
 |**2026-02-01**|**Novel dynamical excitations and roton-based measurement of Cooper-pair momentum in a two-dimensional Fulde-Ferrell-Larkin-Ovchinnikov superfluid on optical lattices**|Shuning Tan et.al.|[2602.01280](http://arxiv.org/abs/2602.01280)|null|
@@ -474,6 +494,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Improving 3d Ising OPE Coefficients with Fuzzy Sphere Conformal Generators**|Giulia Fardelli et.al.|[2602.04958](http://arxiv.org/abs/2602.04958)|null|
 |**2026-02-04**|**Emergent Hawking Radiation and Quantum Sensing in a Quenched Chiral Spin Chain**|Nitesh Jaiswal et.al.|[2602.04593](http://arxiv.org/abs/2602.04593)|null|
 |**2026-02-03**|**Thermodynamic state variables from a minimal set of quantum constituents**|Uwe Holm et.al.|[2602.03276](http://arxiv.org/abs/2602.03276)|null|
 |**2026-02-02**|**Thermalization in classical systems with discrete phase space**|Pavel Orlov et.al.|[2602.02681](http://arxiv.org/abs/2602.02681)|null|
