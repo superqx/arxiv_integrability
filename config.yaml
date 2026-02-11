@@ -1,15 +1,17 @@
-# TODO: add papers by configuration file
+# Configuration file for arXiv Integrability papers
+# Updated to support Physics category filtering
+
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "superqx"
 repo_name: "arxiv_integrability"
-show_authors: False
-show_links: False
-show_badge: False
+show_authors: false
+show_links: false
+show_badge: false
 max_results: 10
 
-publish_readme: True
-publish_gitpage: True
-publish_wechat: False
+publish_readme: true
+publish_gitpage: true
+publish_wechat: false
 
 # file paths
 json_readme_path: './docs/int-arxiv-daily.json'
@@ -22,22 +24,159 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Integrable system": 
-        filters: ["integrable system", "integrable model", "classical integrability", "quantum integrability"]
-    "Exact solution":
-        filters: ["exact solution", "exactly solvable", "exactly solvable models"]
-    "Conserved charges":
-        filters: ["infinite conserved quantities","infinite integrals of motion", "lax pair", "Lax formulation", "infinite commuting charges"]
-    "Yang-Baxter equation":
-        filters: ["Yang-Baxter integrability", "Reflection equation", "Boundary Yang-Baxter equation"]
-    "Bethe ansatz":
-        filters: ["algebraic Bethe ansatz", "coordinate Bethe ansatz", "thermodynamic Bethe ansatz", "analytical Bethe ansatz"]
-    "2d integrable model":
-        filters: ["sine-Gordon model", "Liouville field theory", "Bullough-Dodd model", "Korteweg-de vries equation"]
-    "quantum integrable field theory":
-        filters: ["integrable QFT", "long-range deformation"]
-    "spin chain":
-        filters: ["integrable spin chain", "quantum inverse scattering method", "Heisenberg spin chain", "Hubbard model", "Kondo model", "quasilocal conserved charges", "quasilocal charges"]
-    "Non-equilibrium":
-        filters: ["Eigenstate thermalization hypothesis", "quantum quench"]
+  "Statistical Mechanics":
+    filters:
+      - "integrable system"
+      - "integrable model"
+      - "Yangian"
+      - "classical integrability"
+      - "quantum integrability"
+      - "exact solution"
+      - "exactly solvable"
+      - "exactly solvable models"
+      - "infinite conserved quantities"
+      - "infinite integrals of motion"
+      - "lax pair"
+      - "Lax formulation"
+      - "infinite commuting charges"
+      - "Yang-Baxter integrability"
+      - "Reflection equation"
+      - "Boundary Yang-Baxter equation"
+      - "algebraic Bethe ansatz"
+      - "coordinate Bethe ansatz"
+      - "thermodynamic Bethe ansatz"
+      - "analytical Bethe ansatz"
+      - "sine-Gordon model"
+      - "Liouville field theory"
+      - "Bullough-Dodd model"
+      - "Korteweg-de vries equation"
+      - "integrable QFT"
+      - "long-range deformation"
+      - "integrable spin chain"
+      - "quantum inverse scattering method"
+      - "Heisenberg spin chain"
+      - "Hubbard model"
+      - "Kondo model"
+      - "quasilocal conserved charges"
+      - "quasilocal charges"
+      - "Eigenstate thermalization hypothesis"
+      - "quantum quench"
+    category: "cond-mat.stat-mech"
 
+  "High Energy Theory":
+    filters:
+      - "integrable system"
+      - "integrable model"
+      - "Yangian"
+      - "classical integrability"
+      - "quantum integrability"
+      - "exact solution"
+      - "exactly solvable"
+      - "exactly solvable models"
+      - "infinite conserved quantities"
+      - "infinite integrals of motion"
+      - "lax pair"
+      - "Lax formulation"
+      - "infinite commuting charges"
+      - "Yang-Baxter integrability"
+      - "Reflection equation"
+      - "Boundary Yang-Baxter equation"
+      - "algebraic Bethe ansatz"
+      - "coordinate Bethe ansatz"
+      - "thermodynamic Bethe ansatz"
+      - "analytical Bethe ansatz"
+      - "sine-Gordon model"
+      - "Liouville field theory"
+      - "Bullough-Dodd model"
+      - "Korteweg-de vries equation"
+      - "integrable QFT"
+      - "long-range deformation"
+      - "integrable spin chain"
+      - "quantum inverse scattering method"
+      - "Heisenberg spin chain"
+      - "Hubbard model"
+      - "Kondo model"
+      - "quasilocal conserved charges"
+      - "quasilocal charges"
+      - "Eigenstate thermalization hypothesis"
+      - "quantum quench"
+    category: "hep-th"
+
+  "Mathematical Physics":
+    filters:
+      - "integrable system"
+      - "integrable model"
+      - "Yangian"
+      - "classical integrability"
+      - "quantum integrability"
+      - "exact solution"
+      - "exactly solvable"
+      - "exactly solvable models"
+      - "infinite conserved quantities"
+      - "infinite integrals of motion"
+      - "lax pair"
+      - "Lax formulation"
+      - "infinite commuting charges"
+      - "Yang-Baxter integrability"
+      - "Reflection equation"
+      - "Boundary Yang-Baxter equation"
+      - "algebraic Bethe ansatz"
+      - "coordinate Bethe ansatz"
+      - "thermodynamic Bethe ansatz"
+      - "analytical Bethe ansatz"
+      - "sine-Gordon model"
+      - "Liouville field theory"
+      - "Bullough-Dodd model"
+      - "Korteweg-de vries equation"
+      - "integrable QFT"
+      - "long-range deformation"
+      - "integrable spin chain"
+      - "quantum inverse scattering method"
+      - "Heisenberg spin chain"
+      - "Hubbard model"
+      - "Kondo model"
+      - "quasilocal conserved charges"
+      - "quasilocal charges"
+      - "Eigenstate thermalization hypothesis"
+      - "quantum quench"
+    category: "math-ph"
+
+
+  "Exactly Solvable and Integrable System":
+    filters:
+      - "integrable system"
+      - "integrable model"
+      - "Yangian"
+      - "classical integrability"
+      - "quantum integrability"
+      - "exact solution"
+      - "exactly solvable"
+      - "exactly solvable models"
+      - "infinite conserved quantities"
+      - "infinite integrals of motion"
+      - "lax pair"
+      - "Lax formulation"
+      - "infinite commuting charges"
+      - "Yang-Baxter integrability"
+      - "Reflection equation"
+      - "Boundary Yang-Baxter equation"
+      - "algebraic Bethe ansatz"
+      - "coordinate Bethe ansatz"
+      - "thermodynamic Bethe ansatz"
+      - "analytical Bethe ansatz"
+      - "sine-Gordon model"
+      - "Liouville field theory"
+      - "Bullough-Dodd model"
+      - "Korteweg-de vries equation"
+      - "integrable QFT"
+      - "long-range deformation"
+      - "integrable spin chain"
+      - "quantum inverse scattering method"
+      - "Heisenberg spin chain"
+      - "Hubbard model"
+      - "Kondo model"
+      - "quasilocal conserved charges"
+      - "quasilocal charges"
+      - "Eigenstate thermalization hypothesis"
+      - "quantum quench"
+    category: "nlin.SI"

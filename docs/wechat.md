@@ -1,23 +1,50 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+## Updated on 2026.02.11
 
-> Updated on 2022.12.02
+> Usage instructions: [here](./docs/README.md#usage)
 
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#SLAM>SLAM</a></li>
-    <li><a href=#SFM>SFM</a></li>
-    <li><a href=#Visual-Localization>Visual Localization</a></li>
-    <li><a href=#Keypoint-Detection>Keypoint Detection</a></li>
-    <li><a href=#Image-Matching>Image Matching</a></li>
-    <li><a href=#NeRF>NeRF</a></li>
+    <li><a href=#Statistical Mechanics>Statistical Mechanics</a></li>
+    <li><a href=#High Energy Physics>High Energy Physics</a></li>
+    <li><a href=#Mathematical Physics>Mathematical Physics</a></li>
+    <li><a href=#Exactly Solvable and Integrable System>Exactly Solvable and Integrable System</a></li>
   </ol>
 </details>
 
-## SLAM
 
-- 2022-11-30, **MVRackLay: Monocular Multi-View Layout Estimation for Warehouse Racks and Shelves**, Pranjali Pathre et.al., Paper: [http://arxiv.org/abs/2211.16882v1](http://arxiv.org/abs/2211.16882v1)
+## Statistical Mechanics
+
+| Publish Date   | Title                                                        | Authors             | PDF                                           | Code |
+| -------------- | ------------------------------------------------------------ | ------------------- | --------------------------------------------- | ---- |
+| **2026-02-09** | **Anomalous spin transport in integrable random quantum circuits** | Songlei Wang et.al. | [2602.09098](http://arxiv.org/abs/2602.09098) | null |
+
+<p align=right>(<a href=#Updated-on-20260211>back to top</a>)</p>
+
+## High Energy Physics
+
+| Publish Date   | Title                                                        | Authors             | PDF                                           | Code |
+| -------------- | ------------------------------------------------------------ | ------------------- | --------------------------------------------- | ---- |
+| **2026-02-09** | **Anomalous spin transport in integrable random quantum circuits** | Songlei Wang et.al. | [2602.09098](http://arxiv.org/abs/2602.09098) | null |
+
+<p align=right>(<a href=#Updated-on-20260211>back to top</a>)</p>
+
+## Mathematical Physics
+
+| Publish Date   | Title                                                  | Authors               | PDF                                           | Code |
+| -------------- | ------------------------------------------------------ | --------------------- | --------------------------------------------- | ---- |
+| **2026-01-08** | **Full counting statistics in the sine--Gordon model** | Botond C. Nagy et.al. | [2601.05079](http://arxiv.org/abs/2601.05079) | null |
+
+<p align=right>(<a href=#Updated-on-20260211>back to top</a>)</p>
+
+## Exactly Solvable and Integrable System
+
+| Publish Date   | Title                                                  | Authors               | PDF                                           | Code |
+| -------------- | ------------------------------------------------------ | --------------------- | --------------------------------------------- | ---- |
+| **2026-01-08** | **Full counting statistics in the sine--Gordon model** | Botond C. Nagy et.al. | [2601.05079](http://arxiv.org/abs/2601.05079) | null |
+
+<p align=right>(<a href=#Updated-on-20260211>back to top</a>)</p>
+
+
+<p align=right>(<a href=#Updated-on-20260211>back to top</a>)</p>
 
