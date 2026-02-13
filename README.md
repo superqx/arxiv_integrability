@@ -1,12 +1,52 @@
-## Updated on 2026.02.12
+## Updated on 2026.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href=#Statistical-Mechanics>Statistical Mechanics</a></li>
+    <li><a href=#Mathematical-Physics>Mathematical Physics</a></li>
     <li><a href=#Exactly-Solvable-and-Integrable-System>Exactly Solvable and Integrable System</a></li>
   </ol>
 </details>
+
+## Statistical Mechanics
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-02-12** — **Charged moments and symmetry-resolved entanglement from Ballistic Fluctuation Theory**  
+Giorgio Li et al.  
+[[arxiv:2602.12185](https://arxiv.org/abs/2602.12185)]  
+
+<details>
+<summary>Abstract(188)</summary>
+
+</details>
+
+**Short abstract**: The charged moments of a reduced density matrix provide a natural starting point for deriving symmetry-resolved Rényi and entanglement entropies, which quantify how entanglement is distributed among symmetry sectors in......
+
+**Code**: null
+
+<p align=right>(<a href=#Updated-on-20260213>back to top</a>)</p>
+
+## Mathematical Physics
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-02-11** — **Lie dialgebras, gauge theory, and Lagrangian multiforms for integrable models**  
+Anup Anand Singh et al.  
+[[arxiv:2602.11306](https://arxiv.org/abs/2602.11306)]  
+
+<details>
+<summary>Abstract(217)</summary>
+
+</details>
+
+**Short abstract**: Lagrangian multiforms provide a variational framework for describing integrable hierarchies....
+
+**Code**: null
+
+<p align=right>(<a href=#Updated-on-20260213>back to top</a>)</p>
 
 ## Exactly Solvable and Integrable System
 
@@ -25,5 +65,5 @@ Peter A. Clarkson et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260213>back to top</a>)</p>
 
