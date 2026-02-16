@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.15
+## Updated on 2026.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Statistical Mechanics
@@ -55,6 +55,30 @@ Anup Anand Singh et al.
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13** — **Conformal bi-Hamiltonian structure and integrability of an interacting Pais-Uhlenbeck oscillator**  
+Alexander Felski et al.  
+[[arxiv:2602.12858](https://arxiv.org/abs/2602.12858)]  
+
+<details>
+<summary>Abstract(139)</summary>
+
+</details>
+
+**Short abstract**: We investigate an interacting Pais-Uhlenbeck oscillator with a Landau-Ginzburg type interaction term and analyse its classical dynamics from a geometric and numerical point of view....
+
+**Code**: null
+|**2026-02-12** — **Effective dynamics and defect expansions for polynomial PDEs on thin annuli**  
+Jean-Pierre Magnot et al.  
+[[arxiv:2602.12308](https://arxiv.org/abs/2602.12308)]  
+
+<details>
+<summary>Abstract(170)</summary>
+
+</details>
+
+**Short abstract**: We develop a geometric and analytic framework for polynomial partial differential equations posed on thin annuli in the plane....
+
+**Code**: null
 |**2026-02-10** — **Discrete equations from Bäcklund transformations of the fifth Painlevé equation**  
 Peter A. Clarkson et al.  
 [[arxiv:2602.09756](https://arxiv.org/abs/2602.09756)]  
