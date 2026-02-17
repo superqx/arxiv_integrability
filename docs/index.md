@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.16
+## Updated on 2026.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Statistical Mechanics
@@ -55,6 +55,30 @@ Anup Anand Singh et al.
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16** — **Compatible pairs of Hamiltonian operators of the first and third orders**  
+Paolo Lorenzoni et al.  
+[[arxiv:2602.14739](https://arxiv.org/abs/2602.14739)]  
+
+<details>
+<summary>Abstract(85)</summary>
+
+</details>
+
+**Short abstract**: We compute general compatibility conditions between a weakly nonlocal   homogeneous Hamiltonian operator and a third-order homogeneous Hamiltonian   operator....
+
+**Code**: null
+|**2026-02-14** — **Integrable open elliptic Toda chain with boundaries**  
+A. Zotov et al.  
+[[arxiv:2602.13903](https://arxiv.org/abs/2602.13903)]  
+
+<details>
+<summary>Abstract(46)</summary>
+
+</details>
+
+**Short abstract**: In this letter we discuss the classical integrable elliptic Toda chain proposed by I. Krichever. Our goal is to construct an open elliptic Toda chain with boundary terms....
+
+**Code**: null
 |**2026-02-13** — **Conformal bi-Hamiltonian structure and integrability of an interacting Pais-Uhlenbeck oscillator**  
 Alexander Felski et al.  
 [[arxiv:2602.12858](https://arxiv.org/abs/2602.12858)]  
