@@ -1,4 +1,4 @@
-## Updated on 2026.02.17
+## Updated on 2026.02.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -7,6 +7,7 @@
     <li><a href=#Statistical-Mechanics>Statistical Mechanics</a></li>
     <li><a href=#Mathematical-Physics>Mathematical Physics</a></li>
     <li><a href=#Exactly-Solvable-and-Integrable-System>Exactly Solvable and Integrable System</a></li>
+    <li><a href=#High-Energy-Theory>High Energy Theory</a></li>
   </ol>
 </details>
 
@@ -27,7 +28,7 @@ Giorgio Li et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260217>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260218>back to top</a>)</p>
 
 ## Mathematical Physics
 
@@ -46,7 +47,7 @@ Anup Anand Singh et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260217>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260218>back to top</a>)</p>
 
 ## Exactly Solvable and Integrable System
 
@@ -113,5 +114,24 @@ Peter A. Clarkson et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260217>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260218>back to top</a>)</p>
+
+## High Energy Theory
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-02-16** — **Exact Solutions to Matrix Models and String Theories: The Local Construction**  
+Jasper Kager et al.  
+[[arxiv:2602.15101](https://arxiv.org/abs/2602.15101)]  
+
+<details>
+<summary>Abstract(233)</summary>
+
+</details>
+
+**Short abstract**: Exact nonperturbative solutions to hermitian one-matrix models, their topological string duals, as well as their double-scaling limits to multicritical and minimal string theories, may be obtained via the use of......
+
+**Code**: null
+
+<p align=right>(<a href=#Updated-on-20260218>back to top</a>)</p>
 

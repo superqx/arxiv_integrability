@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.17
+## Updated on 2026.02.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Statistical Mechanics
@@ -132,6 +132,18 @@ Nalini Joshi et al.
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16** — **Exact Solutions to Matrix Models and String Theories: The Local Construction**  
+Jasper Kager et al.  
+[[arxiv:2602.15101](https://arxiv.org/abs/2602.15101)]  
+
+<details>
+<summary>Abstract(233)</summary>
+
+</details>
+
+**Short abstract**: Exact nonperturbative solutions to hermitian one-matrix models, their topological string duals, as well as their double-scaling limits to multicritical and minimal string theories, may be obtained via the use of......
+
+**Code**: null
 |**2026-02-09** — **Boundary bound states and integrable Wilson loops in ABJM**  
 Diego H. Correa et al.  
 [[arxiv:2602.09195](https://arxiv.org/abs/2602.09195)]  
