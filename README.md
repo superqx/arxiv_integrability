@@ -1,4 +1,4 @@
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19** — **Matrix-product operator dualities in integrable lattice models**  
+Yuan Miao et al.  
+[[arxiv:2602.17436](https://arxiv.org/abs/2602.17436)]  
+
+<details>
+<summary>Abstract(169)</summary>
+
+</details>
+
+**Short abstract**: Matrix-product operators (MPOs) appear throughout the study of integrable lattice models, notably as the transfer matrices....
+
+**Code**: null
 |**2026-02-12** — **Charged moments and symmetry-resolved entanglement from Ballistic Fluctuation Theory**  
 Giorgio Li et al.  
 [[arxiv:2602.12185](https://arxiv.org/abs/2602.12185)]  
@@ -28,7 +40,7 @@ Giorgio Li et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260220>back to top</a>)</p>
 
 ## Mathematical Physics
 
@@ -47,12 +59,24 @@ Anup Anand Singh et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260220>back to top</a>)</p>
 
 ## Exactly Solvable and Integrable System
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19** — **Integrable cellular automata on finite fields of order $2^n$**  
+Aoi Araoka et al.  
+[[arxiv:2602.17148](https://arxiv.org/abs/2602.17148)]  
+
+<details>
+<summary>Abstract(123)</summary>
+
+</details>
+
+**Short abstract**: This paper explores cellular automata (CA) constructed from Yang-Baxter maps over finite fields $F_{2^n}$....
+
+**Code**: null
 |**2026-02-16** — **Compatible pairs of Hamiltonian operators of the first and third orders**  
 Paolo Lorenzoni et al.  
 [[arxiv:2602.14739](https://arxiv.org/abs/2602.14739)]  
@@ -114,7 +138,7 @@ Peter A. Clarkson et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260220>back to top</a>)</p>
 
 ## High Energy Theory
 
@@ -133,5 +157,5 @@ Jasper Kager et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260220>back to top</a>)</p>
 
