@@ -1,4 +1,4 @@
-## Updated on 2026.02.20
+## Updated on 2026.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -40,7 +40,7 @@ Giorgio Li et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260221>back to top</a>)</p>
 
 ## Mathematical Physics
 
@@ -59,7 +59,7 @@ Anup Anand Singh et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260221>back to top</a>)</p>
 
 ## Exactly Solvable and Integrable System
 
@@ -138,7 +138,7 @@ Peter A. Clarkson et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260221>back to top</a>)</p>
 
 ## High Energy Theory
 
@@ -157,5 +157,5 @@ Jasper Kager et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260221>back to top</a>)</p>
 
