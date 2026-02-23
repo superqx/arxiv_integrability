@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.22
+## Updated on 2026.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Statistical Mechanics
@@ -50,6 +50,30 @@ Songlei Wang et al.
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20** — **Twisted symmetric exclusion processes and set-theoretical $R$ -matrices**  
+Mathieu Dabrowski et al.  
+[[arxiv:2602.18204](https://arxiv.org/abs/2602.18204)]  
+
+<details>
+<summary>Abstract(135)</summary>
+
+</details>
+
+**Short abstract**: We investigate periodic integrable Markov models, constructed from set-theoretical solutions of the Yang-Baxter equation. We first focus on the simplest class of solutions, called Lyubashenko solutions....
+
+**Code**: null
+|**2026-02-20** — **Conditional thinning and multiplicative statistics of Laguerre-type orthogonal polynomial ensembles**  
+Leslie Molag et al.  
+[[arxiv:2602.18113](https://arxiv.org/abs/2602.18113)]  
+
+<details>
+<summary>Abstract(150)</summary>
+
+</details>
+
+**Short abstract**: We study the local statistics of orthogonal polynomial ensembles near a hard edge, subject to a multiplicative deformation of the measure....
+
+**Code**: null
 |**2026-02-11** — **Lie dialgebras, gauge theory, and Lagrangian multiforms for integrable models**  
 Anup Anand Singh et al.  
 [[arxiv:2602.11306](https://arxiv.org/abs/2602.11306)]  
@@ -67,6 +91,18 @@ Anup Anand Singh et al.
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20** — **Subalgebras of integrals, commutants, and superintegrable deformations of Lotka-Volterra systems**  
+Ian Marquette et al.  
+[[arxiv:2602.17945](https://arxiv.org/abs/2602.17945)]  
+
+<details>
+<summary>Abstract(106)</summary>
+
+</details>
+
+**Short abstract**: We consider the Lie-algebraic notion of commutant in the setting of Poisson algebra. This provides a framework for deforming Hamiltonian differential equations....
+
+**Code**: null
 |**2026-02-19** — **Integrable cellular automata on finite fields of order $2^n$**  
 Aoi Araoka et al.  
 [[arxiv:2602.17148](https://arxiv.org/abs/2602.17148)]  
