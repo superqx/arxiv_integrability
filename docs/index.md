@@ -2,13 +2,25 @@
 layout: default
 ---
 
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Statistical Mechanics
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23** — **Two-parameter families of MPO integrals of motion in Heisenberg spin chains**  
+Vsevolod I. Yashin et al.  
+[[arxiv:2602.19741](https://arxiv.org/abs/2602.19741)]  
+
+<details>
+<summary>Abstract(81)</summary>
+
+</details>
+
+**Short abstract**: Recently, Fendley et al....
+
+**Code**: null
 |**2026-02-19** — **Matrix-product operator dualities in integrable lattice models**  
 Yuan Miao et al.  
 [[arxiv:2602.17436](https://arxiv.org/abs/2602.17436)]  
@@ -192,6 +204,18 @@ Nalini Joshi et al.
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23** — **Effective Hamiltonians and Wilson--Polchinski renormalisation**  
+Ricky Li et al.  
+[[arxiv:2602.19880](https://arxiv.org/abs/2602.19880)]  
+
+<details>
+<summary>Abstract(137)</summary>
+
+</details>
+
+**Short abstract**: We develop a novel approach to the Wilsonian renormalisation of Hamiltonians for 2-dimensional quantum field theories on the cylinder described in the UV by marginally relevant deformations of conformal field......
+
+**Code**: null
 |**2026-02-16** — **Exact Solutions to Matrix Models and String Theories: The Local Construction**  
 Jasper Kager et al.  
 [[arxiv:2602.15101](https://arxiv.org/abs/2602.15101)]  
