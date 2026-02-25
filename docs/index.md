@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.24
+## Updated on 2026.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Statistical Mechanics
@@ -204,6 +204,18 @@ Nalini Joshi et al.
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24** — **Generating twisted Cherednik eigenfunctions**  
+A. Mironov et al.  
+[[arxiv:2602.21120](https://arxiv.org/abs/2602.21120)]  
+
+<details>
+<summary>Abstract(88)</summary>
+
+</details>
+
+**Short abstract**: Hamiltonians ${\cal H}^{a}_k$ of new integrable systems associated with the integer rays $(1,a)$ (commutative subalgebras) of Ding-Iohara-Miki (DIM) algebra in the $N$ -body representation are closely related to commuting twisted Cherednik......
+
+**Code**: null
 |**2026-02-23** — **Effective Hamiltonians and Wilson--Polchinski renormalisation**  
 Ricky Li et al.  
 [[arxiv:2602.19880](https://arxiv.org/abs/2602.19880)]  
