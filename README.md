@@ -1,4 +1,4 @@
-## Updated on 2026.02.25
+## Updated on 2026.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25** — **Integral formula for the propagator of the one-dimensional Hubbard model**  
+Taiki Ishiyama et al.  
+[[arxiv:2602.21541](https://arxiv.org/abs/2602.21541)]  
+
+<details>
+<summary>Abstract(76)</summary>
+
+</details>
+
+**Short abstract**: We present an exact integral formula for the multi-particle propagator of the one-dimensional Fermi--Hubbard model on an infinite lattice....
+
+**Code**: null
 |**2026-02-23** — **Two-parameter families of MPO integrals of motion in Heisenberg spin chains**  
 Vsevolod I. Yashin et al.  
 [[arxiv:2602.19741](https://arxiv.org/abs/2602.19741)]  
@@ -52,12 +64,24 @@ Giorgio Li et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260226>back to top</a>)</p>
 
 ## Mathematical Physics
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25** — **Solving the tetrahedron equation by Teichmüller TQFT**  
+Myungbo Shim et al.  
+[[arxiv:2602.22060](https://arxiv.org/abs/2602.22060)]  
+
+<details>
+<summary>Abstract(57)</summary>
+
+</details>
+
+**Short abstract**: We propose an approach to construct three-dimensional lattice models using line defects in state integral models on shaped triangulations of 3-manifolds....
+
+**Code**: null
 |**2026-02-20** — **Twisted symmetric exclusion processes and set-theoretical $R$ -matrices**  
 Mathieu Dabrowski et al.  
 [[arxiv:2602.18204](https://arxiv.org/abs/2602.18204)]  
@@ -95,12 +119,24 @@ Anup Anand Singh et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260226>back to top</a>)</p>
 
 ## Exactly Solvable and Integrable System
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24** — **Geometry of two- and three-dimensional integrable systems related to affine Weyl groups $W(E_8^{(1)})$ and $W(E_7^{(1)})$**  
+Jaume Alonso et al.  
+[[arxiv:2602.21391](https://arxiv.org/abs/2602.21391)]  
+
+<details>
+<summary>Abstract(143)</summary>
+
+</details>
+
+**Short abstract**: We find a general framework for the construction of birational involutions on two- and three-dimensional varieties obtained from $\mathbb P^2$, $\mathbb P^1\times \mathbb P^1$, and $\mathbb P^3$ by blow-up at......
+
+**Code**: null
 |**2026-02-20** — **Subalgebras of integrals, commutants, and superintegrable deformations of Lotka-Volterra systems**  
 Ian Marquette et al.  
 [[arxiv:2602.17945](https://arxiv.org/abs/2602.17945)]  
@@ -186,7 +222,7 @@ Peter A. Clarkson et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260226>back to top</a>)</p>
 
 ## High Energy Theory
 
@@ -229,5 +265,5 @@ Jasper Kager et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260226>back to top</a>)</p>
 
