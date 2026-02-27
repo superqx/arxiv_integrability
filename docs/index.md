@@ -2,13 +2,25 @@
 layout: default
 ---
 
-## Updated on 2026.02.26
+## Updated on 2026.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Statistical Mechanics
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26** — **Mesoscopic fluctuation theory of particle systems driven by Poisson noise: study of the $q$ -TASEP**  
+Alexandre Krajenbrink et al.  
+[[arxiv:2602.23209](https://arxiv.org/abs/2602.23209)]  
+
+<details>
+<summary>Abstract(288)</summary>
+
+</details>
+
+**Short abstract**: We pursue our study of integrable weak noise theories of directed polymer and interacting particle stochastic models in the 1D KPZ universality class....
+
+**Code**: null
 |**2026-02-25** — **Integral formula for the propagator of the one-dimensional Hubbard model**  
 Taiki Ishiyama et al.  
 [[arxiv:2602.21541](https://arxiv.org/abs/2602.21541)]  
@@ -240,6 +252,18 @@ Nalini Joshi et al.
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25** — **Three-Dimensional Modified Klein--Gordon Oscillator in Standard and Generalized Doubly Special Relativity**  
+Abdelmalek Boumali et al.  
+[[arxiv:2602.22444](https://arxiv.org/abs/2602.22444)]  
+
+<details>
+<summary>Abstract(221)</summary>
+
+</details>
+
+**Short abstract**: Doubly Special Relativity (DSR) augments special relativity by introducing, alongside the invariant speed of light $c$ , a second observer-independent scale typically associated with the Planck regime....
+
+**Code**: null
 |**2026-02-24** — **Generating twisted Cherednik eigenfunctions**  
 A. Mironov et al.  
 [[arxiv:2602.21120](https://arxiv.org/abs/2602.21120)]  
