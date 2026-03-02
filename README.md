@@ -1,4 +1,4 @@
-## Updated on 2026.03.01
+## Updated on 2026.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,42 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27** — **Asymptotically Solvable Quantum Circuits**  
+Samuel H. Pickering et al.  
+[[arxiv:2602.24276](https://arxiv.org/abs/2602.24276)]  
+
+<details>
+<summary>Abstract(194)</summary>
+
+</details>
+
+**Short abstract**: The discovery of chaotic quantum circuits with (partially) solvable dynamics has played a key role in our understanding of non-equilibrium quantum matter and, at the same time, has helped the......
+
+**Code**: null
+|**2026-02-27** — **Anomalous hydrodynamic fluctuations in the quantum XXZ spin chain**  
+Takato Yoshimura et al.  
+[[arxiv:2602.24242](https://arxiv.org/abs/2602.24242)]  
+
+<details>
+<summary>Abstract(97)</summary>
+
+</details>
+
+**Short abstract**: The quantum XXZ spin-1/2 chain features non-Gaussian spin current fluctuations in the regime of easy-axis anisotropy....
+
+**Code**: null
+|**2026-02-27** — **Exact Anomalous Current Fluctuations in Quantum Many-Body Dynamics**  
+Kazuya Fujimoto et al.  
+[[arxiv:2602.24008](https://arxiv.org/abs/2602.24008)]  
+
+<details>
+<summary>Abstract(145)</summary>
+
+</details>
+
+**Short abstract**: Fluctuations of integrated currents have attracted considerable interest over the past decades in the context of statistical mechanics....
+
+**Code**: null
 |**2026-02-26** — **Mesoscopic fluctuation theory of particle systems driven by Poisson noise: study of the $q$ -TASEP**  
 Alexandre Krajenbrink et al.  
 [[arxiv:2602.23209](https://arxiv.org/abs/2602.23209)]  
@@ -76,7 +112,7 @@ Giorgio Li et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260302>back to top</a>)</p>
 
 ## Mathematical Physics
 
@@ -131,7 +167,7 @@ Anup Anand Singh et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260302>back to top</a>)</p>
 
 ## Exactly Solvable and Integrable System
 
@@ -234,7 +270,7 @@ Peter A. Clarkson et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260302>back to top</a>)</p>
 
 ## High Energy Theory
 
@@ -289,5 +325,5 @@ Jasper Kager et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260302>back to top</a>)</p>
 
