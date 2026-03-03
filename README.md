@@ -1,4 +1,4 @@
-## Updated on 2026.03.02
+## Updated on 2026.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02** — **Crossover from generalized to conventional hydrodynamics in nearly integrable systems under relaxation time approximation**  
+Saikat Santra et al.  
+[[arxiv:2603.02158](https://arxiv.org/abs/2603.02158)]  
+
+<details>
+<summary>Abstract(119)</summary>
+
+</details>
+
+**Short abstract**: Upon breaking the integrability, the equations of generalized hydrodynamics (GHD) are supplemented by a Boltzmann collision term....
+
+**Code**: null
 |**2026-02-27** — **Asymptotically Solvable Quantum Circuits**  
 Samuel H. Pickering et al.  
 [[arxiv:2602.24276](https://arxiv.org/abs/2602.24276)]  
@@ -112,7 +124,7 @@ Giorgio Li et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260302>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260303>back to top</a>)</p>
 
 ## Mathematical Physics
 
@@ -167,12 +179,24 @@ Anup Anand Singh et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260302>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260303>back to top</a>)</p>
 
 ## Exactly Solvable and Integrable System
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02** — **Additional symmetries of the KP-mKP hierarchy and Virasoro constraints to the Burgers-KdV hierarchy**  
+Zongyao Feng et al.  
+[[arxiv:2603.01354](https://arxiv.org/abs/2603.01354)]  
+
+<details>
+<summary>Abstract(92)</summary>
+
+</details>
+
+**Short abstract**: A KP-mKP hierarchy was introduced recently via pseudo-differential operators containing two derivations....
+
+**Code**: null
 |**2026-02-24** — **Geometry of two- and three-dimensional integrable systems related to affine Weyl groups $W(E_8^{(1)})$ and $W(E_7^{(1)})$**  
 Jaume Alonso et al.  
 [[arxiv:2602.21391](https://arxiv.org/abs/2602.21391)]  
@@ -270,7 +294,7 @@ Peter A. Clarkson et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260302>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260303>back to top</a>)</p>
 
 ## High Energy Theory
 
@@ -325,5 +349,5 @@ Jasper Kager et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260302>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260303>back to top</a>)</p>
 
