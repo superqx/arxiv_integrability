@@ -1,4 +1,4 @@
-## Updated on 2026.03.03
+## Updated on 2026.03.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02** — **Strong Zero Modes via Commutant Algebras**  
+Sanjay Moudgalya et al.  
+[[arxiv:2603.02326](https://arxiv.org/abs/2603.02326)]  
+
+<details>
+<summary>Abstract(282)</summary>
+
+</details>
+
+**Short abstract**: Strong Zero Modes (SZMs) are (approximately) conserved quantities that result in (approximate) double degeneracies in the entire spectra of certain Hamiltonians, with the Majorana zero mode of the transverse-field Ising......
+
+**Code**: null
 |**2026-03-02** — **Crossover from generalized to conventional hydrodynamics in nearly integrable systems under relaxation time approximation**  
 Saikat Santra et al.  
 [[arxiv:2603.02158](https://arxiv.org/abs/2603.02158)]  
@@ -124,12 +136,24 @@ Giorgio Li et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260303>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260304>back to top</a>)</p>
 
 ## Mathematical Physics
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02** — **Multi-dimensional consistency of principal binets**  
+Niklas C. Affolter et al.  
+[[arxiv:2603.02449](https://arxiv.org/abs/2603.02449)]  
+
+<details>
+<summary>Abstract(82)</summary>
+
+</details>
+
+**Short abstract**: Principal binets are a discretization of curvature line parametrized surfaces defined on the vertices and faces of the square lattice $\Z^2$ ....
+
+**Code**: null
 |**2026-02-25** — **Solving the tetrahedron equation by Teichmüller TQFT**  
 Myungbo Shim et al.  
 [[arxiv:2602.22060](https://arxiv.org/abs/2602.22060)]  
@@ -179,7 +203,7 @@ Anup Anand Singh et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260303>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260304>back to top</a>)</p>
 
 ## Exactly Solvable and Integrable System
 
@@ -294,12 +318,36 @@ Peter A. Clarkson et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260303>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260304>back to top</a>)</p>
 
 ## High Energy Theory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03** — **Spin Ruijsenaars-Schneider models are Coulomb branches**  
+Gleb Arutyunov et al.  
+[[arxiv:2603.03048](https://arxiv.org/abs/2603.03048)]  
+
+<details>
+<summary>Abstract(86)</summary>
+
+</details>
+
+**Short abstract**: In this paper, we show that the Poisson algebras of cohomological and $K$-theoretic Coulomb branches of 3d $\mathcal{N}=4$ necklace quiver gauge theories provide Poisson structures and Hamiltonians that reproduce the......
+
+**Code**: null
+|**2026-03-03** — **Lorentz violating quadratic gravity**  
+R. B. Alfaia et al.  
+[[arxiv:2603.02980](https://arxiv.org/abs/2603.02980)]  
+
+<details>
+<summary>Abstract(211)</summary>
+
+</details>
+
+**Short abstract**: In this paper we explore the perturbative renormalization and study the classical dynamics of the bumblebee model coupled to quadratic gravity, a theoretical setting that allows the violation of Lorentz......
+
+**Code**: null
 |**2026-02-25** — **Three-Dimensional Modified Klein--Gordon Oscillator in Standard and Generalized Doubly Special Relativity**  
 Abdelmalek Boumali et al.  
 [[arxiv:2602.22444](https://arxiv.org/abs/2602.22444)]  
@@ -349,5 +397,5 @@ Jasper Kager et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260303>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260304>back to top</a>)</p>
 
