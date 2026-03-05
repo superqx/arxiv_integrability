@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Statistical Mechanics
@@ -336,6 +336,18 @@ Nalini Joshi et al.
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03** — **The Generalized Dirac Oscillator in Doubly Special Relativity: A Complexified Morse Interaction**  
+Abdelmalek Boumali et al.  
+[[arxiv:2603.03572](https://arxiv.org/abs/2603.03572)]  
+
+<details>
+<summary>Abstract(220)</summary>
+
+</details>
+
+**Short abstract**: We study the one-dimensional Generalized Dirac Oscillator (GDO) under Doubly Special Relativity (DSR) kinematics....
+
+**Code**: null
 |**2026-03-03** — **Spin Ruijsenaars-Schneider models are Coulomb branches**  
 Gleb Arutyunov et al.  
 [[arxiv:2603.03048](https://arxiv.org/abs/2603.03048)]  
