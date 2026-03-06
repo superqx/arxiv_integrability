@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.05
+## Updated on 2026.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Statistical Mechanics
@@ -211,6 +211,18 @@ Anup Anand Singh et al.
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05** — **Lagrangian formulation of the Darboux system**  
+Lingling Xue et al.  
+[[arxiv:2603.05211](https://arxiv.org/abs/2603.05211)]  
+
+<details>
+<summary>Abstract(143)</summary>
+
+</details>
+
+**Short abstract**: The classical Darboux system governing rotation coefficients of three-dimensional metrics of diagonal curvature possesses an equivalent formulation as a sixth-order PDE for a scalar potential (related to the corresponding $τ$ -function)....
+
+**Code**: null
 |**2026-03-02** — **Additional symmetries of the KP-mKP hierarchy and Virasoro constraints to the Burgers-KdV hierarchy**  
 Zongyao Feng et al.  
 [[arxiv:2603.01354](https://arxiv.org/abs/2603.01354)]  
