@@ -2,13 +2,25 @@
 layout: default
 ---
 
-## Updated on 2026.03.08
+## Updated on 2026.03.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Statistical Mechanics
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06** — **Floquet scars and prethermal fragmentation in a driven spin-one chain**  
+Krishanu Ghosh et al.  
+[[arxiv:2603.06111](https://arxiv.org/abs/2603.06111)]  
+
+<details>
+<summary>Abstract(246)</summary>
+
+</details>
+
+**Short abstract**: We study the periodic dynamics of a spin-one chain driven using a square-pulse protocol with amplitude $Q_0$ and frequency $ω_D$ ....
+
+**Code**: null
 |**2026-03-02** — **Strong Zero Modes via Commutant Algebras**  
 Sanjay Moudgalya et al.  
 [[arxiv:2603.02326](https://arxiv.org/abs/2603.02326)]  
@@ -146,6 +158,30 @@ Songlei Wang et al.
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06** — **An involutivity theorem for a class of Poisson quasi-Nijenhuis manifolds**  
+Eber Chuño Vizarreta et al.  
+[[arxiv:2603.06532](https://arxiv.org/abs/2603.06532)]  
+
+<details>
+<summary>Abstract(70)</summary>
+
+</details>
+
+**Short abstract**: This note aims to continue our study about the applications of Poisson quasi-Nijenhuis geometry to the theory of classical completely integrable systems....
+
+**Code**: null
+|**2026-03-06** — **Gaussian free field convergence of the six-vertex model with $-1\leqΔ\leq-\frac12$**  
+Hugo Duminil-Copin et al.  
+[[arxiv:2603.06268](https://arxiv.org/abs/2603.06268)]  
+
+<details>
+<summary>Abstract(54)</summary>
+
+</details>
+
+**Short abstract**: We study the isotropic six-vertex model on $\mathbb{Z}^2$ with spectral parameter $Δ\in[-1,-1/2]$, that is, with weights $\mathbf{a}=\mathbf{b}=1$ and $\mathbf{c}\in[\sqrt{3},2]$....
+
+**Code**: null
 |**2026-03-02** — **Multi-dimensional consistency of principal binets**  
 Niklas C. Affolter et al.  
 [[arxiv:2603.02449](https://arxiv.org/abs/2603.02449)]  
