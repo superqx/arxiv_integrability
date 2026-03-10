@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Statistical Mechanics
@@ -247,6 +247,42 @@ Anup Anand Singh et al.
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09** — **Soliton solutions to the coupled Sasa-Satsuma equation under mixed boundary conditions**  
+Changyan Shi et al.  
+[[arxiv:2603.08686](https://arxiv.org/abs/2603.08686)]  
+
+<details>
+<summary>Abstract(84)</summary>
+
+</details>
+
+**Short abstract**: In this paper, we derive general bright-dark soliton solutions to the coupled Sasa-Satsuma (CSS) equation using the Kadomtsev-Petviashvili (KP) reduction method....
+
+**Code**: null
+|**2026-03-09** — **Constraints of the D $Δ$ KP hierarchy to the semi-discrete AKNS and Burgers hierarchies**  
+Jin Liu et al.  
+[[arxiv:2603.08301](https://arxiv.org/abs/2603.08301)]  
+
+<details>
+<summary>Abstract(97)</summary>
+
+</details>
+
+**Short abstract**: The paper investigates three eigenfunction constraints of two (2+1)-dimensional differential-difference integrable systems....
+
+**Code**: null
+|**2026-03-08** — **On algebro-geometric solutions to the Gelfand--Dickey hierarchy**  
+Zejun Zhou et al.  
+[[arxiv:2603.07636](https://arxiv.org/abs/2603.07636)]  
+
+<details>
+<summary>Abstract(86)</summary>
+
+</details>
+
+**Short abstract**: In [14] Dubrovin introduced an $A_1$ -type infinite ODE system and gave a simple way of constructing algebro-geometric solutions to the KdV hierarchy (cf. also [15,4])....
+
+**Code**: null
 |**2026-03-05** — **Lagrangian formulation of the Darboux system**  
 Lingling Xue et al.  
 [[arxiv:2603.05211](https://arxiv.org/abs/2603.05211)]  
@@ -384,6 +420,18 @@ Nalini Joshi et al.
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-08** — **Gauss-Bonnet corrected string/black hole transition in large dimensions**  
+Bum-Hoon Lee et al.  
+[[arxiv:2603.07451](https://arxiv.org/abs/2603.07451)]  
+
+<details>
+<summary>Abstract(175)</summary>
+
+</details>
+
+**Short abstract**: We develop a unified analytic treatment of the Horowitz--Polchinski string/black hole correspondence that systematically incorporates higher-derivative corrections to gravity....
+
+**Code**: null
 |**2026-03-03** — **The Generalized Dirac Oscillator in Doubly Special Relativity: A Complexified Morse Interaction**  
 Abdelmalek Boumali et al.  
 [[arxiv:2603.03572](https://arxiv.org/abs/2603.03572)]  
