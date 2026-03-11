@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Statistical Mechanics
@@ -158,6 +158,42 @@ Songlei Wang et al.
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10** — **Pseudo-Riemmanian Lie algebras with coisotropic ideals and integrating the Laplace-Beltrami equation on Lie groups**  
+A. A. Magazev et al.  
+[[arxiv:2603.09535](https://arxiv.org/abs/2603.09535)]  
+
+<details>
+<summary>Abstract(161)</summary>
+
+</details>
+
+**Short abstract**: We identify a class of left-invariant pseudo-Riemannian metrics on Lie groups for which the Laplace-Beltrami equation reduces to a first-order PDE and admits exact solutions....
+
+**Code**: null
+|**2026-03-10** — **Weak-Coupling Limit of the Lattice Nonlinear Schrödinger Integral Equation**  
+Felipe Taha Sant'Ana et al.  
+[[arxiv:2603.09522](https://arxiv.org/abs/2603.09522)]  
+
+<details>
+<summary>Abstract(165)</summary>
+
+</details>
+
+**Short abstract**: We study the ground-state integral equation of the quantum lattice nonlinear Schrödinger model -- equivalently the isotropic Heisenberg XXX spin chain with spin $s = -1$ -- in the weak-coupling......
+
+**Code**: null
+|**2026-03-10** — **State integral models and the tetrahedron equation**  
+Junya Yagi et al.  
+[[arxiv:2603.09230](https://arxiv.org/abs/2603.09230)]  
+
+<details>
+<summary>Abstract(45)</summary>
+
+</details>
+
+**Short abstract**: It is shown that for a class of state integral models on shaped pseudo 3-manifolds, including the edge formulation of Teichmüller TQFT, the Boltzmann weight assigned to a tetrahedron solves......
+
+**Code**: null
 |**2026-03-06** — **An involutivity theorem for a class of Poisson quasi-Nijenhuis manifolds**  
 Eber Chuño Vizarreta et al.  
 [[arxiv:2603.06532](https://arxiv.org/abs/2603.06532)]  
@@ -247,6 +283,18 @@ Anup Anand Singh et al.
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10** — **Lax Pairs: Integrable, Less Integrable and Nonintegrable Systems**  
+D. C. Antonopoulou et al.  
+[[arxiv:2603.09224](https://arxiv.org/abs/2603.09224)]  
+
+<details>
+<summary>Abstract(151)</summary>
+
+</details>
+
+**Short abstract**: Completely integrable finite dimensional Hamiltonian systems are well understood thanks to the work of Liouville and Arnold....
+
+**Code**: null
 |**2026-03-09** — **Soliton solutions to the coupled Sasa-Satsuma equation under mixed boundary conditions**  
 Changyan Shi et al.  
 [[arxiv:2603.08686](https://arxiv.org/abs/2603.08686)]  
