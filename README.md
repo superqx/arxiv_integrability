@@ -1,4 +1,4 @@
-## Updated on 2026.03.11
+## Updated on 2026.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12** — **Weak integrability breaking perturbations in classical integrable models on the lattice**  
+Sara Vanovac et al.  
+[[arxiv:2603.11712](https://arxiv.org/abs/2603.11712)]  
+
+<details>
+<summary>Abstract(262)</summary>
+
+</details>
+
+**Short abstract**: We show how to systematically construct weak integrability breaking perturbations (WIBs) for classical integrable models on the lattice....
+
+**Code**: null
 |**2026-03-06** — **Floquet scars and prethermal fragmentation in a driven spin-one chain**  
 Krishanu Ghosh et al.  
 [[arxiv:2603.06111](https://arxiv.org/abs/2603.06111)]  
@@ -148,7 +160,7 @@ Giorgio Li et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260313>back to top</a>)</p>
 
 ## Mathematical Physics
 
@@ -275,12 +287,36 @@ Anup Anand Singh et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260313>back to top</a>)</p>
 
 ## Exactly Solvable and Integrable System
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12** — **Hankel Determinants from Quadratic Orthogonal Pairs for Hyperelliptic Functions and Their Applications**  
+Xiang-Ke Chang et al.  
+[[arxiv:2603.11670](https://arxiv.org/abs/2603.11670)]  
+
+<details>
+<summary>Abstract(76)</summary>
+
+</details>
+
+**Short abstract**: As argued by Hone in the paper [Commun. Pure Appl....
+
+**Code**: null
+|**2026-03-11** — **Integrable Free and Interacting Fermions**  
+Zhao Zhang et al.  
+[[arxiv:2603.11172](https://arxiv.org/abs/2603.11172)]  
+
+<details>
+<summary>Abstract(164)</summary>
+
+</details>
+
+**Short abstract**: Integrability conditions on local Hamiltonians for one-dimensional quantum systems to be free and interacting fermions are introduced....
+
+**Code**: null
 |**2026-03-10** — **Lax Pairs: Integrable, Less Integrable and Nonintegrable Systems**  
 D. C. Antonopoulou et al.  
 [[arxiv:2603.09224](https://arxiv.org/abs/2603.09224)]  
@@ -450,7 +486,7 @@ Peter A. Clarkson et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260313>back to top</a>)</p>
 
 ## High Energy Theory
 
@@ -553,5 +589,5 @@ Jasper Kager et al.
 
 **Code**: null
 
-<p align=right>(<a href=#Updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260313>back to top</a>)</p>
 
