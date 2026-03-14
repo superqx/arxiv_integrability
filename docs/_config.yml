@@ -1,6 +1,8 @@
 title: Integrability Arxiv Daily
 description: Automatically Update integrability Papers Daily using Github Actions
 show_downloads: false
+url: "https://superqx.github.io"
+baseurl: "/arxiv_integrability"
 
 # github:
 #  zip_url: https://github.com/superqx/arxiv_integrability

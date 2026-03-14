@@ -8,6 +8,23 @@ show_authors: false
 show_links: false
 show_badge: false
 max_results: 10
+days_back: 1
+store_pdfs: false
+pdf_output_dir: './output/pdfs'
+use_deepseek: true
+deepseek_base_url: "https://api.deepseek.com"
+deepseek_model: "deepseek-chat"
+deepseek_max_tokens: 256
+# Set to null/empty to use model default
+deepseek_temperature:
+# Optional override date for testing (YYYY-MM-DD)
+date_override:
+use_published_date: false
+date_tz_offset_hours: 0
+include_ids: []
+summary_language: "en"
+summary_languages:
+  - "en"
 
 publish_readme: true
 publish_gitpage: true
@@ -24,7 +41,7 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-  "Statistical Mechanics":
+  "Condensed Matter":
     filters:
       - "integrable system"
       - "integrable model"
@@ -61,7 +78,7 @@ keywords:
       - "quasilocal charges"
       - "Eigenstate thermalization hypothesis"
       - "quantum quench"
-    category: "cond-mat.stat-mech"
+    category: "cond-mat"
 
   "High Energy Theory":
     filters:
@@ -142,7 +159,7 @@ keywords:
     category: "math-ph"
 
 
-  "Exactly Solvable and Integrable System":
+  "Nonlinear Sciences":
     filters:
       - "integrable system"
       - "integrable model"
@@ -179,4 +196,4 @@ keywords:
       - "quasilocal charges"
       - "Eigenstate thermalization hypothesis"
       - "quantum quench"
-    category: "nlin.SI"
+    category: "nlin"
