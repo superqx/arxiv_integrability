@@ -3,8 +3,7 @@ name: Weekly Update Paper Links & Format
 on:
   workflow_dispatch:           # allow manual trigger
   schedule:
-    - cron: '0 5 * * 0'        # Sundays ~1:00 PM Beijing time (UTC+8)
-
+    - cron: '0 5 * * 0'       
 env:
   GITHUB_USER_NAME: superqx
   GITHUB_USER_EMAIL: superqx.hh@gmail.com
