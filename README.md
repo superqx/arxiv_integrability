@@ -1,4 +1,4 @@
-## Updated on 2026.03.17
+## Updated on 2026.03.18
 > Usage instructions: [here](./docs/USAGE.md#usage)
 
 <details>
@@ -16,7 +16,7 @@
 |**2026-03-12**|**Theoretical proposal of superconductivity in hole-doped reduced bilayer nickelate La3Ni2O6: a manifestation of orbital-space bilayer model with incipient bands**|Shu Kamiyama, Reo Kohno, Yuto Hoshi, Kensei Ushio, Daiki Nakaoka, Hirofumi Sakakibara, Kazuhiko Kuroki|[[arxiv:2603.11771](https://arxiv.org/abs/2603.11771)]|This paper addresses the search for new high-temperature superconductors by proposing a novel pairing mechanism in a specific nickelate material. The method involves constructing a theoretical model for hole-doped La₃Ni₂O₆, identifying it as an "orbital-space bilayer" where a large energy offset between nickel orbitals creates an incipient band situation. The key result is the prediction of robust s±-wave superconductivity in this system, driven by interorbital spin fluctuations. Its significance lies in revealing a distinct superconducting mechanism compared to related nickelates, expanding the theoretical framework for designing superconductors in multi-orbital materials with incipient bands.|
 |**2026-03-12**|**Weak integrability breaking perturbations in classical integrable models on the lattice**|Sara Vanovac, Catherine McCarthy, Federica Maria Surace, Olexei I. Motrunich|[[arxiv:2603.11712](https://arxiv.org/abs/2603.11712)]|This paper addresses the challenge of systematically creating weak integrability-breaking perturbations in classical lattice models, which preserve quasi-conserved quantities. The authors develop a general framework and apply it to specific models like the Toda and Harmonic Oscillator chains, demonstrating that the cubic nonlinearity in the alpha-FPUT model is one such perturbation. A key result is the explicit construction of an infinite set of quasi-conserved quantities for the alpha-FPUT chain. This work is significant because it establishes a classical computational framework to study how weak integrability breaking leads to anomalously slow thermalization and transport, complementing difficult quantum simulations.|
 
-<p align=right>(<a href=#Updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260318>back to top</a>)</p>
 
 ## Nonlinear Sciences
 
@@ -24,5 +24,5 @@
 |---|---|---|---|---|
 |**2026-03-12**|**Hankel Determinants from Quadratic Orthogonal Pairs for Hyperelliptic Functions and Their Applications**|Xiang-Ke Chang, Jiyuan Liu|[[arxiv:2603.11670](https://arxiv.org/abs/2603.11670)]|This paper addresses a persistent "mismatch" problem in the analysis of continued fractions and Hankel determinants derived from hyperelliptic curves. The authors resolve this by introducing a novel concept called quadratic orthogonal pairs for hyperelliptic functions. A key application of this method is providing a complete solution to the initial value problems for two discrete integrable systems: the bilateral Somos-4 and Somos-5 recurrences. The work is significant for advancing the theory of Hankel determinants and offering new tools for solving nonlinear integrable systems.|
 
-<p align=right>(<a href=#Updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260318>back to top</a>)</p>
 
