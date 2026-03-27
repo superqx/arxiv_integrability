@@ -1,4 +1,4 @@
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 > Usage instructions: [here](./docs/USAGE.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 - **Summary**: This paper addresses the challenge of systematically creating weak integrability-breaking perturbations in classical lattice models, which preserve quasi-conserved quantities. The authors develop a general framework and apply it to specific models like the Toda and Harmonic Oscillator chains, demonstrating that the cubic nonlinearity in the alpha-FPUT model is one such perturbation. A key result is the explicit construction of an infinite set of quasi-conserved quantities for the alpha-FPUT chain. This work is significant because it establishes a classical computational framework to study how weak integrability breaking leads to anomalously slow thermalization and transport, complementing difficult quantum simulations.
 
 
-<p align=right>(<a href=#Updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260327>back to top</a>)</p>
 
 ## Nonlinear Sciences
 
@@ -42,5 +42,5 @@
 - **Summary**: This paper addresses a persistent "mismatch" problem in the analysis of continued fractions and Hankel determinants derived from hyperelliptic curves. The authors resolve this by introducing a novel concept called quadratic orthogonal pairs for hyperelliptic functions. A key application of this method is providing a complete solution to the initial value problems for two discrete integrable systems: the bilateral Somos-4 and Somos-5 recurrences. The work is significant for advancing the theory of Hankel determinants and offering new tools for solving nonlinear integrable systems.
 
 
-<p align=right>(<a href=#Updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260327>back to top</a>)</p>
 
