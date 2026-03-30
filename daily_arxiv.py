@@ -1,13 +1,14 @@
 import os
 import re
 import json
-import arxiv
 import yaml
 import logging
 import argparse
 import datetime
+import time
+import calendar
 import requests
-from typing import List, Optional
+from typing import List, Optional, Pattern
 from urllib3.util.retry import Retry
 from requests.adapters import HTTPAdapter
 from datetime import timedelta
@@ -20,6 +21,16 @@ logging.basicConfig(
 
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "https://arxiv.org/"
+
+try:
+    import arxiv  # type: ignore
+except Exception:
+    arxiv = None
+
+try:
+    import feedparser  # type: ignore
+except Exception:
+    feedparser = None
 
 try:
     import pdfplumber  # type: ignore
@@ -144,7 +155,7 @@ def load_config(config_file: str) -> dict:
                 }
         return keywords
 
-    with open(config_file, 'r') as f:
+    with open(config_file, 'r', encoding='utf-8-sig') as f:
         config = yaml.load(f, Loader=yaml.FullLoader)
 
     config['kv'] = pretty_filters(**config)
@@ -171,6 +182,194 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output
+
+
+def normalize_arxiv_id(value: str) -> str:
+    """Normalize arXiv id by removing version suffix."""
+    if not value:
+        return value
+    return re.sub(r'v\d+$', '', value.strip())
+
+
+def extract_publish_date_from_row(row: str) -> datetime.date:
+    """
+    Extract publish date from a markdown table row.
+    Returns datetime.date.min when parsing fails.
+    """
+    if not row:
+        return datetime.date.min
+    cells = [c.strip() for c in row.strip().split("|") if c.strip()]
+    if not cells:
+        return datetime.date.min
+    raw_date = re.sub(r"\*", "", cells[0]).strip()
+    try:
+        return datetime.datetime.strptime(raw_date, "%Y-%m-%d").date()
+    except Exception:
+        return datetime.date.min
+
+
+def normalize_arxiv_link_versions(row: str) -> str:
+    """Remove version suffix from arXiv id labels and URLs while keeping table format."""
+    if not row:
+        return row
+    normalized = re.sub(
+        r'(arxiv:[0-9]{4}\.[0-9]{4,5})v\d+',
+        r'\1',
+        row
+    )
+    normalized = re.sub(
+        r'(https?://arxiv\.org/abs/[0-9]{4}\.[0-9]{4,5})v\d+',
+        r'\1',
+        normalized
+    )
+    return normalized
+
+
+def compile_filter_patterns(filters: Optional[List[str]]) -> List[Pattern]:
+    """Compile keyword filters into regex patterns for local title/abstract matching."""
+    patterns = []
+    for raw in filters or []:
+        term = str(raw).strip()
+        if not term:
+            continue
+        escaped = re.escape(term)
+        # Match whitespace and hyphen variants, e.g. "Korteweg-de vries".
+        escaped = escaped.replace(r"\ ", r"[\s\-]+")
+        patterns.append(re.compile(escaped, re.IGNORECASE))
+    return patterns
+
+
+def paper_matches_filters(title: str, abstract: str, patterns: List[Pattern]) -> bool:
+    """Return True when any filter pattern matches title or abstract."""
+    if not patterns:
+        return True
+    haystack = f"{title}\n{abstract}"
+    return any(p.search(haystack) for p in patterns)
+
+
+def build_category_query(category: str) -> str:
+    """
+    Build arXiv category query that includes legacy root and modern subcategories.
+    Example: cond-mat -> (cat:cond-mat OR cat:cond-mat.*)
+    """
+    if not category:
+        return "all:*"
+    if "." in category:
+        return f"cat:{category}"
+    return f"(cat:{category} OR cat:{category}.*)"
+
+
+def category_to_rss(category: str) -> str:
+    """Map configured category to arXiv RSS feed key."""
+    if not category:
+        return ""
+    return category.split(".")[0]
+
+
+def strip_html(text: str) -> str:
+    """Remove simple HTML tags and normalize whitespace."""
+    if not text:
+        return ""
+    cleaned = re.sub(r"<[^>]+>", " ", text)
+    cleaned = re.sub(r"\s+", " ", cleaned).strip()
+    return cleaned
+
+
+def extract_arxiv_id_from_text(text: str) -> Optional[str]:
+    """Extract arXiv identifier from URL/text."""
+    if not text:
+        return None
+    # New style: 2603.12345v1
+    m = re.search(r"(\d{4}\.\d{4,5}(?:v\d+)?)", text)
+    if m:
+        return m.group(1)
+    # Old style: hep-th/9901001v2
+    m = re.search(r"([a-z\-]+(?:\.[A-Za-z\-]+)?/\d{7}(?:v\d+)?)", text)
+    if m:
+        return m.group(1)
+    return None
+
+
+def parse_feed_entry_datetime(entry) -> Optional[datetime.datetime]:
+    """Parse RSS entry datetime as UTC datetime."""
+    st = entry.get("updated_parsed") or entry.get("published_parsed")
+    if not st:
+        return None
+    try:
+        ts = calendar.timegm(st)
+        return datetime.datetime.fromtimestamp(ts, tz=datetime.timezone.utc)
+    except Exception:
+        return None
+
+
+def fetch_daily_entries_from_rss(category: str,
+                                 start_date: datetime.date,
+                                 end_date: datetime.date,
+                                 date_tz_offset_hours: int,
+                                 rss_feed_base_url: str,
+                                 rss_timeout_seconds: int):
+    """
+    Fetch entries from arXiv RSS feed and keep those within the local-date window.
+    Returns list of normalized dict entries.
+    """
+    if feedparser is None:
+        raise RuntimeError("feedparser is not installed")
+
+    feed_cat = category_to_rss(category)
+    if not feed_cat:
+        return []
+    feed_url = f"{rss_feed_base_url.rstrip('/')}/{feed_cat}"
+    logging.info(f"Fetching RSS feed: {feed_url}")
+    resp = requests.get(
+        feed_url,
+        timeout=max(5, int(rss_timeout_seconds)),
+        headers={"User-Agent": "ArXiv-Daily-Collector/1.0"}
+    )
+    resp.raise_for_status()
+    feed = feedparser.parse(resp.content)
+    if getattr(feed, "bozo", False):
+        logging.warning(f"RSS parser warning for {feed_url}: {getattr(feed, 'bozo_exception', 'unknown')}")
+
+    normalized = []
+    for entry in feed.entries:
+        raw_dt = parse_feed_entry_datetime(entry)
+        if raw_dt is None:
+            continue
+        local_dt = raw_dt + datetime.timedelta(hours=date_tz_offset_hours)
+        local_date = local_dt.date()
+        if local_date < start_date or local_date > end_date:
+            continue
+
+        link = entry.get("link", "")
+        entry_id_text = entry.get("id", "") or link
+        aid = extract_arxiv_id_from_text(link) or extract_arxiv_id_from_text(entry_id_text)
+        if not aid:
+            continue
+
+        authors = ""
+        if entry.get("authors"):
+            try:
+                authors = ", ".join(a.get("name", "").strip() for a in entry["authors"] if a.get("name"))
+            except Exception:
+                authors = entry.get("author", "")
+        else:
+            authors = entry.get("author", "")
+
+        title = strip_html(entry.get("title", ""))
+        summary = strip_html(entry.get("summary", ""))
+        if not title:
+            continue
+
+        normalized.append({
+            "paper_id_raw": aid,
+            "paper_key": normalize_arxiv_id(aid),
+            "title": title,
+            "summary": summary,
+            "authors": authors,
+            "announce_date": local_date
+        })
+
+    return normalized
 
 
 def get_code_link(qword: str, session=None) -> str:
@@ -242,7 +441,8 @@ def ensure_pdf_dir(store_pdfs: bool, output_dir: Optional[str]) -> str:
 def download_pdf(paper_key: str, session: requests.Session, store_pdfs: bool,
                  output_dir: Optional[str]) -> Optional[str]:
     pdf_dir = ensure_pdf_dir(store_pdfs, output_dir)
-    pdf_path = os.path.join(pdf_dir, f"{paper_key}.pdf")
+    safe_key = paper_key.replace("/", "_")
+    pdf_path = os.path.join(pdf_dir, f"{safe_key}.pdf")
     if os.path.exists(pdf_path) and os.path.getsize(pdf_path) > 0:
         return pdf_path
     pdf_url = f"{arxiv_url}pdf/{paper_key}.pdf"
@@ -371,7 +571,7 @@ def build_paper_summary(paper_key: str, paper_title: str, paper_abstract: str,
         lower = text.lower()
         if "<latexit" in lower or "cid:" in lower:
             return True
-        if "�" in text:
+        if "\ufffd" in text:
             return True
         return False
 
@@ -416,7 +616,7 @@ def build_paper_summary(paper_key: str, paper_title: str, paper_abstract: str,
 
     fallback = shorten_to_approx_words(paper_abstract, target=SUMMARY_MIN_WORDS)
     if summary_language.lower().startswith("zh") and fallback:
-        return f"（中文摘要生成失败，以下为英文摘要压缩）{fallback}"
+        return f"Chinese summary generation failed; using compressed English summary: {fallback}"
     return fallback
 
 def get_daily_papers(topic, query, max_results=10, category="cond-mat.stat-mech",
@@ -431,6 +631,14 @@ def get_daily_papers(topic, query, max_results=10, category="cond-mat.stat-mech"
                      use_published_date: bool = False,
                      date_tz_offset_hours: int = 0,
                      include_ids: Optional[List[str]] = None,
+                     filters: Optional[List[str]] = None,
+                     use_local_keyword_filter: bool = True,
+                     scan_max_results: int = 120,
+                     arxiv_delay_seconds: float = 0.5,
+                     arxiv_num_retries: int = 0,
+                     fetch_mode: str = "rss_daily",
+                     rss_feed_base_url: str = "https://rss.arxiv.org/rss",
+                     rss_timeout_seconds: int = 20,
                      summary_language: str = "en",
                      summary_languages: Optional[List[str]] = None):
     """
@@ -448,27 +656,121 @@ def get_daily_papers(topic, query, max_results=10, category="cond-mat.stat-mech"
     content = dict()
     content_to_web = dict()
 
-    # Add category filter to the query
-    if category:
-        query_with_category = f"{query} AND cat:{category}"
+    session = create_session()
+    if end_date is None:
+        end_date = datetime.date.today()
+    start_date = end_date - timedelta(days=days_back - 1)
+    include_set = set(include_ids or [])
+
+    local_patterns = compile_filter_patterns(filters)
+    use_local_filter = use_local_keyword_filter and len(local_patterns) > 0
+
+    fetch_mode = (fetch_mode or "rss_daily").lower().strip()
+
+    if fetch_mode == "rss_daily":
+        try:
+            rss_entries = fetch_daily_entries_from_rss(
+                category=category,
+                start_date=start_date,
+                end_date=end_date,
+                date_tz_offset_hours=date_tz_offset_hours,
+                rss_feed_base_url=rss_feed_base_url,
+                rss_timeout_seconds=rss_timeout_seconds
+            )
+            logging.info(
+                f"RSS daily mode loaded {len(rss_entries)} entries for topic '{topic}' "
+                f"in window {start_date} to {end_date}."
+            )
+            for entry in rss_entries:
+                paper_key = entry["paper_key"]
+                if not paper_key:
+                    continue
+                include_forced = paper_key in include_set
+                paper_title = entry["title"]
+                paper_abstract = entry["summary"]
+                paper_authors = entry["authors"] or "Unknown"
+                publish_time = entry["announce_date"]
+
+                if use_local_filter and (not include_forced):
+                    if not paper_matches_filters(paper_title, paper_abstract, local_patterns):
+                        continue
+
+                paper_url = arxiv_url + 'abs/' + paper_key
+
+                requested_langs = summary_languages or [summary_language]
+                summary_lang = "en" if "en" in requested_langs else requested_langs[0]
+                summary_en = build_paper_summary(
+                    paper_key,
+                    paper_title,
+                    paper_abstract,
+                    session,
+                    store_pdfs=store_pdfs,
+                    output_dir=pdf_output_dir,
+                    use_deepseek=use_deepseek,
+                    deepseek_base_url=deepseek_base_url,
+                    deepseek_model=deepseek_model,
+                    deepseek_max_tokens=deepseek_max_tokens,
+                    deepseek_temperature=deepseek_temperature,
+                    summary_language=summary_lang
+                )
+                summary_en = summary_en.replace("\n", " ").replace("|", "/")
+
+                content[paper_key] = (
+                    f"|**{publish_time}**|**{paper_title}**|{paper_authors}|"
+                    f"[[arxiv:{paper_key}]({paper_url})]|{summary_en}|\n"
+                )
+                content_to_web[paper_key] = (
+                    f"|**{publish_time}**|**{paper_title}**|{paper_authors}|"
+                    f"[arXiv]({paper_url})|{summary_en}|\n"
+                )
+
+                if len(content) >= max_results:
+                    break
+        except Exception as e:
+            logging.error(f"Error fetching RSS daily papers for topic {topic}: {e}")
+        finally:
+            logging.info(
+                f"Topic '{topic}' matched {len(content)} papers in current window."
+            )
+
+        data = {topic: content}
+        data_web = {topic: content_to_web}
+        return data, data_web
+
+    if arxiv is None:
+        logging.error('arxiv package is not installed. Run pip install -r requirements.txt')
+        return {topic: content}, {topic: content_to_web}
+
+    # Use category-only query and apply keyword filters locally.
+    # This avoids very large OR queries that frequently trigger arXiv 429 rate limits.
+    if use_local_filter:
+        query_with_category = build_category_query(category)
+        fetch_limit = max(max_results, int(scan_max_results))
     else:
-        query_with_category = query
+        if category:
+            query_with_category = f"{query} AND {build_category_query(category)}"
+        else:
+            query_with_category = query
+        fetch_limit = max_results
 
     logging.info(f"Searching with query: {query_with_category}")
+    if use_local_filter:
+        logging.info(
+            f"Using local keyword filtering for topic '{topic}' with {len(local_patterns)} filters "
+            f"(scan_max_results={fetch_limit})."
+        )
 
     try:
         search_engine = arxiv.Search(
             query=query_with_category,
-            max_results=max_results,
+            max_results=fetch_limit,
             sort_by=arxiv.SortCriterion.SubmittedDate
         )
-
-        session = create_session()
-        if end_date is None:
-            end_date = datetime.date.today()
-        start_date = end_date - timedelta(days=days_back - 1)
-
-        include_set = set(include_ids or [])
+        client = arxiv.Client(
+            page_size=min(fetch_limit, 200),
+            delay_seconds=max(0.0, arxiv_delay_seconds),
+            num_retries=max(0, arxiv_num_retries)
+        )
 
         def category_matches(primary_cat: str, requested_cat: str) -> bool:
             if primary_cat == requested_cat:
@@ -478,12 +780,12 @@ def get_daily_papers(topic, query, max_results=10, category="cond-mat.stat-mech"
                 return True
             return False
 
-        for result in search_engine.results():
+        for result in client.results(search_engine):
             primary = result.primary_category
 
             # Only keep if primary category matches what we asked for
             if not category_matches(primary, category):
-                logging.info(f"Skipping {result.get_short_id()} - primary category {primary} != requested {category}")
+                logging.debug(f"Skipping {result.get_short_id()} - primary category {primary} != requested {category}")
                 continue
 
             paper_id = result.get_short_id()
@@ -504,6 +806,12 @@ def get_daily_papers(topic, query, max_results=10, category="cond-mat.stat-mech"
             else:
                 paper_key = paper_id[0:ver_pos]
 
+            include_forced = paper_key in include_set
+
+            if use_local_filter and (not include_forced):
+                if not paper_matches_filters(paper_title, paper_abstract, local_patterns):
+                    continue
+
             raw_dt = result.published if use_published_date else result.updated
             if raw_dt.tzinfo is None:
                 raw_dt = raw_dt.replace(tzinfo=datetime.timezone.utc)
@@ -516,10 +824,10 @@ def get_daily_papers(topic, query, max_results=10, category="cond-mat.stat-mech"
             )
 
             # Keep only papers updated within the date window (inclusive)
-            if paper_key in include_set:
+            if include_forced:
                 logging.info(f"Including {paper_key} via include_ids override")
             elif filter_date < start_date or filter_date > end_date:
-                logging.info(
+                logging.debug(
                     f"Skipping {result.get_short_id()} - updated {filter_date} outside "
                     f"window {start_date} to {end_date}"
                 )
@@ -559,8 +867,21 @@ def get_daily_papers(topic, query, max_results=10, category="cond-mat.stat-mech"
                 f"[arXiv]({paper_url})|{summary_en}|\n"
             )
 
+            if len(content) >= max_results:
+                break
+
     except Exception as e:
-        logging.error(f"Error fetching papers for topic {topic}: {e}")
+        if "429" in str(e):
+            logging.error(
+                f"Error fetching papers for topic {topic}: {e}. "
+                "arXiv rate limit hit (429). Consider lowering scan_max_results or running less frequently."
+            )
+        else:
+            logging.error(f"Error fetching papers for topic {topic}: {e}")
+    finally:
+        logging.info(
+            f"Topic '{topic}' matched {len(content)} papers in current window."
+        )
 
     data = {topic: content}
     data_web = {topic: content_to_web}
@@ -570,20 +891,10 @@ def get_daily_papers(topic, query, max_results=10, category="cond-mat.stat-mech"
 
 def update_paper_links(filename):
     """
-    Weekly update paper links in json file
+    Weekly reorganize papers in json file while preserving markdown table rows.
     """
-    def parse_arxiv_string(s):
-        parts = [p.strip() for p in s.split("|") if p.strip()]
-        date = parts[0] if len(parts) > 0 else ""
-        title = parts[1] if len(parts) > 1 else ""
-        authors = parts[2] if len(parts) > 2 else ""
-        arxiv_id = parts[3] if len(parts) > 3 else ""
-        summary = parts[4] if len(parts) > 4 else ""
-        arxiv_id = re.sub(r'v\d+', '', arxiv_id)
-        return date, title, authors, arxiv_id, summary
-
     try:
-        with open(filename, "r") as f:
+        with open(filename, "r", encoding="utf-8-sig") as f:
             content = f.read()
 
         if not content:
@@ -593,28 +904,34 @@ def update_paper_links(filename):
 
         json_data = m.copy()
 
-        for keywords, v in json_data.items():
-            logging.info(f'keywords = {keywords}')
-            for paper_id, contents in v.items():
-                contents = str(contents)
-                update_time, paper_title, paper_first_author, paper_url, summary = parse_arxiv_string(contents)
+        for keyword, entries in json_data.items():
+            logging.info(f"Reorganizing topic: {keyword}")
+            if not isinstance(entries, dict):
+                json_data[keyword] = {}
+                continue
 
-                contents = (
-                    f"### {paper_title}\n\n"
-                    f"- **Date**: {update_time}\n"
-                    f"- **Authors**: {paper_first_author} et al.\n"
-                    f"- **arXiv**: [{paper_url.split('/')[-1]}]({paper_url})\n"
-                    f"- **Summary**: {summary}\n"
-                    "\n"
-                )
-                json_data[keywords][paper_id] = str(contents)
+            # Keep latest entry per normalized arXiv id and sort by publish date desc.
+            canonical = {}
+            for paper_id, raw_row in entries.items():
+                normalized_id = normalize_arxiv_id(str(paper_id))
+                row = normalize_arxiv_link_versions(str(raw_row)).rstrip("\n") + "\n"
+                publish_date = extract_publish_date_from_row(row)
+                current = canonical.get(normalized_id)
+                if current is None or publish_date >= current["publish_date"]:
+                    canonical[normalized_id] = {
+                        "row": row,
+                        "publish_date": publish_date
+                    }
 
-                logging.info(f'paper_id = {paper_id}, contents = {contents}')
-                # PapersWithCode API is deprecated, skip code link updates
-                logging.info(f'Skipping code link update for paper_id = {paper_id} (PapersWithCode API deprecated)')
+            sorted_items = sorted(
+                canonical.items(),
+                key=lambda item: (item[1]["publish_date"], item[0]),
+                reverse=True
+            )
+            json_data[keyword] = {paper_id: data["row"] for paper_id, data in sorted_items}
 
         # dump to json file
-        with open(filename, "w") as f:
+        with open(filename, "w", encoding="utf-8") as f:
             json.dump(json_data, f)
 
     except Exception as e:
@@ -626,7 +943,7 @@ def update_json_file(filename, data_dict):
     Daily update json file using data_dict
     """
     try:
-        with open(filename, "r") as f:
+        with open(filename, "r", encoding="utf-8-sig") as f:
             content = f.read()
 
         if not content:
@@ -645,7 +962,7 @@ def update_json_file(filename, data_dict):
                 else:
                     json_data[keyword] = papers
 
-        with open(filename, "w") as f:
+        with open(filename, "w", encoding="utf-8") as f:
             json.dump(json_data, f)
 
     except Exception as e:
@@ -693,7 +1010,7 @@ def json_to_md(filename, md_filename, task='', to_web=False, use_title=True,
     DateNow = DateNow.replace('-', '.')
 
     try:
-        with open(filename, "r") as f:
+        with open(filename, "r", encoding="utf-8-sig") as f:
             content = f.read()
 
         if not content:
@@ -775,6 +1092,7 @@ def demo(**config):
     data_collector_web = []
 
     keywords = config['kv']
+    raw_keywords = config.get('keywords', {})
     max_results = config['max_results']
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
@@ -792,6 +1110,14 @@ def demo(**config):
     use_published_date = bool(config.get('use_published_date', False))
     date_tz_offset_hours = int(config.get('date_tz_offset_hours', 0))
     include_ids = config.get('include_ids', [])
+    use_local_keyword_filter = bool(config.get('use_local_keyword_filter', True))
+    scan_max_results = int(config.get('scan_max_results', 120))
+    arxiv_delay_seconds = float(config.get('arxiv_delay_seconds', 0.5))
+    arxiv_num_retries = int(config.get('arxiv_num_retries', 0))
+    topic_delay_seconds = float(config.get('topic_delay_seconds', 2.0))
+    fetch_mode = str(config.get('fetch_mode', 'rss_daily'))
+    rss_feed_base_url = str(config.get('rss_feed_base_url', 'https://rss.arxiv.org/rss'))
+    rss_timeout_seconds = int(config.get('rss_timeout_seconds', 20))
     summary_language = config.get('summary_language', 'en')
     summary_languages = config.get('summary_languages')
     date_override = config.get('date_override')
@@ -807,12 +1133,20 @@ def demo(**config):
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
 
-        for topic, keyword_config in keywords.items():
+        topics = list(keywords.items())
+        for idx, (topic, keyword_config) in enumerate(topics):
             logging.info(f"Topic: {topic}")
 
             # Extract query and category from config
             query = keyword_config['query']
             category = keyword_config.get('category', 'cond-mat.stat-mech')
+            topic_raw_config = raw_keywords.get(topic, {})
+            if isinstance(topic_raw_config, dict):
+                topic_filters = topic_raw_config.get('filters', [])
+            elif isinstance(topic_raw_config, list):
+                topic_filters = topic_raw_config
+            else:
+                topic_filters = []
 
             logging.info(f"Category: {category}")
 
@@ -833,12 +1167,24 @@ def demo(**config):
                 use_published_date=use_published_date,
                 date_tz_offset_hours=date_tz_offset_hours,
                 include_ids=include_ids,
+                filters=topic_filters,
+                use_local_keyword_filter=use_local_keyword_filter,
+                scan_max_results=scan_max_results,
+                arxiv_delay_seconds=arxiv_delay_seconds,
+                arxiv_num_retries=arxiv_num_retries,
+                fetch_mode=fetch_mode,
+                rss_feed_base_url=rss_feed_base_url,
+                rss_timeout_seconds=rss_timeout_seconds,
                 summary_language=summary_language,
                 summary_languages=summary_languages
             )
 
             data_collector.append(data)
             data_collector_web.append(data_web)
+
+            if idx != len(topics) - 1 and topic_delay_seconds > 0:
+                logging.info(f"Sleeping {topic_delay_seconds:.1f}s before next topic to reduce API pressure.")
+                time.sleep(topic_delay_seconds)
 
         print("\n")
         logging.info(f"GET daily papers end")
@@ -852,7 +1198,7 @@ def demo(**config):
             update_paper_links(json_file)
         else:
             update_json_file(json_file, data_collector)
-            json_to_md(json_file, md_file, task='Update Readme', show_badge=show_badge)
+        json_to_md(json_file, md_file, task='Update Readme', show_badge=show_badge)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -863,9 +1209,9 @@ def demo(**config):
             update_paper_links(json_file)
         else:
             update_json_file(json_file, data_collector)
-            json_to_md(json_file, md_file, task='Update GitPage',
-                      to_web=True, show_badge=show_badge,
-                      use_tc=False, use_b2t=False)
+        json_to_md(json_file, md_file, task='Update GitPage',
+                  to_web=True, show_badge=show_badge,
+                  use_tc=False, use_b2t=False)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -876,8 +1222,8 @@ def demo(**config):
             update_paper_links(json_file)
         else:
             update_json_file(json_file, data_collector_web)
-            json_to_md(json_file, md_file, task='Update Wechat',
-                      to_web=False, use_title=False, show_badge=show_badge)
+        json_to_md(json_file, md_file, task='Update Wechat',
+                  to_web=False, use_title=False, show_badge=show_badge)
 
 
 if __name__ == "__main__":
@@ -898,6 +1244,8 @@ if __name__ == "__main__":
                        help='arXiv ID to always include (can be repeated)')
     parser.add_argument('--summary_language', type=str, default=None,
                        help='summary language (e.g., en, zh)')
+    parser.add_argument('--fetch_mode', type=str, default=None,
+                       help='data source mode: rss_daily or api_search')
 
     args = parser.parse_args()
 
@@ -916,5 +1264,7 @@ if __name__ == "__main__":
         config['include_ids'] = list(set(existing + args.include_id))
     if args.summary_language:
         config['summary_language'] = args.summary_language
+    if args.fetch_mode:
+        config['fetch_mode'] = args.fetch_mode
 
     demo(**config)

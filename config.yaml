@@ -9,6 +9,22 @@ show_links: false
 show_badge: false
 max_results: 10
 days_back: 1
+# Fetch mode:
+# - rss_daily: papers that newly appear on arXiv daily feeds (recommended)
+# - api_search: arXiv API search mode
+fetch_mode: "rss_daily"
+rss_feed_base_url: "https://rss.arxiv.org/rss"
+rss_timeout_seconds: 20
+# To avoid arXiv HTTP 429 from huge OR queries, fetch by category first and
+# apply keyword filters locally in title/abstract.
+use_local_keyword_filter: true
+# Number of newest papers to scan per category before local filtering.
+scan_max_results: 120
+# arXiv client pacing/retries (lower retries avoids long sleep loops on 429).
+arxiv_delay_seconds: 0.5
+arxiv_num_retries: 0
+# Delay between topic queries to reduce per-IP burst pressure.
+topic_delay_seconds: 2.0
 store_pdfs: false
 pdf_output_dir: './output/pdfs'
 use_deepseek: true
@@ -20,7 +36,7 @@ deepseek_temperature:
 # Optional override date for testing (YYYY-MM-DD)
 date_override:
 use_published_date: false
-date_tz_offset_hours: 0
+date_tz_offset_hours: 8
 include_ids: []
 summary_language: "en"
 summary_languages:
