@@ -37,6 +37,7 @@
 
 |Publish Date|Title|Authors|arXiv|Summary|
 |---|---|---|---|---|
+<<<<<<< HEAD
 |**2026-03-30**|**Symmetry-resolved properties of the trace distance in thermalizing SU(2) systems**|Haojie Shen, Jie Chen, Xiaoqun Wang|[[arxiv:2603.26540](https://arxiv.org/abs/2603.26540)]|This paper addresses the problem of diagnosing thermalization in quantum systems with non-Abelian symmetries, where standard thermalization probes are insufficient. The method introduces a symmetry-resolved trace distance, which decomposes into separate components for spin-sector probabilities and intra-sector configurations. The key result is that in thermalizing systems, the probability component becomes exponentially small with system size, leaving the configurational component to dominate the total trace distance. This is significant because it provides a refined, symmetry-aware tool for verifying the non-Abelian eigenstate thermalization hypothesis and quantifying thermalization in complex quantum systems.|
 |**2026-03-30**|**Phase Coherence of Strongly Interacting Bosons in One-Dimensional Optical Lattices**|R. Vatr\'e, G. Morettini, J. Beugnon, R. Lopes, L. Mazza, F. Gerbier|[[arxiv:2603.26118](https://arxiv.org/abs/2603.26118)]|This paper investigates how temperature and interactions affect the phase coherence of ultracold bosons in a 1D optical lattice, a key system for studying quantum phases like the Mott insulator. The researchers combine experimental measurements of the momentum distribution with precise tensor-network simulations of the Bose-Hubbard model. Their key finding is that the system behaves as if it has an "effective temperature" that drops as the lattice deepens, not due to cooling but because emerging Mott insulator domains inhibit thermalization. This result is significant as it reveals how disorder and localization can protect low-entropy quantum states, offering insights for preparing and stabilizing correlated phases in quantum simulators.|
 |**2026-03-30**|**Benchmarking the accuracy of superconducting pair-pair correlations within Constrained Path Quantum Monte Carlo**|Jodie Roberts, Beau A. Thompson, R. Torsten Clay|[[arxiv:2603.25858](https://arxiv.org/abs/2603.25858)]|This paper addresses the challenge of accurately calculating superconducting pair-pair correlations in the Hubbard model using Constrained Path Quantum Monte Carlo (CPMC), a method that mitigates the fermion sign problem but requires approximations for measuring observables. The authors critically compare two measurement techniques: the commonly used backpropagation method and a newer constraint release technique. Their key finding is that backpropagation systematically underestimates the magnitude of pair-pair correlations, whereas constraint release can yield accurate results, albeit at a much higher computational cost because it reintroduces the sign problem. This work is significant because it benchmarks the accuracy of a widely used numerical method for studying superconductivity, highlighting a crucial trade-off between computational efficiency and precision in predicting key correlation functions.|
@@ -47,17 +48,60 @@
 |**2026-03-30**|**A higher dimensional generalization of the Kitaev spin liquid**|Po-Jui Chen, Piers Coleman|[[arxiv:2506.00248](https://arxiv.org/abs/2506.00248)]|This paper tackles the problem of generalizing the fractionalized excitations of the two-dimensional Kitaev spin liquid to higher dimensions. The method involves constructing an exactly solvable spin model on a specific six-sublattice orthorhombic lattice in four dimensions. A key result is that the model hosts a gapless spin liquid phase with a two-dimensional Fermi surface and has a flux-free ground state, as confirmed by calculating vison energies. Its significance lies in providing a concrete framework for studying exotic fractionalized quasiparticles and topological order in settings beyond two dimensions.|
 |**2026-03-30**|**Integrability and Chaos via fractal analysis of Spectral Form Factors: Gaussian approximations and exact results**|Lorenzo Campos Venuti, Jovan Odavi\'c, Alioscia Hamma|[[arxiv:2505.05199](https://arxiv.org/abs/2505.05199)]|This paper investigates whether the chaotic behavior of quantum many-body systems can be characterized by analyzing their spectral form factor (SFF) as a fractal random walk. The method involves calculating the Hausdorff dimension of the walk's frontier, proposing that chaotic Hamiltonians should yield a universal value of 4/3, akin to a Wiener process. Key results show that numerical simulations for non-integrable models confirm this value, while integrable models yield a dimension of 1, with Bethe Ansatz solvable systems behaving like chaotic ones. The significance lies in providing a new, geometric fractal-based diagnostic for quantum chaos and integrability, supported by exact analytical results for specific Hamiltonian classes.|
 
+=======
+### 
+
+- **Date**: ### **Theoretical proposal of superconductivity in hole-doped reduced bilayer nickelate La3Ni2O6: a manifestation of orbital-space bilayer model with incipient bands**
+
+- **Date**: **2026-03-12**
+- **Authors**: Shu Kamiyama, Reo Kohno, Yuto Hoshi, Kensei Ushio, Daiki Nakaoka, Hirofumi Sakakibara, Kazuhiko Kuroki et al.
+- **arXiv**: [2603.11771)]]([[arxiv:2603.11771](https://arxiv.org/abs/2603.11771)])
+- **Summary**: This paper addresses the search for new high-temperature superconductors by proposing a novel pairing mechanism in a specific nickelate material. The method involves constructing a theoretical model for hole-doped La₃Ni₂O₆, identifying it as an "orbital-space bilayer" where a large energy offset between nickel orbitals creates an incipient band situation. The key result is the prediction of robust s±-wave superconductivity in this system, driven by interorbital spin fluctuations. Its significance lies in revealing a distinct superconducting mechanism compared to related nickelates, expanding the theoretical framework for designing superconductors in multi-orbital materials with incipient bands.
+- **Authors**:  et al.
+- **arXiv**: []()
+- **Summary**: 
+
+### 
+
+- **Date**: ### **Weak integrability breaking perturbations in classical integrable models on the lattice**
+
+- **Date**: **2026-03-12**
+- **Authors**: Sara Vanovac, Catherine McCarthy, Federica Maria Surace, Olexei I. Motrunich et al.
+- **arXiv**: [2603.11712)]]([[arxiv:2603.11712](https://arxiv.org/abs/2603.11712)])
+- **Summary**: This paper addresses the challenge of systematically creating weak integrability-breaking perturbations in classical lattice models, which preserve quasi-conserved quantities. The authors develop a general framework and apply it to specific models like the Toda and Harmonic Oscillator chains, demonstrating that the cubic nonlinearity in the alpha-FPUT model is one such perturbation. A key result is the explicit construction of an infinite set of quasi-conserved quantities for the alpha-FPUT chain. This work is significant because it establishes a classical computational framework to study how weak integrability breaking leads to anomalously slow thermalization and transport, complementing difficult quantum simulations.
+- **Authors**:  et al.
+- **arXiv**: []()
+- **Summary**: 
+
+
+>>>>>>> 783f347779b40708b00e914eea6fd82e66a0f994
 <p align=right>(<a href=#Updated-on-20260330>back to top</a>)</p>
 
 ## Nonlinear Sciences
 
 |Publish Date|Title|Authors|arXiv|Summary|
 |---|---|---|---|---|
+<<<<<<< HEAD
 |**2026-03-30**|**The Hirota Identity for Hyperpfaffian $\tau$-Functions in Charge-$L$ Ensembles**|Christopher D. Sinclair|[[arxiv:2603.25866](https://arxiv.org/abs/2603.25866)]|This paper addresses the problem of understanding the mathematical structure of log-gas ensembles at specific inverse temperatures (\(\beta = L^2\)), which are known to be integrable but whose algebraic origin was not fully explicit. The method employs a confluent Vandermonde representation within an exterior algebra framework, interpreting particles as carrying an integer charge \(L\) and expressing partition functions as hyperpfaffians. The key result is that the momentum Plücker relations inherent to this algebra generate transport identities, which, when dynamic time variables are introduced, transform into Hirota bilinear equations for the \(\tau\)-functions. The significance of this work is that it provides a finite-dimensional, purely algebraic derivation of the integrable hierarchy for these ensembles, offering a clear analogue to the Sato Grassmannian formulation of integrable systems.|
 |**2026-03-30**|**Multivariable Painleve'-II equation: connection formulas for asymptotic solutions**|N. A. Sinitsyn|[[arxiv:2603.22470](https://arxiv.org/abs/2603.22470)]|This paper addresses the challenge of finding connection formulas for the asymptotic solutions of a multivariable generalization of the Painlevé-II equation, which includes symmetry-breaking terms. The method employs an integrable systems approach, constructing a Lax pair and using an asymptotically exact WKB technique that leverages an exact solution from the quantum Demkov-Osherov model. The key result is the derivation of precise connection formulas that link the asymptotic behaviors of solutions at different infinities. This work is significant as it provides exact scaling laws for physical phenomena like vacuum decay in phase transitions, moving beyond leading-order approximations to include crucial subdominant contributions.|
 |**2026-03-30**|**Bidirectional shallow-water wave turbulence**|Ashleigh Simonis, Sergey Nazarenko, Jalal Shatah, Yulin Pan|[[arxiv:2601.08072](https://arxiv.org/abs/2601.08072)]|This paper investigates the fundamental problem of how energy cascades in one-dimensional shallow-water wave systems, comparing an integrable model to a non-integrable one. The method involves deriving a wave kinetic equation (WKE) from the normal-form transformation of the governing Boussinesq equations to analyze resonant wave interactions. The key results are that the integrable model shows no resonant interactions but still exhibits spectral evolution via quasi-resonances, while the non-integrable model yields the first known 1-D shallow-water WKE, with numerical simulations confirming its predicted stationary power-law spectra. The significance lies in providing the first kinetic description of turbulence for 1-D shallow-water waves and revealing that quasi-resonant interactions can drive spectral evolution even in completely integrable systems.|
 |**2026-03-30**|**Integrability and Chaos via fractal analysis of Spectral Form Factors: Gaussian approximations and exact results**|Lorenzo Campos Venuti, Jovan Odavi\'c, Alioscia Hamma|[[arxiv:2505.05199](https://arxiv.org/abs/2505.05199)]|This paper investigates whether the chaotic behavior of a quantum many-body Hamiltonian can be characterized by analyzing its spectral form factor (SFF) as a fractal random walk. The method involves calculating the Hausdorff dimension of the walk's frontier, proposing that chaotic systems should exhibit a universal fractal dimension of 4/3, akin to a Wiener process. Key results show that numerical simulations for non-integrable models confirm this value, while integrable models yield a dimension of 1, with Bethe Ansatz solvable systems behaving like chaotic ones. The significance lies in establishing a direct, geometric link between spectral statistics and quantum chaos, providing a new fractal-based diagnostic that distinguishes between integrable and chaotic phases.|
 |**2026-03-30**|**Geometric aspects of non-homogeneous 1+0 operators**|Marta Dell'Atti, Alessandra Rizzo, Pierandrea Vergallo|[[arxiv:2503.21917](https://arxiv.org/abs/2503.21917)]|This paper addresses the problem of classifying and understanding compatible pairs of non-homogeneous Hamiltonian operators, which are sums of first-order and ultralocal terms, as seen in systems like the Korteweg-de Vries equation. The method involves developing tensorial criteria for compatibility and performing a systematic classification, first for two-component systems and preliminarily for three-component systems. The key results include a complete classification of Casimir functions for degenerate operators and the introduction of bi-pencils for non-degenerate pairs, linking them to Nijenhuis geometry. The significance lies in providing a rigorous geometric framework that advances the algebraic theory of integrable Hamiltonian systems and deepens the understanding of their operator structures.|
 
+=======
+### 
+
+- **Date**: ### **Hankel Determinants from Quadratic Orthogonal Pairs for Hyperelliptic Functions and Their Applications**
+
+- **Date**: **2026-03-12**
+- **Authors**: Xiang-Ke Chang, Jiyuan Liu et al.
+- **arXiv**: [2603.11670)]]([[arxiv:2603.11670](https://arxiv.org/abs/2603.11670)])
+- **Summary**: This paper addresses a persistent "mismatch" problem in the analysis of continued fractions and Hankel determinants derived from hyperelliptic curves. The authors resolve this by introducing a novel concept called quadratic orthogonal pairs for hyperelliptic functions. A key application of this method is providing a complete solution to the initial value problems for two discrete integrable systems: the bilateral Somos-4 and Somos-5 recurrences. The work is significant for advancing the theory of Hankel determinants and offering new tools for solving nonlinear integrable systems.
+- **Authors**:  et al.
+- **arXiv**: []()
+- **Summary**: 
+
+
+>>>>>>> 783f347779b40708b00e914eea6fd82e66a0f994
 <p align=right>(<a href=#Updated-on-20260330>back to top</a>)</p>
 
